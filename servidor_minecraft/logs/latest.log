@@ -1827,3 +1827,43 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [18Dec2024 04:30:04.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Full Moon in a Pocket]
 [18Dec2024 04:30:24.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [18Dec2024 04:31:10.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Diamonds!]
+[18Dec2024 04:32:09.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18Dec2024 04:32:25.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [+PARRY]
+[18Dec2024 04:34:05.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Amateur Archaeologist]
+[18Dec2024 04:34:39.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Dec2024 04:35:23.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was slain by Zombie
+[18Dec2024 04:36:33.365] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 04:36:48.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Tunnel Treasures]
+[18Dec2024 04:36:51.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18Dec2024 04:37:15.064] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Enstrafe is 250b48f2-6f22-404b-b390-9d31d0c7a690
+[18Dec2024 04:37:32.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enstrafe[/172.26.236.35:54443] logged in with entity id 87276 at (-89.5, 74.0, -119.5)
+[18Dec2024 04:37:32.098] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Enstrafe
+[18Dec2024 04:37:32.099] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Enstrafe
+[18Dec2024 04:37:32.099] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Enstrafe
+[18Dec2024 04:37:32.099] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Enstrafe
+[18Dec2024 04:37:32.101] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Enstrafe
+[18Dec2024 04:37:32.104] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Enstrafe
+[18Dec2024 04:37:32.104] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Enstrafe
+[18Dec2024 04:37:32.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enstrafe joined the game
+[18Dec2024 04:37:32.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enstrafe has made the advancement [Ice and Fire]
+[18Dec2024 04:37:32.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enstrafe has completed the challenge [The Undead]
+[18Dec2024 04:37:34.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Adventurous Eater]
+[18Dec2024 04:37:37.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Junior Summoner]
+[18Dec2024 04:38:03.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18Dec2024 04:38:14.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Chest Slayer]
+[18Dec2024 04:38:20.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[18Dec2024 04:38:37.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[18Dec2024 04:38:48.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uskilla: Set the weather to clear]
+[18Dec2024 04:39:07.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18Dec2024 04:39:29.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[18Dec2024 04:39:46.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Dec2024 04:40:06.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Dec2024 04:40:23.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[18Dec2024 04:40:40.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[18Dec2024 04:40:58.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
+[18Dec2024 04:41:05.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Deceived Hopes]
+[18Dec2024 04:41:17.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3729ms or 74 ticks behind
+[18Dec2024 04:41:37.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4623ms or 92 ticks behind
+[18Dec2024 04:41:41.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Disme A Dozen]
+[18Dec2024 04:41:56.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4446ms or 88 ticks behind
+[18Dec2024 04:42:15.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3572ms or 71 ticks behind
