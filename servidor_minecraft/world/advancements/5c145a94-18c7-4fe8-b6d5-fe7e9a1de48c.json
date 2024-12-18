@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-18 04:36:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2024-12-18 04:31:46 +0000"
@@ -608,6 +614,12 @@
   "cfm:recipes/decorations/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-18 04:04:12 +0000"
+    },
+    "done": true
+  },
+  "artifacts:adventurous_eater": {
+    "criteria": {
+      "eat_artifact": "2024-12-18 04:37:34 +0000"
     },
     "done": true
   },
@@ -1781,6 +1793,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-18 04:37:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-18 02:45:49 +0000"
@@ -2489,6 +2507,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2024-12-18 04:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-18 02:51:42 +0000"
@@ -2858,6 +2882,12 @@
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-18 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-18 04:47:28 +0000"
     },
     "done": true
   },
@@ -4039,6 +4069,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-18 04:17:05 +0000",
       "minecraft:spider": "2024-12-18 04:36:03 +0000",
+      "minecraft:cave_spider": "2024-12-18 04:39:40 +0000",
       "minecraft:zombie": "2024-12-18 02:49:53 +0000"
     },
     "done": false
@@ -4502,7 +4533,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-18 03:52:13 +0000",
-      "opened_chest": "2024-12-18 03:14:02 +0000"
+      "opened_chest": "2024-12-18 03:14:02 +0000",
+      "opened_cart": "2024-12-18 04:36:48 +0000"
     },
     "done": false
   },
@@ -4617,6 +4649,12 @@
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-18 04:07:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-12-18 04:46:55 +0000"
     },
     "done": true
   },
@@ -4875,6 +4913,12 @@
   "ars_nouveau:recipes/misc/ritual_awakening": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-18 04:47:28 +0000"
     },
     "done": true
   },
@@ -6114,6 +6158,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-18 04:41:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2024-12-18 04:06:39 +0000"
@@ -6860,6 +6910,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-18 04:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-18 04:47:28 +0000"
     },
     "done": true
   },
