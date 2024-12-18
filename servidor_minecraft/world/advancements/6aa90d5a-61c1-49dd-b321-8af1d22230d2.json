@@ -923,6 +923,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_grill": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
@@ -1181,6 +1187,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_table": {
     "criteria": {
       "has_planks": "2024-12-18 04:06:05 +0000"
@@ -1220,6 +1232,12 @@
   "cfm:recipes/decorations/red_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
     },
     "done": true
   },
@@ -1343,6 +1361,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_grill": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
@@ -1364,6 +1388,12 @@
   "cfm:recipes/decorations/gray_sofa": {
     "criteria": {
       "has_wool": "2024-12-18 04:08:01 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
     },
     "done": true
   },
@@ -1409,9 +1439,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-18 06:07:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
     },
     "done": true
   },
@@ -2186,6 +2228,12 @@
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
     },
     "done": true
   },
@@ -3317,6 +3365,7 @@
       "cooked_beef": "2024-12-18 03:55:13 +0000",
       "baked_potato": "2024-12-18 05:31:15 +0000",
       "cooked_cod": "2024-12-18 04:03:43 +0000",
+      "bread": "2024-12-18 06:37:45 +0000",
       "melon_slice": "2024-12-18 04:45:58 +0000",
       "cooked_chicken": "2024-12-18 05:02:07 +0000",
       "carrot": "2024-12-18 05:47:09 +0000"
@@ -3638,6 +3687,12 @@
   "cfm:recipes/decorations/brown_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-18 04:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 06:44:28 +0000"
     },
     "done": true
   },
@@ -4872,6 +4927,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/source_jar": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
@@ -5166,9 +5227,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/purple_sbed": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-18 06:46:25 +0000"
     },
     "done": true
   },
@@ -5394,6 +5467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 06:44:28 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/starlit_spear": {
     "criteria": {
       "has_item": "2024-12-18 05:19:05 +0000"
@@ -5598,6 +5677,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2024-12-18 06:11:15 +0000"
@@ -5718,6 +5803,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-18 04:12:14 +0000"
@@ -5805,6 +5896,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-18 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-12-18 06:45:08 +0000"
     },
     "done": true
   },
@@ -6261,6 +6358,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-18 04:04:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-18 06:45:08 +0000"
     },
     "done": true
   },
@@ -6731,6 +6834,7 @@
       "minecraft:lukewarm_ocean": "2024-12-18 05:09:04 +0000",
       "minecraft:river": "2024-12-18 03:48:37 +0000",
       "minecraft:stony_shore": "2024-12-18 05:10:42 +0000",
+      "minecraft:dripstone_caves": "2024-12-18 06:44:00 +0000",
       "minecraft:forest": "2024-12-18 03:56:56 +0000",
       "minecraft:jungle": "2024-12-18 04:43:29 +0000",
       "minecraft:ocean": "2024-12-18 03:55:36 +0000",

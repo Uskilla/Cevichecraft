@@ -1763,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-18 06:37:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-18 02:45:49 +0000"
@@ -3362,6 +3368,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-18 02:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2024-12-18 06:37:41 +0000"
     },
     "done": true
   },

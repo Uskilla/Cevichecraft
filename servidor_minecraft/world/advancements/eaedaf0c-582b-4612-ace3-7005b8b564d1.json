@@ -1786,6 +1786,7 @@
       "minecraft:sunflower_plains": "2024-12-18 05:31:17 +0000",
       "minecraft:birch_forest": "2024-12-18 04:22:00 +0000",
       "minecraft:bamboo_jungle": "2024-12-18 01:31:12 +0000",
+      "minecraft:savanna_plateau": "2024-12-18 06:35:35 +0000",
       "minecraft:beach": "2024-12-18 00:49:13 +0000",
       "minecraft:dark_forest": "2024-12-18 00:48:46 +0000",
       "minecraft:sparse_jungle": "2024-12-18 03:15:55 +0000",
@@ -1796,6 +1797,7 @@
       "minecraft:ocean": "2024-12-18 04:21:34 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 02:46:24 +0000",
       "minecraft:meadow": "2024-12-18 04:45:17 +0000",
+      "minecraft:savanna": "2024-12-18 06:40:16 +0000",
       "minecraft:plains": "2024-12-18 03:15:34 +0000"
     },
     "done": false
@@ -2525,6 +2527,12 @@
   "aether:recipes/misc/aether_gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_gloves": "2024-12-18 06:18:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-18 06:35:10 +0000"
     },
     "done": true
   },
@@ -4217,6 +4225,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-18 03:11:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-18 06:45:14 +0000"
     },
     "done": true
   },

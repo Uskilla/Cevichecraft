@@ -2888,6 +2888,12 @@
     },
     "done": true
   },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2024-12-18 06:42:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2024-12-18 03:29:39 +0000"
@@ -2999,6 +3005,12 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2024-12-18 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 06:41:43 +0000"
     },
     "done": true
   },
@@ -4476,6 +4488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 06:41:43 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/starlit_spear": {
     "criteria": {
       "has_item": "2024-12-18 03:32:04 +0000"
@@ -4827,6 +4845,12 @@
   "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
     "criteria": {
       "has_journal": "2024-12-18 03:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-18 06:42:07 +0000"
     },
     "done": true
   },
