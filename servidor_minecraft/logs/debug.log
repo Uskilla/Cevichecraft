@@ -17276,3 +17276,72 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [18Dec2024 06:45:14.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has reached the goal [Exorcism]
 [18Dec2024 06:46:27.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 06:46:27.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:46:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [A True Source of Evil]
+[18Dec2024 06:46:41.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18Dec2024 06:47:01.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5123ms or 102 ticks behind
+[18Dec2024 06:48:03.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Jungle Fliers]
+[18Dec2024 06:48:07.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.7460984954590985
+[18Dec2024 06:48:07.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.7902060557914282
+[18Dec2024 06:48:19.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.593900236681142
+[18Dec2024 06:48:28.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.819942910738617
+[18Dec2024 06:48:28.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.819942910738617
+[18Dec2024 06:48:28.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.8290525374229722
+[18Dec2024 06:48:36.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.8278045625441118
+[18Dec2024 06:48:36.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.8299092287985751
+[18Dec2024 06:48:40.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.5938421533441356
+[18Dec2024 06:48:43.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.8165935772104637
+[18Dec2024 06:48:44.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.48566329912524786
+[18Dec2024 06:48:46.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.48566332168251064
+[18Dec2024 06:49:42.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.4793441246068556
+[18Dec2024 06:49:42.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.6463232278710486
+[18Dec2024 06:49:43.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.6670315271218774
+[18Dec2024 06:49:44.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.788672756405499
+[18Dec2024 06:49:45.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.8146132002606234
+[18Dec2024 06:49:46.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.7102761470957242
+[18Dec2024 06:49:48.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.2606611474193632
+[18Dec2024 06:49:48.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.5908967314177612
+[18Dec2024 06:49:49.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.6265413501670433
+[18Dec2024 06:49:50.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.2987312520393714
+[18Dec2024 06:49:50.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.7257495210047289
+[18Dec2024 06:49:51.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Aleslug) moved wrongly! 0.28512121582886907
+[18Dec2024 06:51:12.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [The Wind Darkening]
+[18Dec2024 06:51:34.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:51:34.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:52:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Alex's Caves]
+[18Dec2024 06:52:51.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.42115123239216135
+[18Dec2024 06:52:52.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.32789383525669547
+[18Dec2024 06:54:50.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Acquire Hardware]
+[18Dec2024 06:55:01.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Uskilla> zz
+[18Dec2024 06:55:50.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Lorem Ipsum]
+[18Dec2024 06:56:07.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.3872183107176058
+[18Dec2024 06:56:07.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.5929565980625843
+[18Dec2024 06:56:08.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [The Journey Begins]
+[18Dec2024 06:56:10.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.66704822833527
+[18Dec2024 06:56:11.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.80157543735334
+[18Dec2024 06:56:12.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.8352236960844808
+[18Dec2024 06:56:12.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.7995874934635326
+[18Dec2024 06:56:13.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.6922527996998264
+[18Dec2024 06:56:14.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.7747134850959866
+[18Dec2024 06:56:16.394] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 7377 -56 5844 in 1s
+[18Dec2024 06:56:16.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.4013763584475824
+[18Dec2024 06:56:16.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.4013763584475824
+[18Dec2024 06:56:16.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.4013763584475824
+[18Dec2024 06:56:17.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.6217931656655329
+[18Dec2024 06:56:18.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.8063264523466173
+[18Dec2024 06:56:19.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.5262540081998737
+[18Dec2024 06:56:24.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.6118321477395575
+[18Dec2024 06:56:25.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.6681672424108156
+[18Dec2024 06:56:27.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.8057954215275582
+[18Dec2024 06:56:27.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.8188735446292562
+[18Dec2024 06:56:31.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.40459532365891787
+[18Dec2024 06:56:32.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.6163303611389968
+[18Dec2024 06:56:32.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.657080419112954
+[18Dec2024 06:56:32.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.657080419112954
+[18Dec2024 06:56:32.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.6872772471459959
+[18Dec2024 06:56:33.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.7783459081296188
+[18Dec2024 06:56:34.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:56:34.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:56:34.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.8254008330835317
+[18Dec2024 06:56:34.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.8286376996046719
+[18Dec2024 06:56:38.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.6672337887932569
+[18Dec2024 06:56:39.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.5188381990054595
