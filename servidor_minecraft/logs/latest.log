@@ -3612,3 +3612,67 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [18Dec2024 05:56:34.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Take Aim]
 [18Dec2024 05:56:49.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Dark Metallurgy]
 [18Dec2024 06:01:12.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Uskilla> 834 -658
+[18Dec2024 06:07:44.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Suit Up]
+[18Dec2024 06:08:57.608] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jose_cl13 is bce4947b-f7ee-43e9-ad77-b8aac5d638fa
+[18Dec2024 06:09:05.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jose_cl13[/172.26.115.93:60997] logged in with entity id 173320 at (-89.5, 65.0, -137.5)
+[18Dec2024 06:09:05.887] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jose_cl13
+[18Dec2024 06:09:05.887] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jose_cl13
+[18Dec2024 06:09:05.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jose_cl13
+[18Dec2024 06:09:05.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jose_cl13
+[18Dec2024 06:09:05.890] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jose_cl13
+[18Dec2024 06:09:05.894] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jose_cl13
+[18Dec2024 06:09:05.895] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jose_cl13
+[18Dec2024 06:09:05.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 joined the game
+[18Dec2024 06:09:06.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Ice and Fire]
+[18Dec2024 06:09:06.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has completed the challenge [The Undead]
+[18Dec2024 06:09:26.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=64, z=-138}
+[18Dec2024 06:09:27.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=64, z=-138}
+[18Dec2024 06:10:09.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=64, z=-127} BlockPos{x=-96, y=64, z=-128}
+[18Dec2024 06:10:38.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uskilla: Teleported jose_cl13 to Uskilla]
+[18Dec2024 06:10:45.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Suit Up]
+[18Dec2024 06:11:15.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Diamonds!]
+[18Dec2024 06:11:46.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement ['X' Marks the Spot]
+[18Dec2024 06:11:47.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Ice Bucket Challenge]
+[18Dec2024 06:11:57.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Ice Bucket Challenge]
+[18Dec2024 06:12:04.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug was slain by Fire Dragon
+[18Dec2024 06:12:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko burned to death
+[18Dec2024 06:12:56.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was turned into KFC by a dragon
+[18Dec2024 06:13:07.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla was slain by Fire Dragon
+[18Dec2024 06:13:30.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uskilla: Teleported jose_cl13 to Uskilla]
+[18Dec2024 06:13:31.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was slain by Fire Dragon
+[18Dec2024 06:13:34.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uskilla: Teleported jose_cl13 to Uskilla]
+[18Dec2024 06:13:51.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug was slain by Fire Dragon
+[18Dec2024 06:14:04.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Dragonslayer]
+[18Dec2024 06:14:13.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was slain by Fire Dragon
+[18Dec2024 06:15:22.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Stone Age]
+[18Dec2024 06:15:41.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Getting an Upgrade]
+[18Dec2024 06:16:44.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was slain by Fire Dragon
+[18Dec2024 06:17:01.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was turned into KFC by a dragon
+[18Dec2024 06:17:11.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Take Aim]
+[18Dec2024 06:17:52.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Dragonslayer]
+[18Dec2024 06:20:06.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uskilla: Set own game mode to Spectator Mode]
+[18Dec2024 06:20:28.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Penteconter]
+[18Dec2024 06:21:13.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Close Quarters]
+[18Dec2024 06:21:17.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Monster Hunter]
+[18Dec2024 06:21:31.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uskilla: Set own game mode to Survival Mode]
+[18Dec2024 06:21:39.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Who You Gonna Call?]
+[18Dec2024 06:22:25.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was slain by Ghost
+[18Dec2024 06:22:51.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jose_cl13 lost connection: Disconnected
+[18Dec2024 06:22:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 left the game
+[18Dec2024 06:23:34.077] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jose_cl13 is bce4947b-f7ee-43e9-ad77-b8aac5d638fa
+[18Dec2024 06:23:42.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jose_cl13[/172.26.115.93:55543] logged in with entity id 180703 at (843.4139892730057, 64.0, -539.6578113997901)
+[18Dec2024 06:23:42.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jose_cl13
+[18Dec2024 06:23:42.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jose_cl13
+[18Dec2024 06:23:42.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jose_cl13
+[18Dec2024 06:23:42.332] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jose_cl13
+[18Dec2024 06:23:42.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jose_cl13
+[18Dec2024 06:23:42.336] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jose_cl13
+[18Dec2024 06:23:42.336] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jose_cl13
+[18Dec2024 06:23:42.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 joined the game
+[18Dec2024 06:23:48.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has completed the challenge [Unfunny dad jokes]
+[18Dec2024 06:23:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [First big catch of the month!]
+[18Dec2024 06:24:17.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was shot by Bonescaller
+[18Dec2024 06:24:29.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has completed the challenge [I'm not sugar coating it]
+[18Dec2024 06:24:36.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has completed the challenge [Yo mama so fat, she digests her fetuses]
+[18Dec2024 06:25:35.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Dark Metallurgy]
+[18Dec2024 06:25:37.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has completed the challenge [Well, that was disgusting]

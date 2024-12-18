@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-18 06:19:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-18 04:07:06 +0000"
@@ -1256,6 +1262,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-12-18 05:04:51 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 06:20:28 +0000"
     },
     "done": true
   },
@@ -3686,6 +3698,12 @@
   "ars_nouveau:recipes/misc/conjuration_essence_to_end_stone": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-12-18 06:17:55 +0000"
     },
     "done": true
   },
@@ -6766,6 +6784,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2024-12-18 06:18:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-18 02:44:23 +0000"
@@ -7595,6 +7619,7 @@
       "minecraft:jungle": "2024-12-18 03:32:46 +0000",
       "minecraft:ocean": "2024-12-18 03:22:33 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 03:09:03 +0000",
+      "minecraft:meadow": "2024-12-18 06:20:09 +0000",
       "minecraft:savanna": "2024-12-18 03:35:32 +0000",
       "minecraft:plains": "2024-12-18 03:35:17 +0000"
     },

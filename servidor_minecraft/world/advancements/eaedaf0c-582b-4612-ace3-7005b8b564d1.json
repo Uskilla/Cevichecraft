@@ -1790,6 +1790,7 @@
       "minecraft:dark_forest": "2024-12-18 00:48:46 +0000",
       "minecraft:sparse_jungle": "2024-12-18 03:15:55 +0000",
       "minecraft:river": "2024-12-18 00:49:12 +0000",
+      "minecraft:dripstone_caves": "2024-12-18 06:20:54 +0000",
       "minecraft:forest": "2024-12-18 02:48:23 +0000",
       "minecraft:jungle": "2024-12-18 03:16:01 +0000",
       "minecraft:ocean": "2024-12-18 04:21:34 +0000",
@@ -2485,6 +2486,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_cooler": {
     "criteria": {
       "has_chest": "2024-12-18 03:34:26 +0000"
@@ -2515,6 +2522,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2024-12-18 06:18:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2024-12-18 04:55:31 +0000"
@@ -2524,6 +2537,18 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-18 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-18 06:06:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-18 06:14:59 +0000"
     },
     "done": true
   },
@@ -2683,6 +2708,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_gloves": "2024-12-18 05:43:53 +0000"
@@ -2710,6 +2741,12 @@
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-12-18 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -2797,6 +2834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-18 02:52:00 +0000"
@@ -2818,6 +2861,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-18 04:55:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -2896,6 +2945,12 @@
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2024-12-18 04:13:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-18 06:15:04 +0000"
     },
     "done": true
   },
@@ -3067,9 +3122,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-18 06:06:12 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:verglas": {
     "criteria": {
       "item": "2024-12-18 03:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -3115,9 +3182,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-18 06:19:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-18 03:34:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-18 06:14:59 +0000"
     },
     "done": true
   },
@@ -3232,6 +3311,12 @@
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-18 02:47:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -3352,6 +3437,12 @@
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 06:19:26 +0000"
     },
     "done": true
   },
@@ -3511,6 +3602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-18 02:52:00 +0000"
@@ -3625,6 +3722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-18 02:52:00 +0000"
@@ -3646,6 +3749,12 @@
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2024-12-18 06:18:45 +0000"
     },
     "done": true
   },
@@ -3805,6 +3914,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-18 06:21:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-18 02:47:10 +0000"
@@ -3904,6 +4019,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2024-12-18 06:16:20 +0000"
     },
     "done": true
   },
@@ -4153,9 +4274,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2024-12-18 06:16:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-18 02:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -4186,6 +4319,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -4231,6 +4370,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-12-18 06:17:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-18 03:34:26 +0000"
@@ -4259,6 +4404,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-18 04:25:23 +0000",
       "cooked_beef": "2024-12-18 03:35:31 +0000",
+      "baked_potato": "2024-12-18 06:15:09 +0000",
       "bread": "2024-12-18 04:11:05 +0000",
       "rotten_flesh": "2024-12-18 05:48:45 +0000"
     },
@@ -4276,6 +4422,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-18 06:14:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-18 06:15:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 04:42:13 +0000"
@@ -4285,6 +4443,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-18 02:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-18 06:19:32 +0000"
     },
     "done": true
   },
@@ -4330,6 +4494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2024-12-18 02:46:42 +0000"
@@ -4339,6 +4509,12 @@
   "aether:recipes/combat/iron_pendant": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -4453,6 +4629,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-18 03:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-18 06:19:25 +0000"
     },
     "done": true
   },
@@ -4618,6 +4800,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-18 06:14:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-18 05:42:14 +0000"
@@ -4660,6 +4848,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-12-18 06:19:24 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2024-12-18 02:47:16 +0000"
@@ -4681,6 +4875,18 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-12-18 04:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -4708,9 +4914,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
+    "criteria": {
+      "has_item": "2024-12-18 06:19:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 04:42:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -4741,6 +4959,18 @@
   "cfm:recipes/decorations/yellow_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-18 06:19:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-18 06:14:59 +0000"
     },
     "done": true
   },
@@ -4841,9 +5071,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-18 06:19:25 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
     "criteria": {
       "has_item": "2024-12-18 03:07:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-18 06:14:59 +0000"
     },
     "done": true
   },
@@ -5045,6 +5287,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2024-12-18 04:43:15 +0000"
@@ -5069,6 +5317,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-18 06:19:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
@@ -5090,6 +5344,12 @@
   "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-18 02:46:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-18 06:14:59 +0000"
     },
     "done": true
   },
@@ -5237,6 +5497,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-18 06:23:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_mail_box": {
     "criteria": {
       "has_chest": "2024-12-18 03:34:26 +0000"
@@ -5294,6 +5560,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-18 06:16:20 +0000"
     },
     "done": true
   },
@@ -5375,6 +5647,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-18 06:14:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 02:49:04 +0000"
@@ -5450,6 +5728,12 @@
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-18 03:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -5609,6 +5893,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-18 06:14:59 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
       "has_item": "2024-12-18 02:49:04 +0000"
@@ -5699,9 +5989,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-18 06:14:59 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
     "criteria": {
       "has_arcane_crystal": "2024-12-18 03:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-18 06:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -5804,6 +6112,12 @@
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2024-12-18 02:47:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-18 06:06:12 +0000"
     },
     "done": true
   },
@@ -5987,6 +6301,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-18 06:14:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-12-18 03:30:48 +0000"
@@ -6002,6 +6322,18 @@
   "cfm:recipes/decorations/orange_grill": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-18 06:19:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2024-12-18 06:18:45 +0000"
     },
     "done": true
   },
@@ -6104,6 +6436,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-18 02:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 06:19:26 +0000"
     },
     "done": true
   },
