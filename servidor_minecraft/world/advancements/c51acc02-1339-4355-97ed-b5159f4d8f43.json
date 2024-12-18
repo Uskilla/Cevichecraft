@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-18 06:25:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/clear_deny": {
     "criteria": {
       "has_journal": "2024-12-18 03:08:02 +0000"
@@ -3382,6 +3388,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-18 06:34:31 +0000",
       "minecraft:skeleton": "2024-12-18 04:14:28 +0000",
       "minecraft:creeper": "2024-12-18 04:24:31 +0000",
       "minecraft:zombie": "2024-12-18 04:11:24 +0000"
@@ -5567,6 +5574,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-18 03:10:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2024-12-18 06:34:34 +0000"
     },
     "done": true
   },

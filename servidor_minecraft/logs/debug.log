@@ -17222,3 +17222,29 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [18Dec2024 06:25:05.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 06:25:35.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Dark Metallurgy]
 [18Dec2024 06:25:37.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has completed the challenge [Well, that was disgusting]
+[18Dec2024 06:26:04.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has completed the challenge [Cannibal]
+[18Dec2024 06:26:14.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 fell from a high place
+[18Dec2024 06:26:49.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla was slain by Lait_Estrok
+[18Dec2024 06:27:34.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Gravedigger]
+[18Dec2024 06:27:40.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [False Water]
+[18Dec2024 06:27:42.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was slain by Dread Hound
+[18Dec2024 06:27:58.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GhostPlayerEntity['Uskilla'/182312, l='ServerLevel[world]', x=879.54, y=68.00, z=-676.77] died: Uskilla was shot by Skeleton
+[18Dec2024 06:29:36.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Dec2024 06:29:36.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[18Dec2024 06:29:44.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has completed the challenge [Yo mama so fat, she digests her fetuses]
+[18Dec2024 06:29:44.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [First big catch of the month!]
+[18Dec2024 06:30:05.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:30:05.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:30:12.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 withered away
+[18Dec2024 06:30:28.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [My Bald Satanic Goth Girl Friend]
+[18Dec2024 06:30:28.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [First big catch of the month!]
+[18Dec2024 06:31:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Barrel Booty]
+[18Dec2024 06:33:46.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Close Quarters]
+[18Dec2024 06:34:18.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Close Quarters]
+[18Dec2024 06:34:37.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Voluntary Exile]
+[18Dec2024 06:35:07.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:35:07.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:35:10.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Dec2024 06:35:28.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2860ms or 57 ticks behind
+[18Dec2024 06:35:47.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18Dec2024 06:36:05.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
