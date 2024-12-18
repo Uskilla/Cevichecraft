@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2024-12-18 05:19:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
@@ -893,6 +899,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-18 05:19:00 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
@@ -932,6 +944,12 @@
   "cfm:recipes/decorations/pink_grill": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2024-12-18 05:19:05 +0000"
     },
     "done": true
   },
@@ -1433,6 +1451,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2024-12-18 05:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2024-12-18 04:49:47 +0000"
@@ -1793,6 +1817,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-18 05:11:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-18 03:49:43 +0000"
@@ -1904,6 +1934,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2024-12-18 05:19:05 +0000"
     },
     "done": true
   },
@@ -2775,6 +2811,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2024-12-18 05:19:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
@@ -2919,7 +2961,8 @@
       "minecraft:spider": "2024-12-18 04:21:04 +0000",
       "minecraft:creeper": "2024-12-18 04:19:05 +0000",
       "minecraft:enderman": "2024-12-18 05:06:31 +0000",
-      "minecraft:zombie": "2024-12-18 03:52:40 +0000"
+      "minecraft:zombie": "2024-12-18 03:52:40 +0000",
+      "minecraft:drowned": "2024-12-18 05:17:46 +0000"
     },
     "done": false
   },
@@ -3115,6 +3158,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2024-12-18 05:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:58:31 +0000"
@@ -3124,6 +3173,12 @@
   "ars_nouveau:recipes/misc/vitalic_sourcelink": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2024-12-18 05:19:05 +0000"
     },
     "done": true
   },
@@ -3154,6 +3209,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_moss_block": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-12-18 05:19:05 +0000"
     },
     "done": true
   },
@@ -3195,6 +3256,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-18 05:19:00 +0000",
       "opened_chest": "2024-12-18 03:57:57 +0000"
     },
     "done": false
@@ -3430,6 +3492,12 @@
   "ars_nouveau:recipes/misc/mimic_scroll": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2024-12-18 05:19:05 +0000"
     },
     "done": true
   },
@@ -3853,6 +3921,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2024-12-18 05:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2024-12-18 05:00:10 +0000"
@@ -4018,6 +4092,12 @@
   "ars_nouveau:recipes/misc/clear_allow": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2024-12-18 05:19:05 +0000"
     },
     "done": true
   },
@@ -4549,6 +4629,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 05:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-18 04:06:05 +0000"
@@ -4761,10 +4847,12 @@
       "minecraft:sparse_jungle": "2024-12-18 04:44:17 +0000",
       "minecraft:lukewarm_ocean": "2024-12-18 05:09:04 +0000",
       "minecraft:river": "2024-12-18 03:48:37 +0000",
+      "minecraft:stony_shore": "2024-12-18 05:10:42 +0000",
       "minecraft:forest": "2024-12-18 03:56:56 +0000",
       "minecraft:jungle": "2024-12-18 04:43:29 +0000",
       "minecraft:ocean": "2024-12-18 03:55:36 +0000",
       "minecraft:windswept_savanna": "2024-12-18 04:44:15 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-18 05:16:02 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 03:54:46 +0000",
       "minecraft:savanna": "2024-12-18 04:58:51 +0000",
       "minecraft:plains": "2024-12-18 04:47:18 +0000"
