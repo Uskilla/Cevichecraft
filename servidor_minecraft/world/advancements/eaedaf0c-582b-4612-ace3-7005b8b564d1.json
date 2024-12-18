@@ -2545,6 +2545,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2024-12-18 05:23:11 +0000"
@@ -2677,9 +2683,21 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-18 05:43:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
     },
     "done": true
   },
@@ -2785,6 +2803,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-12-18 02:49:04 +0000"
@@ -2845,6 +2869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-18 03:08:39 +0000"
@@ -2884,6 +2914,12 @@
   "cfm:recipes/decorations/white_grill": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
     },
     "done": true
   },
@@ -3082,6 +3118,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-18 03:34:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
     },
     "done": true
   },
@@ -3799,6 +3841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
@@ -3844,6 +3892,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
     },
     "done": true
   },
@@ -3922,6 +3976,12 @@
   "cfm:recipes/decorations/stripped_birch_table": {
     "criteria": {
       "has_planks": "2024-12-18 02:46:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
     },
     "done": true
   },
@@ -4129,6 +4189,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-18 03:30:31 +0000"
@@ -4193,7 +4259,8 @@
     "criteria": {
       "cooked_mutton": "2024-12-18 04:25:23 +0000",
       "cooked_beef": "2024-12-18 03:35:31 +0000",
-      "bread": "2024-12-18 04:11:05 +0000"
+      "bread": "2024-12-18 04:11:05 +0000",
+      "rotten_flesh": "2024-12-18 05:48:45 +0000"
     },
     "done": false
   },
@@ -4290,6 +4357,12 @@
   "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
       "has_log": "2024-12-18 02:46:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
     },
     "done": true
   },
@@ -4542,6 +4615,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
     },
     "done": true
   },
@@ -4912,6 +4991,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-18 02:52:00 +0000"
@@ -5116,6 +5201,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-18 03:34:26 +0000"
@@ -5221,6 +5318,18 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-18 04:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
     },
     "done": true
   },
@@ -5404,6 +5513,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 03:54:18 +0000"
@@ -5524,6 +5645,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-18 05:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-18 02:49:53 +0000"
@@ -5617,6 +5744,24 @@
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-18 02:52:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-18 05:43:53 +0000"
     },
     "done": true
   },
@@ -5989,6 +6134,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-18 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:42:14 +0000"
     },
     "done": true
   },

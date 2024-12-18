@@ -3603,3 +3603,12 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [18Dec2024 05:41:19.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Spooky Scary Skeleton]
 [18Dec2024 05:43:29.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Source of Evil]
 [18Dec2024 05:44:16.588] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 05:45:37.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug was slain by Acolyte
+[18Dec2024 05:47:33.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Aleslug) moved too quickly! 10.171198333610022,2.0,-0.47635411383350856
+[18Dec2024 05:47:33.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Aleslug) moved too quickly! 10.758982655823417,2.0,-0.5496575506263071
+[18Dec2024 05:47:33.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Aleslug) moved too quickly! 11.347530117049956,3.0,-0.6205480223026143
+[18Dec2024 05:49:19.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Uskilla> 834 -658
+[18Dec2024 05:56:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Junior Summoner]
+[18Dec2024 05:56:34.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Take Aim]
+[18Dec2024 05:56:49.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Dark Metallurgy]
+[18Dec2024 06:01:12.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Uskilla> 834 -658
