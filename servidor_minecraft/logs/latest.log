@@ -626,3 +626,12 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [18Dec2024 03:25:24.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uskilla: Gamerule playersSleepingPercentage is now set to: 30]
 [18Dec2024 03:25:33.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Who You Gonna Call?]
 [18Dec2024 03:29:35.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Mine? Mine? Mine?]
+[18Dec2024 03:31:24.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Barrel Booty]
+[18Dec2024 03:31:43.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement ['X' Marks the Spot]
+[18Dec2024 03:31:47.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [A Little Hot Rod Red]
+[18Dec2024 03:32:04.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Light Up The World!]
+[18Dec2024 03:33:45.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Sweet Dreams]
+[18Dec2024 03:36:20.486] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 03:36:20.486] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 03:36:21.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Gravedigger]
+[18Dec2024 03:38:15.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Getting an Upgrade]
