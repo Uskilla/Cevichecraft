@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-18 03:09:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-18 02:43:57 +0000"
@@ -80,6 +86,12 @@
   "ars_nouveau:recipes/misc/ritual_fertility": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_slab": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-18 03:11:51 +0000"
     },
     "done": true
   },
@@ -173,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -191,9 +209,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/green_archwood_wood": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
     },
     "done": true
   },
@@ -212,6 +242,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-18 02:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
     },
     "done": true
   },
@@ -260,6 +296,12 @@
   "ars_nouveau:recipes/building_blocks/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-18 03:09:10 +0000"
     },
     "done": true
   },
@@ -371,6 +413,18 @@
     },
     "done": true
   },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2024-12-18 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-18 03:00:11 +0000"
@@ -440,6 +494,12 @@
   "cfm:recipes/decorations/stripped_birch_chair": {
     "criteria": {
       "has_planks": "2024-12-18 02:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-18 03:09:10 +0000"
     },
     "done": true
   },
@@ -527,6 +587,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-18 03:17:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wixie_hat": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -611,6 +677,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/sanity_meter": {
+    "criteria": {
+      "has_ingots/gold": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-18 02:43:57 +0000"
@@ -629,6 +701,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2024-12-18 02:50:35 +0000"
@@ -644,6 +722,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
     "criteria": {
       "has_item": "2024-12-18 02:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 03:24:53 +0000"
     },
     "done": true
   },
@@ -767,6 +851,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_door": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-18 03:11:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-18 02:50:39 +0000"
@@ -857,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -896,6 +992,18 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-18 03:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-18 03:12:16 +0000"
     },
     "done": true
   },
@@ -941,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 03:24:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -956,6 +1070,12 @@
   "cfm:recipes/decorations/light_blue_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 02:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-18 03:09:10 +0000"
     },
     "done": true
   },
@@ -1022,6 +1142,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2024-12-18 03:09:10 +0000"
     },
     "done": true
   },
@@ -1136,6 +1262,12 @@
   "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-18 02:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-18 03:12:16 +0000"
     },
     "done": true
   },
@@ -1283,6 +1415,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2024-12-18 03:09:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/alchemical_sourcelink": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -1352,6 +1490,12 @@
   "ars_nouveau:recipes/misc/archwood_trapdoor": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
     },
     "done": true
   },
@@ -1427,6 +1571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-18 03:14:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -1490,6 +1640,18 @@
   "ars_nouveau:recipes/building_blocks/archwood_pressure_plate": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-18 03:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-18 03:14:28 +0000"
     },
     "done": true
   },
@@ -1601,6 +1763,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-18 03:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 02:50:35 +0000"
@@ -1688,6 +1856,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/deorum_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
     },
     "done": true
   },
@@ -1853,6 +2027,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-18 03:09:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-18 02:48:44 +0000"
@@ -1949,6 +2129,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-18 03:14:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -1973,6 +2159,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-18 03:25:33 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/experience_gem": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -1991,11 +2183,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2024-12-18 02:50:35 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-18 03:10:27 +0000"
+    },
+    "done": false
   },
   "ars_elemental:recipes/misc/spore_blossom_up": {
     "criteria": {
@@ -2009,9 +2213,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2024-12-18 03:15:56 +0000"
     },
     "done": true
   },
@@ -2123,6 +2339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -2132,6 +2354,12 @@
   "ars_nouveau:recipes/misc/magelight_torch": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
     },
     "done": true
   },
@@ -2168,6 +2396,12 @@
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-18 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/edelwood_bucket": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:11:51 +0000"
     },
     "done": true
   },
@@ -2459,6 +2693,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/gold": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_button": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -2480,6 +2720,12 @@
   "cfm:recipes/decorations/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-18 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_fence_gate": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-18 03:11:51 +0000"
     },
     "done": true
   },
@@ -2657,6 +2903,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2024-12-18 03:10:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-12-18 02:43:57 +0000"
@@ -2666,6 +2918,12 @@
   "ars_nouveau:recipes/building_blocks/archwood_door": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
     },
     "done": true
   },
@@ -2732,6 +2990,24 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-18 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-18 03:14:02 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-18 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-18 03:09:10 +0000"
     },
     "done": true
   },
@@ -2891,6 +3167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-18 03:09:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -2912,6 +3194,18 @@
   "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-18 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_trapdoor": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-18 03:11:51 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_stairs": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-18 03:11:51 +0000"
     },
     "done": true
   },
@@ -2939,6 +3233,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/transportation/edelwood_boat": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-18 03:11:51 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mimic_scroll": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -2960,6 +3260,12 @@
   "ars_nouveau:recipes/misc/redstone_relay": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 03:24:53 +0000"
     },
     "done": true
   },
@@ -3092,6 +3398,12 @@
   "ars_nouveau:recipes/misc/item_detector": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/arcane_edelwood_planks": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-18 03:11:51 +0000"
     },
     "done": true
   },
@@ -3239,6 +3551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-18 03:09:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2024-12-18 02:50:35 +0000"
@@ -3275,6 +3593,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-18 03:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 02:50:35 +0000"
@@ -3284,6 +3608,18 @@
   "ars_nouveau:recipes/misc/arcane_pedestal": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-18 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-18 03:09:10 +0000"
     },
     "done": true
   },
@@ -3326,6 +3662,12 @@
   "ars_nouveau:recipes/misc/ritual_scrying": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/deorum_lantern": {
+    "criteria": {
+      "has_torch": "2024-12-18 03:18:32 +0000"
     },
     "done": true
   },
@@ -3515,6 +3857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 03:24:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/repository": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -3563,6 +3911,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_fence": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-18 03:11:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-18 02:50:39 +0000"
@@ -3596,6 +3950,12 @@
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-18 02:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-18 03:10:27 +0000"
     },
     "done": true
   },
@@ -3833,6 +4193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-18 03:09:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 02:50:35 +0000"
@@ -3914,6 +4280,12 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-18 02:48:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2024-12-18 03:14:10 +0000"
     },
     "done": true
   },
@@ -4001,6 +4373,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/redstone/edelwood_pressure_plate": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-18 03:11:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-18 02:50:39 +0000"
@@ -4010,6 +4388,12 @@
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/redstone/edelwood_button": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:11:51 +0000"
     },
     "done": true
   },
@@ -4045,8 +4429,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-12-18 03:09:27 +0000",
       "minecraft:dark_forest": "2024-12-18 02:42:16 +0000",
-      "minecraft:lush_caves": "2024-12-18 02:48:57 +0000"
+      "minecraft:river": "2024-12-18 03:19:07 +0000",
+      "minecraft:forest": "2024-12-18 03:13:28 +0000",
+      "minecraft:lush_caves": "2024-12-18 02:48:57 +0000",
+      "minecraft:ocean": "2024-12-18 03:22:33 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-18 03:09:03 +0000"
     },
     "done": false
   },
@@ -4194,6 +4583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 03:14:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-18 02:50:39 +0000"
@@ -4203,6 +4598,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-18 03:09:10 +0000"
     },
     "done": true
   },
