@@ -1783,6 +1783,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-12-18 04:22:00 +0000",
       "minecraft:bamboo_jungle": "2024-12-18 01:31:12 +0000",
       "minecraft:beach": "2024-12-18 00:49:13 +0000",
       "minecraft:dark_forest": "2024-12-18 00:48:46 +0000",
@@ -1790,6 +1791,7 @@
       "minecraft:river": "2024-12-18 00:49:12 +0000",
       "minecraft:forest": "2024-12-18 02:48:23 +0000",
       "minecraft:jungle": "2024-12-18 03:16:01 +0000",
+      "minecraft:ocean": "2024-12-18 04:21:34 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 02:46:24 +0000",
       "minecraft:plains": "2024-12-18 03:15:34 +0000"
     },
@@ -4018,6 +4020,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-18 04:25:23 +0000",
       "cooked_beef": "2024-12-18 03:35:31 +0000",
       "bread": "2024-12-18 04:11:05 +0000"
     },
