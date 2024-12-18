@@ -675,3 +675,18 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [18Dec2024 03:58:05.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Acquire Hardware]
 [18Dec2024 03:58:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Amateur Archaeologist]
 [18Dec2024 03:58:19.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [It Belongs in a Museum]
+[18Dec2024 04:01:49.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was shot by Skeleton
+[18Dec2024 04:02:04.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[18Dec2024 04:02:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Dark Metallurgy]
+[18Dec2024 04:03:39.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Sweet Dreams]
+[18Dec2024 04:04:27.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Full Moon in a Pocket]
+[18Dec2024 04:05:01.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Uskilla> zzz
+[18Dec2024 04:05:28.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[18Dec2024 04:05:54.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joaquinxloko> pene
+[18Dec2024 04:06:40.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Once Upon a Cave]
+[18Dec2024 04:07:05.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Gravedigger]
+[18Dec2024 04:09:21.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Chest Slayer]
+[18Dec2024 04:10:42.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-610, y=64, z=-267} BlockPos{x=-609, y=64, z=-267}
+[18Dec2024 04:10:43.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-610, y=64, z=-267} BlockPos{x=-609, y=64, z=-267}
+[18Dec2024 04:10:43.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-610, y=64, z=-267} BlockPos{x=-609, y=63, z=-267}
+[18Dec2024 04:11:24.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Monster Hunter]

@@ -2780,6 +2780,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_grill": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
@@ -2918,6 +2924,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-18 02:47:10 +0000"
@@ -2933,6 +2945,18 @@
   "cfm:recipes/decorations/red_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2024-12-18 03:57:08 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
     },
     "done": true
   },
@@ -2966,6 +2990,18 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-18 03:57:08 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_grill": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
@@ -2975,6 +3011,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-18 03:30:48 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
     },
     "done": true
   },
@@ -2993,6 +3035,18 @@
   "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-18 02:52:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
     },
     "done": true
   },
@@ -3383,6 +3437,12 @@
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
     },
     "done": true
   },
@@ -3812,6 +3872,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2024-12-18 03:57:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-18 02:52:00 +0000"
@@ -3916,7 +3982,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-18 03:35:31 +0000"
+      "cooked_beef": "2024-12-18 03:35:31 +0000",
+      "bread": "2024-12-18 04:11:05 +0000"
     },
     "done": false
   },
@@ -4142,6 +4209,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
+    "criteria": {
+      "has_arcane_crystal": "2024-12-18 03:57:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
@@ -4232,6 +4305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 04:11:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
@@ -4253,6 +4332,12 @@
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-18 04:08:05 +0000"
     },
     "done": true
   },
@@ -4550,6 +4635,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-18 03:08:39 +0000"
@@ -4724,6 +4815,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_mail_box": {
     "criteria": {
       "has_chest": "2024-12-18 03:34:26 +0000"
@@ -4874,6 +4971,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-18 03:08:39 +0000"
@@ -4934,6 +5037,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 03:54:18 +0000"
@@ -4961,6 +5070,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-18 03:07:29 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-12-18 03:56:36 +0000"
     },
     "done": true
   },
@@ -5102,6 +5217,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2024-12-18 03:57:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-18 03:06:15 +0000"
@@ -5195,6 +5316,12 @@
   "cfm:recipes/decorations/white_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-18 03:56:36 +0000"
     },
     "done": true
   },
@@ -5405,6 +5532,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-12-18 03:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-18 04:08:05 +0000"
     },
     "done": true
   },
