@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:28:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2024-12-18 04:31:46 +0000"
@@ -1445,6 +1451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 05:25:45 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/bluemoon_greatsword": {
     "criteria": {
       "has_item": "2024-12-18 04:04:27 +0000"
@@ -2048,6 +2060,12 @@
   "cfm:recipes/decorations/stripped_oak_table": {
     "criteria": {
       "has_planks": "2024-12-18 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-18 05:24:36 +0000"
     },
     "done": true
   },
@@ -3071,6 +3089,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/clibano_core": {
+    "criteria": {
+      "has_blast_furnace": "2024-12-18 05:26:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -3230,6 +3254,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-18 05:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-18 05:24:36 +0000"
     },
     "done": true
   },
@@ -3633,7 +3663,9 @@
       "cookie": "2024-12-18 04:33:47 +0000",
       "rotten_flesh": "2024-12-18 05:18:06 +0000",
       "glow_berries": "2024-12-18 05:16:55 +0000",
-      "rabbit_stew": "2024-12-18 04:09:41 +0000"
+      "enchanted_golden_apple": "2024-12-18 05:20:58 +0000",
+      "rabbit_stew": "2024-12-18 04:09:41 +0000",
+      "carrot": "2024-12-18 05:25:07 +0000"
     },
     "done": false
   },
@@ -3676,6 +3708,12 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2024-12-18 03:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 05:25:45 +0000"
     },
     "done": true
   },
@@ -3880,6 +3918,12 @@
   "ars_nouveau:recipes/misc/ritual_moonfall": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-18 05:24:36 +0000"
     },
     "done": true
   },
@@ -4219,6 +4263,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:28:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-18 02:48:14 +0000"
@@ -4252,6 +4302,12 @@
   "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
     "criteria": {
       "has_arcane_crystal": "2024-12-18 03:50:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-18 05:25:45 +0000"
     },
     "done": true
   },
@@ -4294,6 +4350,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 02:50:35 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-18 05:25:45 +0000"
     },
     "done": true
   },
@@ -4619,6 +4681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:28:27 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
@@ -4670,6 +4738,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-18 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:28:27 +0000"
     },
     "done": true
   },
@@ -5851,6 +5925,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:28:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 02:50:35 +0000"
@@ -6148,6 +6228,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-18 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-18 05:24:36 +0000"
     },
     "done": true
   },
@@ -7183,6 +7269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-18 05:24:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-18 02:50:39 +0000"
@@ -7359,6 +7451,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2024-12-18 05:23:42 +0000",
       "minecraft:birch_forest": "2024-12-18 03:30:54 +0000",
       "minecraft:beach": "2024-12-18 03:09:27 +0000",
       "minecraft:dark_forest": "2024-12-18 02:42:16 +0000",
@@ -7413,6 +7506,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-18 02:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-18 05:27:07 +0000"
     },
     "done": true
   },

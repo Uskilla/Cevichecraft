@@ -2544,6 +2544,12 @@
     },
     "done": true
   },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-12-18 05:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-18 02:52:00 +0000"
@@ -3075,6 +3081,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-18 03:34:26 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-18 05:28:00 +0000"
     },
     "done": true
   },
@@ -4684,6 +4696,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-18 05:28:00 +0000",
       "opened_chest": "2024-12-18 02:49:02 +0000"
     },
     "done": false
@@ -4889,6 +4902,12 @@
   "cfm:recipes/decorations/oak_desk": {
     "criteria": {
       "has_log": "2024-12-18 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-18 05:23:13 +0000"
     },
     "done": true
   },
@@ -5723,6 +5742,12 @@
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 05:28:15 +0000"
     },
     "done": true
   },
