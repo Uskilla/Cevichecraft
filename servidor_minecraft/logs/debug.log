@@ -11360,3 +11360,18 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [18Dec2024 04:11:22.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 04:11:22.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 04:11:24.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Monster Hunter]
+[18Dec2024 04:13:35.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Suit Up]
+[18Dec2024 04:15:54.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Close Quarters]
+[18Dec2024 04:16:14.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Uskilla> zzz
+[18Dec2024 04:16:16.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Uskilla> zzz
+[18Dec2024 04:16:22.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:16:22.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:17:00.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Isn't It Iron Pick]
+[18Dec2024 04:17:02.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Not Today, Thank You]
+[18Dec2024 04:17:18.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [First Age]
+[18Dec2024 04:17:28.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Stay dead]
+[18Dec2024 04:17:35.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was slain by Ghoul
+[18Dec2024 04:17:59.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was shot by Skeleton
+[18Dec2024 04:20:57.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18Dec2024 04:21:24.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:21:24.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

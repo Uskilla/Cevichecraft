@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2024-12-18 04:12:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_blinds": {
     "criteria": {
       "has_log": "2024-12-18 04:06:05 +0000"
@@ -122,6 +128,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_slab": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-12-18 04:17:18 +0000"
     },
     "done": true
   },
@@ -407,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-18 04:12:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
@@ -440,6 +458,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2024-12-18 03:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-18 04:12:14 +0000"
     },
     "done": true
   },
@@ -557,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-18 04:04:31 +0000"
@@ -647,6 +677,18 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-18 04:12:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2024-12-18 04:16:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
@@ -704,6 +746,12 @@
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
     },
     "done": true
   },
@@ -953,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
@@ -1004,6 +1058,12 @@
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 04:20:32 +0000"
     },
     "done": true
   },
@@ -1073,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_flowering": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
@@ -1094,6 +1160,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-18 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-18 04:17:00 +0000"
     },
     "done": true
   },
@@ -1163,6 +1235,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-18 04:16:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-18 04:04:31 +0000"
@@ -1196,6 +1280,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-18 04:17:00 +0000"
     },
     "done": true
   },
@@ -1310,6 +1400,12 @@
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2024-12-18 03:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-18 04:12:14 +0000"
     },
     "done": true
   },
@@ -1535,6 +1631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2024-12-18 03:49:43 +0000"
@@ -1544,6 +1646,12 @@
   "ars_nouveau:recipes/building_blocks/archwood_pressure_plate": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-18 04:20:33 +0000"
     },
     "done": true
   },
@@ -1694,6 +1802,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2024-12-18 04:20:30 +0000"
     },
     "done": true
   },
@@ -1955,9 +2069,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_grill": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2024-12-18 04:20:30 +0000"
     },
     "done": true
   },
@@ -2226,6 +2352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:58:31 +0000"
@@ -2352,6 +2484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-18 04:04:31 +0000"
@@ -2379,6 +2517,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
     },
     "done": true
   },
@@ -2570,6 +2714,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-12-18 04:21:04 +0000",
+      "minecraft:creeper": "2024-12-18 04:19:05 +0000",
       "minecraft:zombie": "2024-12-18 03:52:40 +0000"
     },
     "done": false
@@ -2742,6 +2888,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2024-12-18 04:19:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-12-18 03:49:43 +0000"
@@ -2781,6 +2933,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kirkhammer": {
+    "criteria": {
+      "has_item": "2024-12-18 04:16:57 +0000"
     },
     "done": true
   },
@@ -2853,6 +3011,12 @@
   "cfm:recipes/decorations/orange_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
     },
     "done": true
   },
@@ -3009,6 +3173,12 @@
   "ars_nouveau:recipes/misc/red_archwood_wood": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-18 04:17:18 +0000"
     },
     "done": true
   },
@@ -3240,6 +3410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-18 03:48:49 +0000"
@@ -3396,6 +3572,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2024-12-18 03:54:53 +0000"
@@ -3444,6 +3632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-18 03:48:49 +0000"
@@ -3459,6 +3653,12 @@
   "cfm:recipes/decorations/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
     },
     "done": true
   },
@@ -3555,6 +3755,12 @@
   "forbidden_arcanus:recipes/building_blocks/edelwood_ladder": {
     "criteria": {
       "has_rods/wooden": "2024-12-18 03:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-18 04:12:14 +0000"
     },
     "done": true
   },
@@ -4140,6 +4346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-18 04:12:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2024-12-18 03:48:49 +0000"
@@ -4176,6 +4388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
@@ -4191,6 +4409,12 @@
   "cfm:recipes/decorations/magenta_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-18 04:16:57 +0000"
     },
     "done": true
   },
@@ -4265,6 +4489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 04:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-18 03:51:22 +0000"
@@ -4280,6 +4510,12 @@
   "ars_nouveau:recipes/misc/magebloom_to_pink": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-18 04:12:14 +0000"
     },
     "done": true
   },
