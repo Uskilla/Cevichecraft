@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 05:00:10 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2024-12-18 04:12:14 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 05:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-18 03:54:53 +0000"
@@ -443,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 05:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-12-18 04:08:01 +0000"
@@ -530,6 +548,12 @@
   "ars_nouveau:recipes/misc/spell_prism": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 05:08:31 +0000"
     },
     "done": true
   },
@@ -818,6 +842,12 @@
   "cfm:recipes/decorations/red_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 03:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 05:00:10 +0000"
     },
     "done": true
   },
@@ -1775,6 +1805,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2024-12-18 05:00:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-18 04:04:31 +0000"
@@ -1784,6 +1820,12 @@
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-18 03:58:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-18 05:04:04 +0000"
     },
     "done": true
   },
@@ -1904,6 +1946,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-18 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 05:08:31 +0000"
     },
     "done": true
   },
@@ -2261,6 +2309,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-18 04:59:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/experience_gem": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
@@ -2296,7 +2350,8 @@
       "cooked_mutton": "2024-12-18 04:57:45 +0000",
       "cooked_beef": "2024-12-18 03:55:13 +0000",
       "cooked_cod": "2024-12-18 04:03:43 +0000",
-      "melon_slice": "2024-12-18 04:45:58 +0000"
+      "melon_slice": "2024-12-18 04:45:58 +0000",
+      "cooked_chicken": "2024-12-18 05:02:07 +0000"
     },
     "done": false
   },
@@ -2435,6 +2490,12 @@
   "ars_nouveau:recipes/misc/ritual_moonfall": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-18 05:00:59 +0000"
     },
     "done": true
   },
@@ -2732,6 +2793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 05:08:31 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
@@ -2851,6 +2918,7 @@
       "minecraft:skeleton": "2024-12-18 04:56:39 +0000",
       "minecraft:spider": "2024-12-18 04:21:04 +0000",
       "minecraft:creeper": "2024-12-18 04:19:05 +0000",
+      "minecraft:enderman": "2024-12-18 05:06:31 +0000",
       "minecraft:zombie": "2024-12-18 03:52:40 +0000"
     },
     "done": false
@@ -3188,6 +3256,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_deepslate": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-18 05:08:31 +0000"
     },
     "done": true
   },
@@ -3719,6 +3793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-18 05:00:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 03:58:05 +0000"
@@ -3773,6 +3853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 05:00:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-18 04:04:31 +0000"
@@ -3797,6 +3883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-18 05:00:10 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/decorations/deorum_lantern": {
     "criteria": {
       "has_torch": "2024-12-18 03:52:27 +0000"
@@ -3806,6 +3898,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-18 04:20:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2024-12-18 05:00:19 +0000"
     },
     "done": true
   },
@@ -3911,6 +4009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-18 05:00:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/clear_allow": {
     "criteria": {
       "has_journal": "2024-12-18 03:46:51 +0000"
@@ -3926,6 +4030,12 @@
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2024-12-18 04:08:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-18 05:00:10 +0000"
     },
     "done": true
   },
@@ -3992,6 +4102,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-18 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 05:08:31 +0000"
     },
     "done": true
   },
@@ -4136,6 +4252,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-18 04:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 05:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 05:08:31 +0000"
     },
     "done": true
   },
@@ -4631,6 +4759,7 @@
       "minecraft:beach": "2024-12-18 03:56:31 +0000",
       "minecraft:dark_forest": "2024-12-18 03:46:52 +0000",
       "minecraft:sparse_jungle": "2024-12-18 04:44:17 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-18 05:09:04 +0000",
       "minecraft:river": "2024-12-18 03:48:37 +0000",
       "minecraft:forest": "2024-12-18 03:56:56 +0000",
       "minecraft:jungle": "2024-12-18 04:43:29 +0000",
@@ -4705,6 +4834,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-18 04:20:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 05:08:31 +0000"
     },
     "done": true
   },

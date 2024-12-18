@@ -3576,6 +3576,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_04": "2024-12-18 05:01:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_trampoline": {
     "criteria": {
       "has_iron": "2024-12-18 02:49:04 +0000"
