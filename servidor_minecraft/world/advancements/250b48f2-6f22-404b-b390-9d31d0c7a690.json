@@ -1721,12 +1721,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:dark_forest": "2024-12-18 04:37:33 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2024-12-18 04:37:32 +0000"
@@ -1786,6 +1780,12 @@
       "has_journal": "2024-12-18 04:37:32 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2024-12-18 04:37:33 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
