@@ -2016,3 +2016,74 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 07:38:36.711] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
 [19Dec2024 07:39:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Enchanter]
 [19Dec2024 07:43:48.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Hanging Tree]
+[19Dec2024 07:44:33.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [I'm not sugar coating it]
+[19Dec2024 07:44:44.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [Yo mama so fat, she digests her fetuses]
+[19Dec2024 07:44:54.116] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GhostPlayerEntity['jose_cl13'/139965, l='ServerLevel[world]', x=37.10, y=73.00, z=-323.20] died: jose_cl13 was slain by Acolyte
+[19Dec2024 07:45:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok died
+[19Dec2024 07:46:03.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has completed the challenge [Well, that was disgusting]
+[19Dec2024 07:46:05.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has completed the challenge [Yo mama so fat, she digests her fetuses]
+[19Dec2024 07:46:05.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [First big catch of the month!]
+[19Dec2024 07:46:07.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla starved to death
+[19Dec2024 07:46:32.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was slain by Acolyte
+[19Dec2024 07:47:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was slain by Restless Spirit
+[19Dec2024 07:48:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok withered away
+[19Dec2024 07:48:44.911] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GhostPlayerEntity['Lait_Estrok'/142588, l='ServerLevel[world]', x=832.69, y=63.00, z=-523.04] died: Lait_Estrok was slain by Zombie Bruiser
+[19Dec2024 07:48:48.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has reached the goal [Dark Creator]
+[19Dec2024 07:49:02.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 withered away
+[19Dec2024 07:50:25.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lait_Estrok lost connection: Disconnected
+[19Dec2024 07:50:25.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok left the game
+[19Dec2024 07:51:06.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Close Quarters]
+[19Dec2024 07:51:38.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was slain by Acolyte
+[19Dec2024 07:53:43.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was slain by Acolyte
+[19Dec2024 07:54:36.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug lost connection: Disconnected
+[19Dec2024 07:54:36.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug left the game
+[19Dec2024 07:55:30.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uskilla lost connection: Disconnected
+[19Dec2024 07:55:30.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla left the game
+[19Dec2024 07:56:00.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jose_cl13 lost connection: Disconnected
+[19Dec2024 07:56:00.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 left the game
+[19Dec2024 07:56:00.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was slain by Acolyte
+[19Dec2024 07:56:08.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Dec2024 07:56:08.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 07:56:08.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 07:56:08.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 07:56:09.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 07:56:09.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/doom:doom_hell
+[19Dec2024 07:56:09.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[19Dec2024 07:56:09.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[19Dec2024 07:56:09.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[19Dec2024 07:56:09.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[19Dec2024 07:56:09.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[19Dec2024 07:56:09.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[19Dec2024 07:56:09.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 07:56:09.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[19Dec2024 07:56:09.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[19Dec2024 07:56:09.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[19Dec2024 07:56:09.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[19Dec2024 07:56:09.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[19Dec2024 07:56:09.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[19Dec2024 07:56:09.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[19Dec2024 07:56:09.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 07:56:09.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[19Dec2024 07:56:09.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[19Dec2024 07:56:09.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[19Dec2024 07:56:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 07:56:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (doom_hell): All chunks are saved
+[19Dec2024 07:56:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[19Dec2024 07:56:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[19Dec2024 07:56:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[19Dec2024 07:56:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[19Dec2024 07:56:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[19Dec2024 07:56:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[19Dec2024 07:56:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 07:56:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[19Dec2024 07:56:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[19Dec2024 07:56:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[19Dec2024 07:56:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[19Dec2024 07:56:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[19Dec2024 07:56:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[19Dec2024 07:56:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[19Dec2024 07:56:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 07:56:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[19Dec2024 07:56:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[19Dec2024 07:56:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[19Dec2024 07:56:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

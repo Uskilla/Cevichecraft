@@ -7258,6 +7258,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2024-12-19 07:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-19 07:21:08 +0000"
@@ -7348,6 +7354,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-12-19 07:45:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-19 07:29:04 +0000"
@@ -7363,6 +7375,12 @@
   "cfm:recipes/decorations/birch_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-19 07:39:51 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-19 07:51:06 +0000"
     },
     "done": true
   },
@@ -7405,6 +7423,12 @@
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2024-12-19 07:30:05 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2024-12-19 07:43:48 +0000"
     },
     "done": true
   },

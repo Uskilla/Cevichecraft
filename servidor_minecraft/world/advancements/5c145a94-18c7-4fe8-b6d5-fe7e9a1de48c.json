@@ -3132,7 +3132,8 @@
       "minecraft:cave_spider": "2024-12-18 04:39:40 +0000",
       "minecraft:stray": "2024-12-19 05:47:14 +0000",
       "minecraft:vex": "2024-12-19 05:49:05 +0000",
-      "minecraft:zombie": "2024-12-18 02:49:53 +0000"
+      "minecraft:zombie": "2024-12-18 02:49:53 +0000",
+      "minecraft:zombie_villager": "2024-12-19 07:45:56 +0000"
     },
     "done": false
   },
@@ -8195,6 +8196,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2024-12-19 07:49:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-19 06:02:50 +0000",
@@ -8274,6 +8281,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-19 07:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-19 07:44:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_hedge": {
     "criteria": {
       "has_leaves": "2024-12-19 07:40:33 +0000"
@@ -8325,6 +8344,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-19 07:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-19 07:44:47 +0000"
     },
     "done": true
   },
@@ -8472,6 +8497,12 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2024-12-19 07:44:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_beehive": {
     "criteria": {
       "has_honeycomb": "2024-12-19 07:38:16 +0000"
@@ -8487,6 +8518,12 @@
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2024-12-19 05:22:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-12-19 07:48:48 +0000"
     },
     "done": true
   },
@@ -8513,6 +8550,12 @@
       "featherlight": "2024-12-19 05:25:43 +0000"
     },
     "done": false
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2024-12-19 07:44:33 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
@@ -8559,6 +8602,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-19 06:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-19 07:44:47 +0000"
     },
     "done": true
   },

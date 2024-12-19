@@ -6703,6 +6703,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2024-12-19 07:46:03 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_robes_leggings": {
     "criteria": {
       "has_item": "2024-12-19 05:47:58 +0000"
@@ -6733,6 +6739,12 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2024-12-19 07:46:05 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_robes_boots": {
     "criteria": {
       "has_item": "2024-12-19 05:47:58 +0000"
@@ -6742,6 +6754,12 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2024-12-19 05:54:05 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2024-12-19 07:46:05 +0000"
     },
     "done": true
   },
