@@ -3331,6 +3331,7 @@
       "minecraft:skeleton": "2024-12-18 06:21:19 +0000",
       "minecraft:spider": "2024-12-18 06:29:41 +0000",
       "minecraft:witch": "2024-12-18 06:29:00 +0000",
+      "minecraft:silverfish": "2024-12-19 05:30:15 +0000",
       "minecraft:zombie": "2024-12-18 06:21:17 +0000"
     },
     "done": false
@@ -5851,6 +5852,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
@@ -5923,6 +5930,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
@@ -5977,6 +5996,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/sanity_meter": {
     "criteria": {
       "has_ingots/gold": "2024-12-19 05:27:47 +0000"
@@ -5998,6 +6023,18 @@
   "cfm:recipes/decorations/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-19 05:35:03 +0000"
     },
     "done": true
   },
@@ -6091,6 +6128,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
@@ -6103,9 +6146,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
     },
     "done": true
   },
@@ -6133,6 +6188,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
@@ -6142,6 +6209,12 @@
   "cfm:recipes/decorations/crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
     },
     "done": true
   },
@@ -6166,6 +6239,18 @@
   "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2024-12-19 05:29:37 +0000"
     },
     "done": true
   },
@@ -6205,6 +6290,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2024-12-19 05:29:37 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-19 05:21:45 +0000"
@@ -6220,6 +6311,12 @@
   "securitycraft:recipes/building_blocks/diamond_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
     },
     "done": true
   },
@@ -6337,6 +6434,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
     "criteria": {
       "has_ingots/gold": "2024-12-19 05:27:47 +0000"
@@ -6379,9 +6482,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
     },
     "done": true
   },
@@ -6415,15 +6530,45 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
     },
     "done": true
   },
@@ -6448,6 +6593,18 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-19 05:17:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
     },
     "done": true
   },
@@ -6481,6 +6638,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-19 05:29:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
@@ -6499,6 +6668,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/smoker_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
@@ -6508,6 +6683,12 @@
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
     },
     "done": true
   },
@@ -6526,6 +6707,12 @@
   "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
     "criteria": {
       "has_arcane_crystal": "2024-12-19 05:27:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
     },
     "done": true
   },
@@ -6601,6 +6788,24 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
@@ -6610,6 +6815,12 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2024-12-19 05:24:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-19 05:37:13 +0000"
     },
     "done": true
   },
