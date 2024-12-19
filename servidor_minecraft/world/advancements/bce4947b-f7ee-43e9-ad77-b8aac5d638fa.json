@@ -2366,7 +2366,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-18 06:31:21 +0000",
-      "opened_chest": "2024-12-18 06:11:46 +0000"
+      "opened_chest": "2024-12-18 06:11:46 +0000",
+      "opened_cart": "2024-12-19 05:21:37 +0000"
     },
     "done": false
   },
@@ -5868,6 +5869,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
@@ -5880,9 +5905,21 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-19 05:21:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
     },
     "done": true
   },
@@ -5940,6 +5977,24 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/sanity_meter": {
+    "criteria": {
+      "has_ingots/gold": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-19 05:21:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
@@ -5958,9 +6013,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2024-12-19 05:27:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-19 05:27:59 +0000"
     },
     "done": true
   },
@@ -5973,6 +6040,18 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-19 05:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
     },
     "done": true
   },
@@ -6030,9 +6109,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-19 05:21:42 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-19 05:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
     },
     "done": true
   },
@@ -6090,6 +6181,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/deorum_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/nether_gold_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
@@ -6102,6 +6199,24 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2024-12-19 05:27:59 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-19 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/diamond_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
@@ -6111,6 +6226,12 @@
   "securitycraft:recipes/building_blocks/quartz_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
     },
     "done": true
   },
@@ -6132,6 +6253,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
@@ -6147,6 +6280,12 @@
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-19 05:21:41 +0000"
     },
     "done": true
   },
@@ -6192,6 +6331,18 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
+    "criteria": {
+      "has_arcane_crystal": "2024-12-19 05:27:59 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/gold": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
@@ -6210,6 +6361,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2024-12-19 05:21:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
@@ -6219,6 +6376,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
     "criteria": {
       "has_item": "2024-12-19 05:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
     },
     "done": true
   },
@@ -6360,6 +6523,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2024-12-19 05:27:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/netherrack_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
@@ -6408,6 +6577,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2024-12-19 05:27:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
@@ -6432,6 +6607,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-19 05:24:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
       "has_diamond_shovel": "2024-12-19 05:14:03 +0000"
@@ -6441,6 +6622,12 @@
   "cfm:recipes/decorations/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 05:27:47 +0000"
     },
     "done": true
   },

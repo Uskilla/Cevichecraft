@@ -2466,6 +2466,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-18 03:48:51 +0000",
       "minecraft:spider": "2024-12-18 04:55:06 +0000",
+      "minecraft:creeper": "2024-12-19 05:23:11 +0000",
       "minecraft:zombie": "2024-12-18 01:38:56 +0000"
     },
     "done": false
@@ -7117,6 +7118,12 @@
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-19 05:18:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-19 05:22:44 +0000"
     },
     "done": true
   },

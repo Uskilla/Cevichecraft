@@ -1909,3 +1909,8 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 05:15:15.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Aleslug) moved wrongly! 0.48647588767542516
 [19Dec2024 05:15:15.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Aleslug) moved wrongly! 0.6554448547567517
 [19Dec2024 05:15:35.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [The Wind Darkening]
+[19Dec2024 05:21:05.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Hot Stuff]
+[19Dec2024 05:21:37.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Tunnel Treasures]
+[19Dec2024 05:21:41.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [A True Source of Evil]
+[19Dec2024 05:21:45.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Amateur Archaeologist]
+[19Dec2024 05:22:44.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has reached the goal [Fighting Nightmares]
