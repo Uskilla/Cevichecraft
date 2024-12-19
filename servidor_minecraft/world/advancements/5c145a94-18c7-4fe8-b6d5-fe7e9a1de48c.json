@@ -8117,6 +8117,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-19 04:43:58 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:sneak_grove": {
     "criteria": {
       "steal_crystal": "2024-12-19 04:27:22 +0000"
@@ -8129,6 +8135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-19 04:43:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2024-12-19 04:22:49 +0000"
@@ -8138,6 +8150,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-19 04:15:15 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2024-12-19 04:39:01 +0000"
     },
     "done": true
   },
