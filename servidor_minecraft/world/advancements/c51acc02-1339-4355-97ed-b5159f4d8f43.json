@@ -6709,6 +6709,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-19 07:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-19 07:29:00 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_robes_chestplate": {
     "criteria": {
       "has_item": "2024-12-19 05:47:58 +0000"
@@ -6736,6 +6748,12 @@
   "soulsweapons:recipes/combat/soul_ingot_leggings": {
     "criteria": {
       "has_item": "2024-12-19 05:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-19 07:29:00 +0000"
     },
     "done": true
   },

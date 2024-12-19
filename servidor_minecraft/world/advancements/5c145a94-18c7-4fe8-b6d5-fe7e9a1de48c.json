@@ -8406,6 +8406,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-12-19 07:30:51 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2024-12-19 05:57:15 +0000"
