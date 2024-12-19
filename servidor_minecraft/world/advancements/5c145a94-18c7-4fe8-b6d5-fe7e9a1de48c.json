@@ -1787,6 +1787,7 @@
       "minecraft:sunflower_plains": "2024-12-18 05:23:42 +0000",
       "minecraft:birch_forest": "2024-12-18 03:30:54 +0000",
       "minecraft:wooded_badlands": "2024-12-18 07:10:43 +0000",
+      "minecraft:bamboo_jungle": "2024-12-19 06:42:45 +0000",
       "minecraft:badlands": "2024-12-18 07:11:56 +0000",
       "minecraft:savanna_plateau": "2024-12-18 06:48:42 +0000",
       "minecraft:beach": "2024-12-18 03:09:27 +0000",
@@ -8249,6 +8250,12 @@
     },
     "done": true
   },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2024-12-19 06:36:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_hoe_repairing": {
     "criteria": {
       "has_stone_hoe": "2024-12-19 06:16:52 +0000"
@@ -8276,6 +8283,12 @@
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2024-12-19 06:18:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-19 06:25:14 +0000"
     },
     "done": true
   },

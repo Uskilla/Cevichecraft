@@ -1948,3 +1948,14 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 06:18:34.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Cover Me with Diamonds]
 [19Dec2024 06:20:23.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Bypassing the Expiration Date]
 [19Dec2024 06:20:36.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was blown up by Creeper
+[19Dec2024 06:24:22.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 drowned
+[19Dec2024 06:26:55.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Uskilla> 760 -467
+[19Dec2024 06:26:59.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Invitation to the Tea Party]
+[19Dec2024 06:28:33.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [A Seedy Place]
+[19Dec2024 06:28:49.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jose_cl13 lost connection: Disconnected
+[19Dec2024 06:28:49.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 left the game
+[19Dec2024 06:34:12.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Dec2024 06:34:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[19Dec2024 06:36:04.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [Unfunny dad jokes]
+[19Dec2024 06:49:45.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla was slain by Ghost
+[19Dec2024 06:51:54.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved wrongly!
