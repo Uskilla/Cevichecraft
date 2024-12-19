@@ -6703,27 +6703,9 @@
     },
     "done": true
   },
-  "undead_revamp2:nowyouknow": {
-    "criteria": {
-      "nowyouknow_0": "2024-12-19 07:46:03 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/soul_robes_leggings": {
     "criteria": {
       "has_item": "2024-12-19 05:47:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2024-12-19 07:29:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2024-12-19 07:29:00 +0000"
     },
     "done": true
   },
@@ -6739,13 +6721,19 @@
     },
     "done": true
   },
-  "undead_revamp2:mommy": {
+  "soulsweapons:recipes/combat/soul_robes_boots": {
     "criteria": {
-      "mommy_0": "2024-12-19 07:46:05 +0000"
+      "has_item": "2024-12-19 05:47:58 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_robes_boots": {
+  "soulsweapons:recipes/combat/soul_ingot_leggings": {
+    "criteria": {
+      "has_item": "2024-12-19 05:47:58 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
     "criteria": {
       "has_item": "2024-12-19 05:47:58 +0000"
     },
@@ -6757,15 +6745,21 @@
     },
     "done": true
   },
-  "undead_revamp2:defeatundeadbosses": {
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
-      "defeatundeadbosses_0": "2024-12-19 07:46:05 +0000"
+      "bypassingthe_expiration_date_0": "2024-12-19 06:20:23 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_ingot_leggings": {
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
-      "has_item": "2024-12-19 05:47:58 +0000"
+      "has_prismarine_shard": "2024-12-19 07:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-19 07:29:00 +0000"
     },
     "done": true
   },
@@ -6775,15 +6769,21 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:bypassingthe_expiration_date": {
+  "undead_revamp2:nowyouknow": {
     "criteria": {
-      "bypassingthe_expiration_date_0": "2024-12-19 06:20:23 +0000"
+      "nowyouknow_0": "2024-12-19 07:46:03 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+  "undead_revamp2:mommy": {
     "criteria": {
-      "has_item": "2024-12-19 05:47:58 +0000"
+      "mommy_0": "2024-12-19 07:46:05 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2024-12-19 07:46:05 +0000"
     },
     "done": true
   },

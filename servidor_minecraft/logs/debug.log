@@ -11168,3 +11168,16 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 22:41:06.507] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lait_Estrok
 [19Dec2024 22:41:06.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok joined the game
 [19Dec2024 22:41:33.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Bypassing the Expiration Date]
+[19Dec2024 22:42:56.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 22:42:57.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:44:19.685] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "graveyard:small_light_gray_urn" - querying recipes to get these
+[19Dec2024 22:44:23.952] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:melon_seeds" - querying recipes to get these
+[19Dec2024 22:45:04.193] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "alexsmobs:flying_fish" - querying recipes to get these
+[19Dec2024 22:45:28.148] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:oak_log" - querying recipes to get these
+[19Dec2024 22:45:42.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Voluntary Exile]
+[19Dec2024 22:47:18.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19Dec2024 22:47:59.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[19Dec2024 22:48:01.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 22:48:01.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 22:51:42.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[19Dec2024 22:52:03.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind

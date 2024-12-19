@@ -7566,6 +7566,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2024-12-19 22:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-19 22:26:01 +0000"
@@ -7650,6 +7656,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
+    "criteria": {
+      "has_compacting_upgrade": "2024-12-19 22:44:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-19 22:37:11 +0000"
@@ -7677,6 +7689,12 @@
   "blue_skies:recipes/building_blocks/comet_bookshelf": {
     "criteria": {
       "has_item": "2024-12-19 22:37:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-12-19 22:41:33 +0000"
     },
     "done": true
   },
