@@ -7566,6 +7566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-19 22:59:42 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nightnight": {
     "criteria": {
       "nightnight_0": "2024-12-19 22:39:09 +0000"
@@ -7575,6 +7581,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-19 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-19 22:59:42 +0000"
     },
     "done": true
   },
@@ -7665,6 +7677,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-19 22:37:11 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+    "criteria": {
+      "has_clay_ball": "2024-12-19 22:59:42 +0000"
     },
     "done": true
   },

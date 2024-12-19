@@ -5285,6 +5285,7 @@
       "bread": "2024-12-18 04:11:05 +0000",
       "rotten_flesh": "2024-12-18 05:48:45 +0000",
       "cooked_chicken": "2024-12-18 07:10:32 +0000",
+      "cooked_salmon": "2024-12-19 22:54:26 +0000",
       "carrot": "2024-12-19 22:30:30 +0000"
     },
     "done": false
@@ -8319,9 +8320,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-19 22:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-19 22:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-19 22:49:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2024-12-19 22:47:57 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2024-12-19 22:57:53 +0000"
     },
     "done": true
   },
@@ -8331,15 +8356,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-19 22:49:06 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:all_weapons": {
     "criteria": {
       "featherlight": "2024-12-19 22:41:38 +0000"
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-19 22:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-19 22:27:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-19 22:51:43 +0000"
     },
     "done": true
   },
