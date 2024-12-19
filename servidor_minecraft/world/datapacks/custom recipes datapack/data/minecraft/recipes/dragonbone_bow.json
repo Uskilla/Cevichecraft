@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CDW",
+    "N S",
+    "CDW"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+	"D": {
+      "item": "iceandfire:dragonbone"
+    },
+	"C": {
+      "item": "minecraft:netherite_scrap"
+    },
+	"W": {
+      "tag": "forge:bones/wither"
+    },
+	"S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "iceandfire:dragonbone_bow"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1,
+  "ingredient": {
+    "item": "minecraft:smooth_stone"
+  },
+  "result": "born_in_chaos_v1:black_argillite"
+}
