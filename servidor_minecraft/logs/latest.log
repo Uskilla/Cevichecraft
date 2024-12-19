@@ -2013,3 +2013,6 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 07:31:30.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was slain by Corpse Fish
 [19Dec2024 07:32:51.369] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -6016 -56 -3933 in 6s
 [19Dec2024 07:32:51.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2855ms or 57 ticks behind
+[19Dec2024 07:38:36.711] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[19Dec2024 07:39:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Enchanter]
+[19Dec2024 07:43:48.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Hanging Tree]
