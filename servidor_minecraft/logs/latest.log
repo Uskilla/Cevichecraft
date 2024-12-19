@@ -1922,3 +1922,29 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 05:54:05.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [The Wind Darkening]
 [19Dec2024 05:57:02.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GhostPlayerEntity['Aleslug'/56525, l='ServerLevel[world]', x=1110.58, y=147.00, z=-488.49] died: Aleslug was slain by Aleslug
 [19Dec2024 05:57:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has reached the goal [Senior Summoner]
+[19Dec2024 06:02:05.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok withered away
+[19Dec2024 06:02:49.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [We Need to Go Deeper]
+[19Dec2024 06:03:11.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Dec2024 06:03:30.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4407ms or 88 ticks behind
+[19Dec2024 06:03:31.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok fell from a high place
+[19Dec2024 06:03:49.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3851ms or 77 ticks behind
+[19Dec2024 06:04:09.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5217ms or 104 ticks behind
+[19Dec2024 06:04:22.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Argent Energy]
+[19Dec2024 06:04:27.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2957ms or 59 ticks behind
+[19Dec2024 06:04:45.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
+[19Dec2024 06:05:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Alex's Caves]
+[19Dec2024 06:05:10.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9794ms or 195 ticks behind
+[19Dec2024 06:05:32.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6433ms or 128 ticks behind
+[19Dec2024 06:05:54.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7910ms or 158 ticks behind
+[19Dec2024 06:06:18.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8649ms or 172 ticks behind
+[19Dec2024 06:06:42.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8852ms or 177 ticks behind
+[19Dec2024 06:07:02.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4589ms or 91 ticks behind
+[19Dec2024 06:07:20.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
+[19Dec2024 06:07:39.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4317ms or 86 ticks behind
+[19Dec2024 06:07:58.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4511ms or 90 ticks behind
+[19Dec2024 06:08:16.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
+[19Dec2024 06:09:56.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was slain by Scarlet Persecutor
+[19Dec2024 06:11:24.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Deceived Hopes]
+[19Dec2024 06:18:34.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Cover Me with Diamonds]
+[19Dec2024 06:20:23.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Bypassing the Expiration Date]
+[19Dec2024 06:20:36.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was blown up by Creeper
