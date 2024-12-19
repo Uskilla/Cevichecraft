@@ -5289,6 +5289,7 @@
       "bread": "2024-12-18 04:11:05 +0000",
       "rotten_flesh": "2024-12-18 05:48:45 +0000",
       "melon_slice": "2024-12-19 23:03:51 +0000",
+      "golden_carrot": "2024-12-19 23:36:06 +0000",
       "cooked_chicken": "2024-12-18 07:10:32 +0000",
       "cooked_salmon": "2024-12-19 22:54:26 +0000",
       "carrot": "2024-12-19 22:30:30 +0000"
@@ -8325,6 +8326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-19 23:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-19 23:12:36 +0000"
@@ -8403,6 +8410,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-19 23:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2024-12-19 23:12:36 +0000"
@@ -8418,6 +8431,18 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-19 22:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 23:42:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2024-12-19 23:42:48 +0000"
     },
     "done": true
   },
@@ -8439,6 +8464,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-19 23:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-19 23:12:36 +0000"
@@ -8451,9 +8482,21 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-19 23:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-19 22:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-19 23:42:49 +0000"
     },
     "done": true
   },
@@ -8462,6 +8505,12 @@
       "featherlight": "2024-12-19 22:41:38 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-19 23:42:44 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
@@ -8481,6 +8530,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2024-12-19 23:36:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-19 22:27:07 +0000"
@@ -8496,6 +8551,18 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-12-19 23:12:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2024-12-19 23:42:48 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-19 23:42:44 +0000"
     },
     "done": true
   },

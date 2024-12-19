@@ -2877,6 +2877,7 @@
       "cooked_cod": "2024-12-18 04:03:43 +0000",
       "bread": "2024-12-18 06:37:45 +0000",
       "melon_slice": "2024-12-18 04:45:58 +0000",
+      "golden_carrot": "2024-12-19 23:36:06 +0000",
       "cooked_chicken": "2024-12-18 05:02:07 +0000",
       "carrot": "2024-12-18 05:47:09 +0000"
     },
@@ -8001,6 +8002,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-19 23:41:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_gloves": "2024-12-19 23:08:07 +0000"
@@ -8037,6 +8044,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-12-19 22:18:46 +0000"
@@ -8049,9 +8068,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-19 23:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-19 23:41:55 +0000"
     },
     "done": true
   },
@@ -8061,15 +8092,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2024-12-19 23:08:07 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
   "immersive_melodies:misc/instruments": {
     "criteria": {
       "has_item": "2024-12-19 23:08:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-19 23:41:55 +0000"
     },
     "done": true
   },
@@ -8094,6 +8161,24 @@
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2024-12-19 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
     },
     "done": true
   },
@@ -8163,9 +8248,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-19 23:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-19 23:12:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2024-12-19 23:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-12-19 23:36:42 +0000"
     },
     "done": true
   },
@@ -8235,6 +8344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-19 23:38:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2024-12-19 23:08:07 +0000"
@@ -8259,6 +8374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-12-19 23:31:12 +0000"
@@ -8274,6 +8395,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-19 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
     },
     "done": true
   },
@@ -8295,6 +8422,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2024-12-19 23:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-19 23:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-19 22:14:23 +0000"
@@ -8304,6 +8449,12 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2024-12-19 23:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-19 23:41:55 +0000"
     },
     "done": true
   },
@@ -8319,6 +8470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/decorations/chungus_monolith": {
     "criteria": {
       "has_item": "2024-12-19 23:28:42 +0000"
@@ -8328,6 +8485,24 @@
   "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_gloves": "2024-12-19 23:08:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
     },
     "done": true
   },
@@ -8364,6 +8539,12 @@
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-12-19 23:08:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_planks": "2024-12-19 23:34:42 +0000"
     },
     "done": true
   },
