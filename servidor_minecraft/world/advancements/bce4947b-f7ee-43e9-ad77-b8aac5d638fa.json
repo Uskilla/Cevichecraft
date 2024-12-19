@@ -1729,6 +1729,7 @@
       "minecraft:river": "2024-12-18 06:11:24 +0000",
       "minecraft:dripstone_caves": "2024-12-18 06:43:54 +0000",
       "minecraft:forest": "2024-12-18 06:31:50 +0000",
+      "minecraft:ocean": "2024-12-19 05:58:04 +0000",
       "minecraft:plains": "2024-12-18 06:10:38 +0000"
     },
     "done": false
@@ -5906,6 +5907,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
@@ -5915,6 +5922,12 @@
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2024-12-19 05:21:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
     },
     "done": true
   },
@@ -6026,6 +6039,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-19 05:37:13 +0000"
@@ -6104,6 +6123,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/redstone_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
@@ -6122,9 +6147,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-19 05:53:55 +0000"
     },
     "done": true
   },
@@ -6185,6 +6222,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
     },
     "done": true
   },
@@ -6278,6 +6321,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2024-12-19 05:14:44 +0000"
@@ -6296,9 +6345,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-19 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
     },
     "done": true
   },
@@ -6374,6 +6435,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
@@ -6401,6 +6468,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
     },
     "done": true
   },
@@ -6470,6 +6543,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-19 05:39:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
@@ -6500,9 +6579,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-19 05:08:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
     },
     "done": true
   },
@@ -6521,6 +6612,12 @@
   "securitycraft:recipes/tools/remote_access_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
     },
     "done": true
   },
@@ -6587,6 +6684,12 @@
   "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
     },
     "done": true
   },
@@ -6698,6 +6801,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/wire_cutters": {
     "criteria": {
       "has_mine": "2024-12-19 05:16:25 +0000"
@@ -6806,6 +6921,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-19 05:14:44 +0000"
@@ -6827,6 +6948,12 @@
   "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
       "has_diamond_shovel": "2024-12-19 05:14:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-19 05:42:59 +0000"
     },
     "done": true
   },

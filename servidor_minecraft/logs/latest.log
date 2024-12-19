@@ -1916,3 +1916,9 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 05:22:44.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has reached the goal [Fighting Nightmares]
 [19Dec2024 05:35:03.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Good Demoman]
 [19Dec2024 05:41:04.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has reached the goal [Fighting Nightmares]
+[19Dec2024 05:50:02.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Life turned out to be a comedy]
+[19Dec2024 05:50:37.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug was slain by Vex
+[19Dec2024 05:53:55.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Junior Summoner]
+[19Dec2024 05:54:05.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [The Wind Darkening]
+[19Dec2024 05:57:02.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GhostPlayerEntity['Aleslug'/56525, l='ServerLevel[world]', x=1110.58, y=147.00, z=-488.49] died: Aleslug was slain by Aleslug
+[19Dec2024 05:57:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has reached the goal [Senior Summoner]
