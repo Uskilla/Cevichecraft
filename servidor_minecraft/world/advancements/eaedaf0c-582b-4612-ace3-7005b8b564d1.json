@@ -7112,6 +7112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 07:03:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-19 05:56:09 +0000"
@@ -7220,6 +7226,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-19 07:17:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-19 06:10:12 +0000"
@@ -7229,6 +7241,12 @@
   "cfm:recipes/decorations/jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-19 06:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 07:03:00 +0000"
     },
     "done": true
   },
@@ -7322,6 +7340,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-19 07:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2024-12-19 06:42:11 +0000"
@@ -7346,6 +7370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 07:03:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_desk_cabinet": {
     "criteria": {
       "has_log": "2024-12-19 06:42:04 +0000"
@@ -7361,6 +7391,12 @@
   "forbidden_arcanus:recipes/misc/dark_nether_star": {
     "criteria": {
       "has_obsidian_ingot": "2024-12-19 05:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 07:03:00 +0000"
     },
     "done": true
   },
@@ -7754,6 +7790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 07:03:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-19 05:34:34 +0000"
@@ -7955,6 +7997,12 @@
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-19 05:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 07:03:00 +0000"
     },
     "done": true
   },
@@ -8174,6 +8222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 07:03:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-19 05:56:09 +0000"
@@ -8201,6 +8255,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-19 06:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-19 07:02:59 +0000"
     },
     "done": true
   },

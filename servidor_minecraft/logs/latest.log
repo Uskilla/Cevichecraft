@@ -1971,3 +1971,24 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 07:01:52.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [19Dec2024 07:02:23.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [19Dec2024 07:02:40.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[19Dec2024 07:02:58.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
+[19Dec2024 07:02:59.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Those Were the Days]
+[19Dec2024 07:04:55.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Dec2024 07:04:55.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[19Dec2024 07:10:49.249] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[19Dec2024 07:11:52.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Lorem Ipsum]
+[19Dec2024 07:17:07.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [The Journey Begins]
+[19Dec2024 07:18:29.634] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 7439 -56 5819 in 4s
+[19Dec2024 07:18:29.732] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[19Dec2024 07:20:47.640] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jose_cl13 is bce4947b-f7ee-43e9-ad77-b8aac5d638fa
+[19Dec2024 07:20:55.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jose_cl13[/172.26.115.93:55881] logged in with entity id 122076 at (37.97534016714266, 64.0, -325.30571500360475)
+[19Dec2024 07:20:55.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jose_cl13
+[19Dec2024 07:20:55.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jose_cl13
+[19Dec2024 07:20:55.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jose_cl13
+[19Dec2024 07:20:55.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jose_cl13
+[19Dec2024 07:20:55.889] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jose_cl13
+[19Dec2024 07:20:55.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jose_cl13
+[19Dec2024 07:20:55.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jose_cl13
+[19Dec2024 07:20:55.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 joined the game
+[19Dec2024 07:21:25.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Uskilla> 760 -467
+[19Dec2024 07:22:06.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Once Upon a Cave]

@@ -8208,6 +8208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-19 07:12:36 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_gloves": "2024-12-19 05:18:37 +0000"
@@ -8229,6 +8235,12 @@
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2024-12-19 06:04:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-19 07:09:14 +0000"
     },
     "done": true
   },
@@ -8277,6 +8289,12 @@
   "aether:recipes/tools/stone_hoe_repairing": {
     "criteria": {
       "has_stone_hoe": "2024-12-19 06:16:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-19 07:09:14 +0000"
     },
     "done": true
   },
@@ -8346,6 +8364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-19 07:09:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/flint_and_steel_repairing": {
     "criteria": {
       "has_flint_and_steel": "2024-12-19 05:24:21 +0000"
@@ -8355,6 +8379,18 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2024-12-19 06:53:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-12-19 07:09:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-19 07:03:27 +0000"
     },
     "done": true
   },
