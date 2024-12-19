@@ -565,3 +565,25 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 04:23:58.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Masquerade]
 [19Dec2024 04:26:27.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Hot Stuff]
 [19Dec2024 04:27:22.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Birds of a Feather]
+[19Dec2024 04:29:41.478] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jose_cl13 is bce4947b-f7ee-43e9-ad77-b8aac5d638fa
+[19Dec2024 04:29:49.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jose_cl13[/172.26.115.93:51712] logged in with entity id 10902 at (860.9078120954832, 15.0, -657.5793383564828)
+[19Dec2024 04:29:49.686] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jose_cl13
+[19Dec2024 04:29:49.686] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jose_cl13
+[19Dec2024 04:29:49.687] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jose_cl13
+[19Dec2024 04:29:49.687] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jose_cl13
+[19Dec2024 04:29:49.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jose_cl13
+[19Dec2024 04:29:49.692] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jose_cl13
+[19Dec2024 04:29:49.692] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jose_cl13
+[19Dec2024 04:29:49.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 joined the game
+[19Dec2024 04:32:14.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Bypassing the Expiration Date]
+[19Dec2024 04:37:30.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [We Need to Go Deeper]
+[19Dec2024 04:37:31.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uskilla moved too quickly! 0.2552523017134263,0.42355929454303975,-10.220704411490885
+[19Dec2024 04:37:31.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! 9.346167859102707,2.9424277526289018,2.2188524711356195
+[19Dec2024 04:37:31.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3866ms or 77 ticks behind
+[19Dec2024 04:37:49.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3124ms or 62 ticks behind
+[19Dec2024 04:38:07.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
+[19Dec2024 04:38:27.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4199ms or 83 ticks behind
+[19Dec2024 04:38:45.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3701ms or 74 ticks behind
+[19Dec2024 04:39:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has reached the goal [Heliomancer]
+[19Dec2024 04:39:05.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5188ms or 103 ticks behind
+[19Dec2024 04:39:25.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4922ms or 98 ticks behind
