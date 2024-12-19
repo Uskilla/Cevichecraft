@@ -551,3 +551,17 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 04:14:40.007] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Aleslug
 [19Dec2024 04:14:40.007] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Aleslug
 [19Dec2024 04:14:40.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug joined the game
+[19Dec2024 04:19:52.428] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lait_Estrok is c51acc02-1339-4355-97ed-b5159f4d8f43
+[19Dec2024 04:20:01.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lait_Estrok[/172.26.175.5:64205] logged in with entity id 4487 at (834.289694764183, 61.0, -658.5780442348166)
+[19Dec2024 04:20:01.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lait_Estrok
+[19Dec2024 04:20:01.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lait_Estrok
+[19Dec2024 04:20:01.036] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lait_Estrok
+[19Dec2024 04:20:01.036] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lait_Estrok
+[19Dec2024 04:20:01.039] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lait_Estrok
+[19Dec2024 04:20:01.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lait_Estrok
+[19Dec2024 04:20:01.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lait_Estrok
+[19Dec2024 04:20:01.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok joined the game
+[19Dec2024 04:23:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [We do a little trolling...]
+[19Dec2024 04:23:58.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Masquerade]
+[19Dec2024 04:26:27.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Hot Stuff]
+[19Dec2024 04:27:22.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Birds of a Feather]
