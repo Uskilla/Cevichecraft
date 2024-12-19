@@ -611,3 +611,18 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 22:21:27.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla joined the game
 [19Dec2024 22:21:44.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [19Dec2024 22:21:44.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[19Dec2024 22:35:41.623] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[19Dec2024 22:36:54.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Alex's Caves]
+[19Dec2024 22:37:07.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Once Upon a Cave]
+[19Dec2024 22:39:09.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Night Night]
+[19Dec2024 22:40:58.138] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lait_Estrok is c51acc02-1339-4355-97ed-b5159f4d8f43
+[19Dec2024 22:41:06.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lait_Estrok[/172.26.175.5:53683] logged in with entity id 18466 at (805.2065700205001, 62.0, -567.6999999880791)
+[19Dec2024 22:41:06.479] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lait_Estrok
+[19Dec2024 22:41:06.492] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lait_Estrok
+[19Dec2024 22:41:06.493] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lait_Estrok
+[19Dec2024 22:41:06.495] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lait_Estrok
+[19Dec2024 22:41:06.503] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lait_Estrok
+[19Dec2024 22:41:06.506] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lait_Estrok
+[19Dec2024 22:41:06.507] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lait_Estrok
+[19Dec2024 22:41:06.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok joined the game
+[19Dec2024 22:41:33.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Bypassing the Expiration Date]
