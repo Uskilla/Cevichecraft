@@ -1959,3 +1959,15 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 06:36:04.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [Unfunny dad jokes]
 [19Dec2024 06:49:45.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla was slain by Ghost
 [19Dec2024 06:51:54.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved wrongly!
+[19Dec2024 06:52:22.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Dark Metallurgy]
+[19Dec2024 06:52:25.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19Dec2024 06:53:44.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [Centennial]
+[19Dec2024 06:56:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [We Need to Go Deeper]
+[19Dec2024 06:57:19.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CueBallEntity['Possessed Engineer'/108056, l='ServerLevel[world]', x=245.62, y=31.50, z=-51.00] died: Possessed Engineer fell from a high place
+[19Dec2024 06:58:02.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla tried to swim in lava
+[19Dec2024 06:59:30.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19Dec2024 06:59:48.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3322ms or 66 ticks behind
+[19Dec2024 06:59:51.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla tried to swim in lava
+[19Dec2024 07:01:52.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[19Dec2024 07:02:23.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[19Dec2024 07:02:40.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
