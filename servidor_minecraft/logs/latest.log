@@ -672,3 +672,45 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [19Dec2024 23:01:44.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7445ms or 148 ticks behind
 [19Dec2024 23:02:03.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4301ms or 86 ticks behind
 [19Dec2024 23:02:22.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
+[19Dec2024 23:02:46.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8474ms or 169 ticks behind
+[19Dec2024 23:03:04.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3517ms or 70 ticks behind
+[19Dec2024 23:03:49.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Dec2024 23:04:06.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[19Dec2024 23:04:23.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19Dec2024 23:04:44.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6037ms or 120 ticks behind
+[19Dec2024 23:05:00.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Nightmare Fuel]
+[19Dec2024 23:05:05.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[19Dec2024 23:05:27.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Penteconter]
+[19Dec2024 23:05:45.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[19Dec2024 23:06:02.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19Dec2024 23:06:23.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6265ms or 125 ticks behind
+[19Dec2024 23:07:25.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Dec2024 23:08:01.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Dec2024 23:08:22.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19Dec2024 23:09:12.550] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Aleslug is 5c145a94-18c7-4fe8-b6d5-fe7e9a1de48c
+[19Dec2024 23:09:20.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleslug[/172.26.47.31:60625] logged in with entity id 39448 at (980.78910887552, 66.0, -493.8655175373281)
+[19Dec2024 23:09:20.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Aleslug
+[19Dec2024 23:09:20.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Aleslug
+[19Dec2024 23:09:20.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Aleslug
+[19Dec2024 23:09:20.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Aleslug
+[19Dec2024 23:09:20.522] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Aleslug
+[19Dec2024 23:09:20.526] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Aleslug
+[19Dec2024 23:09:20.526] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Aleslug
+[19Dec2024 23:09:20.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug joined the game
+[19Dec2024 23:10:24.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 has made the advancement [Local Brewery]
+[19Dec2024 23:10:33.373] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 23:11:12.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19Dec2024 23:11:29.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[19Dec2024 23:11:47.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[19Dec2024 23:12:01.629] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 23:12:02.392] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 23:12:05.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
+[19Dec2024 23:12:26.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[19Dec2024 23:12:59.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Penteconter]
+[19Dec2024 23:13:46.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Warped]
+[19Dec2024 23:14:36.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.7402575914107077
+[19Dec2024 23:14:36.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airazor (vehicle of Aleslug) moved wrongly! 0.4856454295832763
+[19Dec2024 23:16:35.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[19Dec2024 23:16:57.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19Dec2024 23:17:45.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Double Trouble]
+[19Dec2024 23:22:35.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
