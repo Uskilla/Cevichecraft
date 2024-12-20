@@ -1,3 +1,8 @@
 [20Dec2024 00:00:59.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lait_Estrok moved too quickly! 7.73687451645344,-4.20326439933131,-4.857533833331786
 [20Dec2024 00:01:14.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 died because of Zombie
 [20Dec2024 00:02:56.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was slain by Zombie
+[20Dec2024 00:04:14.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug was slain by Lifestealer
+[20Dec2024 00:04:16.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 was shot by Skeleton
+[20Dec2024 00:05:00.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [Cannibal]
+[20Dec2024 00:06:14.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GhostPlayerEntity['Aleslug'/84208, l='ServerLevel[world]', x=751.55, y=62.58, z=-500.91] died: Aleslug was shot by Pillager
+[20Dec2024 00:13:52.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind

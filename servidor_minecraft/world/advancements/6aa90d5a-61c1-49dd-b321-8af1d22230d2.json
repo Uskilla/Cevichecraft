@@ -1783,6 +1783,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-20 00:07:43 +0000",
       "minecraft:cherry_grove": "2024-12-18 05:34:14 +0000",
       "minecraft:sunflower_plains": "2024-12-18 06:19:47 +0000",
       "minecraft:birch_forest": "2024-12-18 04:38:37 +0000",
@@ -2880,6 +2881,7 @@
       "melon_slice": "2024-12-18 04:45:58 +0000",
       "golden_carrot": "2024-12-19 23:36:06 +0000",
       "cooked_chicken": "2024-12-18 05:02:07 +0000",
+      "cooked_salmon": "2024-12-20 00:06:17 +0000",
       "carrot": "2024-12-18 05:47:09 +0000"
     },
     "done": false
@@ -8123,6 +8125,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 00:07:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2024-12-19 23:41:55 +0000"
@@ -8714,6 +8722,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2024-12-19 23:45:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2024-12-20 00:04:21 +0000"
     },
     "done": true
   },
