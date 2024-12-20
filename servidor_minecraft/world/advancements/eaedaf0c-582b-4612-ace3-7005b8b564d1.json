@@ -8387,6 +8387,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-20 01:11:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-19 23:12:36 +0000"
@@ -8506,6 +8512,12 @@
       "ancient_debris": "2024-12-19 23:42:44 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2024-12-20 01:11:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
