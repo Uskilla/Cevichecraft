@@ -8758,6 +8758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-20 02:42:25 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/red_industrial_lamp": {
     "criteria": {
       "has_red_industrial_lamp": "2024-12-20 00:08:39 +0000"
@@ -9433,6 +9439,12 @@
   "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-20 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-20 02:42:25 +0000"
     },
     "done": true
   },
