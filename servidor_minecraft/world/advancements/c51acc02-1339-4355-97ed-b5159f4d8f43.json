@@ -8957,5 +8957,23 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2024-12-20 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-20 03:09:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2024-12-20 03:11:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
