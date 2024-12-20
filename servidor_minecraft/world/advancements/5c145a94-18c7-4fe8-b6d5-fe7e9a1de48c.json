@@ -9125,6 +9125,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 04:23:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 04:23:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_blinds": {
     "criteria": {
       "has_log": "2024-12-20 01:19:15 +0000"
@@ -9350,6 +9362,12 @@
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 04:23:39 +0000"
     },
     "done": true
   },
@@ -10067,6 +10085,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 04:23:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-12-20 03:54:19 +0000"
@@ -10184,6 +10208,12 @@
   "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
       "has_diamond_leggings": "2024-12-20 00:21:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2024-12-20 04:23:39 +0000"
     },
     "done": true
   },

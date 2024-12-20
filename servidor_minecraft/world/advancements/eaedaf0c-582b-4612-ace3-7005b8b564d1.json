@@ -8897,5 +8897,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-20 04:23:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

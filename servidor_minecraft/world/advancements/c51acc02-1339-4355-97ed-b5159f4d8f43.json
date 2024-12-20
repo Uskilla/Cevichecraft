@@ -1793,6 +1793,7 @@
       "minecraft:lush_caves": "2024-12-18 04:19:23 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 03:25:13 +0000",
       "minecraft:meadow": "2024-12-18 06:20:33 +0000",
+      "minecraft:savanna": "2024-12-20 04:27:56 +0000",
       "minecraft:plains": "2024-12-18 03:27:05 +0000"
     },
     "done": false
@@ -9025,6 +9026,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nicehousebro": {
+    "criteria": {
+      "nicehousebro_0": "2024-12-20 04:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-20 03:45:02 +0000"
@@ -9034,6 +9041,12 @@
   "forbidden_arcanus:recipes/misc/rune_block_from_rune": {
     "criteria": {
       "has_rune": "2024-12-20 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2024-12-20 04:27:07 +0000"
     },
     "done": true
   },
@@ -9064,6 +9077,18 @@
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 04:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-20 04:27:07 +0000"
     },
     "done": true
   },
@@ -9100,6 +9125,12 @@
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 04:27:07 +0000"
     },
     "done": true
   },
@@ -9247,6 +9278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 04:27:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
       "has_diamond_gloves": "2024-12-20 03:11:03 +0000"
@@ -9258,6 +9295,12 @@
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-20 04:27:07 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {

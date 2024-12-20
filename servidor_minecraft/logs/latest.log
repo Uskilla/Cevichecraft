@@ -411,3 +411,8 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [20Dec2024 04:19:42.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was killed
 [20Dec2024 04:22:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [20Dec2024 04:22:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[20Dec2024 04:22:54.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[20Dec2024 04:26:15.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has completed the challenge [Nice House Bro]
+[20Dec2024 04:27:07.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has completed the challenge [One eyed big skelly]
+[20Dec2024 04:27:42.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Enchanter]
+[20Dec2024 04:32:26.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind

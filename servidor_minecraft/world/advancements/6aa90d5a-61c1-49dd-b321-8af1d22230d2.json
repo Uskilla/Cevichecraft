@@ -9584,6 +9584,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-20 04:27:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-20 01:28:11 +0000"
