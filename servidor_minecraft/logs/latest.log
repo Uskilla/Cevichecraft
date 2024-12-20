@@ -153,3 +153,28 @@
 [20Dec2024 01:35:51.016] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [20Dec2024 01:36:22.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GhostPlayerEntity['Joaquinxloko'/158368, l='ServerLevel[world]', x=7278.75, y=-2.00, z=5537.52] died: Joaquinxloko burned to death
 [20Dec2024 01:36:22.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko burned to death
+[20Dec2024 01:38:00.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[20Dec2024 01:38:05.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:07.733] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:12.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:13.196] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:13.383] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:14.151] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:15.380] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:15.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:17.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:19.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:21.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:21.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:38:21.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Dec2024 01:39:56.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Carbonated Swim]
+[20Dec2024 01:41:25.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Dec2024 01:42:13.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20Dec2024 01:42:56.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20Dec2024 01:43:21.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[20Dec2024 01:43:51.865] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/167613, l='ServerLevel[world]', x=6927.24, y=70.32, z=5681.52]
+[20Dec2024 01:43:51.866] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/167614, l='ServerLevel[world]', x=6926.02, y=70.05, z=5681.55]
+[20Dec2024 01:44:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was slain by Caramel Cube
+[20Dec2024 01:44:40.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Sea? Not a Problem]
+[20Dec2024 01:45:25.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was slain by Caniac
+[20Dec2024 01:46:01.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was squashed by a falling anvil
