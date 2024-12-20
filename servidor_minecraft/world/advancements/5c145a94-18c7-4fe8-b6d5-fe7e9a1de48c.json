@@ -8808,6 +8808,12 @@
     },
     "done": true
   },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2024-12-20 06:01:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_cabinet": {
     "criteria": {
       "has_log": "2024-12-20 01:49:24 +0000"
@@ -10113,6 +10119,12 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2024-12-20 06:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-20 00:08:39 +0000"
@@ -10407,6 +10419,12 @@
     },
     "done": true
   },
+  "the_bumblezone:beehemoth/tamed_beehemoth": {
+    "criteria": {
+      "tamed_beehemoth": "2024-12-20 06:01:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_coffee_table": {
     "criteria": {
       "has_log": "2024-12-20 01:49:24 +0000"
@@ -10686,6 +10704,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-20 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/warrior_bee": {
+    "criteria": {
+      "warrior_bee": "2024-12-20 06:04:21 +0000"
     },
     "done": true
   },
