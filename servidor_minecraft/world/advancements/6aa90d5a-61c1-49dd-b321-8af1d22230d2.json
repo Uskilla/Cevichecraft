@@ -8522,9 +8522,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-20 02:53:01 +0000"
+    },
+    "done": true
+  },
   "sereneseasons:recipes/redstone/season_sensor": {
     "criteria": {
       "has_calendar": "2024-12-19 22:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-20 03:01:55 +0000"
     },
     "done": true
   },
@@ -9368,6 +9380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-20 03:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 23:47:13 +0000"
@@ -9413,6 +9431,12 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-20 01:28:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2024-12-20 02:53:01 +0000"
     },
     "done": true
   },
