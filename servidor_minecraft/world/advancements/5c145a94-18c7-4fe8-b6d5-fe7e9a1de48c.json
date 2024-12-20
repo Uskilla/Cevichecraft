@@ -9182,6 +9182,7 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "crystal_canyon": "2024-12-20 05:34:58 +0000",
       "sugar_water_floor": "2024-12-20 05:27:09 +0000",
       "hive_wall": "2024-12-20 05:25:47 +0000"
     },

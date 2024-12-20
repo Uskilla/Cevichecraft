@@ -9285,6 +9285,12 @@
     },
     "done": true
   },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2024-12-20 05:39:09 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/edelwood_bucket": {
     "criteria": {
       "has_planks": "2024-12-20 00:14:30 +0000"
