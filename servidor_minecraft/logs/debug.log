@@ -15402,3 +15402,13 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [20Dec2024 04:28:19.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 04:28:19.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Dec2024 04:32:26.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[20Dec2024 04:33:21.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:33:21.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:37:41.543] [Server thread/DEBUG] [mixin/]: Mixing AdvancementBehaviourAccessor from create_dragon_lib.mixins.json into com.simibubi.create.foundation.advancement.AdvancementBehaviour
+[20Dec2024 04:37:41.543] [Server thread/DEBUG] [mixin/]: create_dragon_lib.mixins.json:AdvancementBehaviourAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[20Dec2024 04:38:21.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:38:21.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:41:32.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [The Andesite Age]
+[20Dec2024 04:43:21.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:43:21.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:43:29.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Bonk!]

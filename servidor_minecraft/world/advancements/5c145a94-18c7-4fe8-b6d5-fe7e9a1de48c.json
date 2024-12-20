@@ -9941,6 +9941,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/dark_rune_block_from_dark_rune": {
+    "criteria": {
+      "has_dark_rune": "2024-12-20 04:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-20 00:08:29 +0000"
@@ -10247,6 +10253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-20 04:37:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-20 03:42:17 +0000"
@@ -10316,6 +10328,12 @@
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2024-12-19 23:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-20 04:37:47 +0000"
     },
     "done": true
   },

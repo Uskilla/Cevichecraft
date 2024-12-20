@@ -8879,6 +8879,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2024-12-20 04:34:17 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-20 04:14:22 +0000"
