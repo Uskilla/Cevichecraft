@@ -8649,6 +8649,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_desert_sword": {
+    "criteria": {
+      "has_item": "2024-12-20 01:17:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-20 01:03:19 +0000"
@@ -8667,9 +8673,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 01:17:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-20 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 01:17:16 +0000"
     },
     "done": true
   },
@@ -8703,9 +8721,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-20 01:19:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-20 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "resin": "2024-12-20 01:17:07 +0000"
     },
     "done": true
   },
@@ -8721,6 +8751,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_desert_hoe": {
+    "criteria": {
+      "has_item": "2024-12-20 01:17:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-20 00:08:29 +0000"
@@ -8733,6 +8769,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 01:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 01:17:16 +0000"
+    },
+    "done": true
+  },
   "evilcraft:cannibal": {
     "criteria": {
       "criteria_0": "2024-12-20 00:05:00 +0000"
@@ -8742,6 +8790,12 @@
   "ad_astra:recipes/misc/small_purple_industrial_lamp": {
     "criteria": {
       "has_small_purple_industrial_lamp": "2024-12-20 00:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 01:17:16 +0000"
     },
     "done": true
   },
@@ -8769,9 +8823,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 01:19:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-20 01:19:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-20 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 01:17:16 +0000"
     },
     "done": true
   },
@@ -8790,6 +8862,30 @@
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-19 23:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 01:17:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 01:17:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_desert": {
+    "criteria": {
+      "has_item": "2024-12-20 01:17:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-20 01:17:07 +0000"
     },
     "done": true
   },
@@ -8823,15 +8919,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 01:17:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-20 00:08:29 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/myrmex_desert_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 01:17:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-20 00:08:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 01:17:07 +0000"
     },
     "done": true
   },
@@ -8889,6 +9003,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-20 01:19:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_shovel": {
+    "criteria": {
+      "has_item": "2024-12-20 01:17:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-20 01:03:19 +0000"
@@ -8910,6 +9036,18 @@
   "cfm:recipes/decorations/dye_red_picket_fence": {
     "criteria": {
       "has_dye": "2024-12-20 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_axe": {
+    "criteria": {
+      "has_item": "2024-12-20 01:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 01:17:16 +0000"
     },
     "done": true
   },
@@ -8949,6 +9087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 01:17:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2024-12-20 00:19:56 +0000"
@@ -8982,6 +9126,12 @@
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-20 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2024-12-20 01:17:07 +0000"
     },
     "done": true
   },
@@ -9021,6 +9171,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-20 01:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 01:17:16 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_red_industrial_lamp": {
     "criteria": {
       "has_small_red_industrial_lamp": "2024-12-20 00:08:39 +0000"
@@ -9042,6 +9204,12 @@
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-20 00:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 01:17:16 +0000"
     },
     "done": true
   },

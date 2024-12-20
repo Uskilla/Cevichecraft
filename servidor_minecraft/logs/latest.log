@@ -123,3 +123,20 @@
 [20Dec2024 01:14:05.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [20Dec2024 01:14:49.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
 [20Dec2024 01:15:45.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20Dec2024 01:16:38.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[20Dec2024 01:16:57.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4131ms or 82 ticks behind
+[20Dec2024 01:17:07.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [The Only Good Bug...]
+[20Dec2024 01:17:07.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Its Like Printing my Own Money!]
+[20Dec2024 01:17:16.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20Dec2024 01:17:35.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uskilla moved too quickly! -3.5097494986667925,1.0,9.55842221722662
+[20Dec2024 01:17:35.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[20Dec2024 01:18:22.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug was slain by Myrmex Sentinel
+[20Dec2024 01:24:10.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Dec2024 01:24:36.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[20Dec2024 01:24:54.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3155ms or 63 ticks behind
+[20Dec2024 01:25:13.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lait_Estrok lost connection: Kicked by an operator
+[20Dec2024 01:25:13.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok left the game
+[20Dec2024 01:25:13.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uskilla: Kicked Lait_Estrok: Kicked by an operator]
+[20Dec2024 01:25:13.398] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 01:26:09.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug was shot by Missionary
+[20Dec2024 01:26:59.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/149430, l='ServerLevel[world]', x=7293.79, y=27.18, z=5136.45] died, message: 'Villager was slain by Zombie'

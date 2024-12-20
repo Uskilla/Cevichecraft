@@ -8351,6 +8351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 01:12:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2024-12-19 23:42:58 +0000"
@@ -8456,6 +8462,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-19 23:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 01:12:29 +0000"
     },
     "done": true
   },
