@@ -5283,6 +5283,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-20 00:29:09 +0000",
       "cooked_mutton": "2024-12-18 04:25:23 +0000",
       "cooked_beef": "2024-12-18 03:35:31 +0000",
       "baked_potato": "2024-12-18 06:15:09 +0000",
@@ -8527,6 +8528,12 @@
   "bosses_of_mass_destruction:recipes/brimstone_nectar": {
     "criteria": {
       "has_netherite_scrap": "2024-12-19 23:42:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-20 00:27:30 +0000"
     },
     "done": true
   },

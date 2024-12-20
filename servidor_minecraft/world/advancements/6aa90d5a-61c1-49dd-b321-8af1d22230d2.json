@@ -1783,7 +1783,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-20 00:31:46 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-20 00:07:43 +0000",
+      "minecraft:taiga": "2024-12-20 00:24:40 +0000",
+      "minecraft:frozen_river": "2024-12-20 00:31:56 +0000",
       "minecraft:cherry_grove": "2024-12-18 05:34:14 +0000",
       "minecraft:sunflower_plains": "2024-12-18 06:19:47 +0000",
       "minecraft:birch_forest": "2024-12-18 04:38:37 +0000",
@@ -1794,10 +1797,17 @@
       "minecraft:lukewarm_ocean": "2024-12-18 05:09:04 +0000",
       "minecraft:river": "2024-12-18 03:48:37 +0000",
       "minecraft:stony_shore": "2024-12-18 05:10:42 +0000",
+      "minecraft:snowy_plains": "2024-12-20 00:30:55 +0000",
       "minecraft:dripstone_caves": "2024-12-18 06:44:00 +0000",
+      "minecraft:snowy_taiga": "2024-12-20 00:32:34 +0000",
+      "minecraft:cold_ocean": "2024-12-20 00:25:25 +0000",
       "minecraft:forest": "2024-12-18 03:56:56 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-20 00:27:08 +0000",
+      "minecraft:frozen_ocean": "2024-12-20 00:30:06 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-20 00:27:12 +0000",
       "minecraft:jungle": "2024-12-18 04:43:29 +0000",
       "minecraft:ocean": "2024-12-18 03:55:36 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-20 00:24:06 +0000",
       "minecraft:windswept_savanna": "2024-12-18 04:44:15 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-18 05:16:02 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 03:54:46 +0000",
@@ -8047,6 +8057,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 00:32:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2024-12-19 23:08:07 +0000"
@@ -8203,6 +8219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-20 00:26:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_crate": {
     "criteria": {
       "has_planks": "2024-12-19 23:34:42 +0000"
@@ -8299,6 +8321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-20 00:26:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_chair": {
     "criteria": {
       "has_planks": "2024-12-19 23:34:42 +0000"
@@ -8314,6 +8342,12 @@
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2024-12-19 23:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-20 00:26:54 +0000"
     },
     "done": true
   },
@@ -8338,6 +8372,12 @@
   "sereneseasons:recipes/redstone/season_sensor": {
     "criteria": {
       "has_calendar": "2024-12-19 22:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-20 00:32:28 +0000"
     },
     "done": true
   },
@@ -8392,6 +8432,18 @@
   "alexsmobs:alexsmobs/fish_bones": {
     "criteria": {
       "sopa_de_macaco": "2024-12-19 23:36:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-20 00:32:28 +0000"
     },
     "done": true
   },
@@ -8584,6 +8636,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-19 23:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-20 00:26:54 +0000"
     },
     "done": true
   },
@@ -8896,6 +8954,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-19 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 00:32:06 +0000"
     },
     "done": true
   },
