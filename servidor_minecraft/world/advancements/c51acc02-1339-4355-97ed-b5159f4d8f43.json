@@ -3300,7 +3300,9 @@
       "minecraft:spider": "2024-12-19 04:29:37 +0000",
       "minecraft:piglin_brute": "2024-12-19 22:59:18 +0000",
       "minecraft:creeper": "2024-12-18 04:24:31 +0000",
+      "minecraft:zombified_piglin": "2024-12-20 05:50:04 +0000",
       "minecraft:piglin": "2024-12-19 22:56:22 +0000",
+      "minecraft:enderman": "2024-12-20 05:48:23 +0000",
       "minecraft:zombie": "2024-12-18 04:11:24 +0000",
       "minecraft:drowned": "2024-12-19 04:28:31 +0000",
       "minecraft:zombie_villager": "2024-12-18 06:58:03 +0000"
@@ -6382,7 +6384,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-19 04:37:32 +0000",
-      "minecraft:soul_sand_valley": "2024-12-19 04:41:06 +0000"
+      "minecraft:soul_sand_valley": "2024-12-19 04:41:06 +0000",
+      "minecraft:nether_wastes": "2024-12-20 05:47:31 +0000"
     },
     "done": false
   },
@@ -8960,15 +8963,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-20 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
     },
     "done": true
   },
@@ -9002,6 +9023,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:verglas": {
     "criteria": {
       "item": "2024-12-20 03:52:31 +0000"
@@ -9017,6 +9050,12 @@
   "soulsweapons:recipes/combat/sting": {
     "criteria": {
       "has_item": "2024-12-20 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
     },
     "done": true
   },
@@ -9092,6 +9131,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
@@ -9113,6 +9158,36 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-20 03:45:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_chair": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
     },
     "done": true
   },
@@ -9155,6 +9230,12 @@
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2024-12-20 03:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 05:56:25 +0000"
     },
     "done": true
   },
@@ -9230,6 +9311,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
@@ -9242,15 +9329,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-20 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
     },
     "done": true
   },
@@ -9290,6 +9395,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-20 04:27:07 +0000"
@@ -9302,9 +9419,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_blinds": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
     },
     "done": true
   },
@@ -9326,6 +9461,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
@@ -9338,9 +9479,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
     },
     "done": true
   },
