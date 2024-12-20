@@ -425,3 +425,16 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [20Dec2024 05:03:55.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Spirit Taking]
 [20Dec2024 05:04:05.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has reached the goal [A Shower "Experience"]
 [20Dec2024 05:13:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Double Trouble]
+[20Dec2024 05:15:57.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Hot Stuff]
+[20Dec2024 05:19:47.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Not a Fluid!]
+[20Dec2024 05:25:28.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Bee Our Guest]
+[20Dec2024 05:25:36.799] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Dec2024 05:25:36.802] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[20Dec2024 05:25:36.803] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 iron_pickaxe
+[20Dec2024 05:25:36.804] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Dec2024 05:25:36.804] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
+[20Dec2024 05:25:43.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8004ms or 160 ticks behind
+[20Dec2024 05:26:04.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[20Dec2024 05:26:15.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Winning Favors]
+[20Dec2024 05:26:16.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has completed the challenge [Well, that was disgusting]
+[20Dec2024 05:31:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Sticky Situation]

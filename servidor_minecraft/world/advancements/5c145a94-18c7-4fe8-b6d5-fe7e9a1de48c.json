@@ -4345,6 +4345,7 @@
       "rotten_flesh": "2024-12-18 05:18:06 +0000",
       "glow_berries": "2024-12-18 05:16:55 +0000",
       "melon_slice": "2024-12-20 01:32:43 +0000",
+      "cooked_chicken": "2024-12-20 05:14:08 +0000",
       "enchanted_golden_apple": "2024-12-18 05:20:58 +0000",
       "rabbit_stew": "2024-12-18 04:09:41 +0000",
       "carrot": "2024-12-18 05:25:07 +0000"
@@ -8639,6 +8640,12 @@
     },
     "done": false
   },
+  "the_bumblezone:effects/honey_permission": {
+    "criteria": {
+      "honey_permission": "2024-12-20 05:26:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 03:42:17 +0000"
@@ -8879,9 +8886,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_black_industrial_lamp": {
+    "criteria": {
+      "has_small_black_industrial_lamp": "2024-12-20 05:23:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-20 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_black_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-12-20 05:23:27 +0000"
     },
     "done": true
   },
@@ -9017,6 +9036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-20 05:20:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-20 03:42:17 +0000"
@@ -9107,6 +9132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-20 05:20:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-20 00:08:29 +0000"
@@ -9146,6 +9177,19 @@
   "cfm:recipes/decorations/stripped_jungle_park_bench": {
     "criteria": {
       "has_log": "2024-12-20 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "sugar_water_floor": "2024-12-20 05:27:09 +0000",
+      "hive_wall": "2024-12-20 05:25:47 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2024-12-20 05:25:35 +0000"
     },
     "done": true
   },
@@ -9347,6 +9391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-20 05:25:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-20 00:08:39 +0000"
@@ -9356,6 +9406,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2024-12-20 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-20 05:25:28 +0000"
     },
     "done": true
   },
@@ -9377,9 +9433,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_black_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-12-20 05:23:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-20 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2024-12-20 05:31:55 +0000"
     },
     "done": true
   },
@@ -9461,6 +9529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-20 05:20:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_chestplate": {
     "criteria": {
       "has_item": "2024-12-20 01:17:07 +0000"
@@ -9527,6 +9601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 05:23:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2024-12-20 00:08:39 +0000"
@@ -9542,6 +9622,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-20 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/getting_protection": {
+    "criteria": {
+      "getting_protection": "2024-12-20 05:26:15 +0000"
     },
     "done": true
   },
@@ -9602,6 +9688,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2024-12-20 01:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 05:23:27 +0000"
     },
     "done": true
   },
@@ -9701,6 +9793,12 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_crystal/cleanup_sticky_honey_residue": {
+    "criteria": {
+      "cleanup_sticky_honey_residue": "2024-12-20 05:32:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 03:42:17 +0000"
@@ -9725,9 +9823,23 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_bee_house": "2024-12-20 05:27:13 +0000",
+      "in_candle_parkour": "2024-12-20 05:30:11 +0000",
+      "in_gazebuzz_cluster": "2024-12-20 05:33:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-20 02:25:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_industrial_lamp": {
+    "criteria": {
+      "has_black_industrial_lamp": "2024-12-20 05:23:27 +0000"
     },
     "done": true
   },
@@ -9863,9 +9975,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2024-12-20 05:25:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 05:23:27 +0000"
     },
     "done": true
   },
@@ -9923,6 +10047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 05:23:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-20 01:03:19 +0000"
@@ -9950,6 +10080,18 @@
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-20 00:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-20 05:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2024-12-20 05:26:02 +0000"
     },
     "done": true
   },
@@ -10076,6 +10218,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-20 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 05:23:27 +0000"
     },
     "done": true
   },
@@ -10238,6 +10386,12 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-20 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-20 05:20:37 +0000"
     },
     "done": true
   },
@@ -10499,6 +10653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 05:23:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-20 01:30:44 +0000"
@@ -10514,6 +10674,12 @@
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2024-12-20 01:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 05:23:27 +0000"
     },
     "done": true
   },
