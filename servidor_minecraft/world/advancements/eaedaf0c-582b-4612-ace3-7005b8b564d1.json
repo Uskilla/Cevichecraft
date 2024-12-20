@@ -8885,9 +8885,93 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 04:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 04:45:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 04:45:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-20 04:14:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
     },
     "done": true
   },
@@ -8897,15 +8981,69 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-20 04:14:22 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 04:45:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
       "has_diamond_shovel": "2024-12-20 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
     },
     "done": true
   },

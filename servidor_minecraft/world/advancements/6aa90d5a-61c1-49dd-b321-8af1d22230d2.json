@@ -8042,6 +8042,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2024-12-20 04:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-12-19 23:31:12 +0000"
@@ -8105,6 +8111,12 @@
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2024-12-20 04:41:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2024-12-20 04:43:56 +0000"
     },
     "done": true
   },
@@ -8768,6 +8780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-20 04:44:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:43:46 +0000"
@@ -9062,6 +9080,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-12-20 04:43:54 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2024-12-19 23:36:42 +0000"
@@ -9134,6 +9158,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2024-12-20 04:56:22 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
       "in_purple_soda": "2024-12-20 01:39:56 +0000"
@@ -9143,6 +9173,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-20 01:04:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2024-12-20 04:43:56 +0000"
     },
     "done": true
   },
@@ -9161,6 +9197,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2024-12-20 03:50:05 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2024-12-20 04:43:56 +0000"
     },
     "done": true
   },
@@ -9344,6 +9386,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2024-12-20 04:43:56 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
       "cave_book": "2024-12-20 01:29:34 +0000"
@@ -9389,6 +9437,12 @@
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:43:46 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-12-20 04:48:03 +0000"
     },
     "done": true
   },
@@ -9584,6 +9638,12 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-12-20 04:43:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-12-20 04:30:42 +0000"
@@ -9695,6 +9755,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2024-12-20 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2024-12-20 04:43:56 +0000"
     },
     "done": true
   },
@@ -9866,6 +9932,12 @@
     },
     "done": true
   },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2024-12-20 04:52:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2024-12-20 04:41:36 +0000"
@@ -9917,6 +9989,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-20 04:27:42 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2024-12-20 04:55:11 +0000"
     },
     "done": true
   },
@@ -10094,6 +10172,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2024-12-20 04:43:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 23:47:13 +0000"
@@ -10139,6 +10223,12 @@
   "iceandfire:recipes/combat/forest_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-20 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2024-12-20 04:55:08 +0000"
     },
     "done": true
   },
@@ -10247,6 +10337,12 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:43:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2024-12-20 04:44:56 +0000"
     },
     "done": true
   },
