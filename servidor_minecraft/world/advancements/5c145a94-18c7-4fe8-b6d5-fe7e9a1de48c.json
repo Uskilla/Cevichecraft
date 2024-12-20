@@ -8674,6 +8674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-20 02:36:22 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2024-12-20 00:22:55 +0000"
@@ -8713,6 +8719,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2024-12-20 00:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-20 02:32:42 +0000"
     },
     "done": true
   },
@@ -8926,6 +8938,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-20 02:34:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_log": "2024-12-20 01:49:24 +0000"
@@ -8953,6 +8971,12 @@
   "cfm:recipes/decorations/jungle_chair": {
     "criteria": {
       "has_log": "2024-12-20 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-20 02:35:04 +0000"
     },
     "done": true
   },
@@ -9130,6 +9154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-20 02:34:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_boots": {
     "criteria": {
       "has_item": "2024-12-20 01:17:07 +0000"
@@ -9202,6 +9232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-20 02:32:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-12-20 02:25:12 +0000"
@@ -9265,6 +9301,12 @@
   "cfm:recipes/decorations/jungle_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-20 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-20 02:36:22 +0000"
     },
     "done": true
   },
@@ -9382,6 +9424,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-20 02:34:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-20 01:49:24 +0000"
@@ -9403,6 +9451,12 @@
   "forbidden_arcanus:recipes/misc/stellarite_block_from_stellarite_piece": {
     "criteria": {
       "has_stellarite_piece": "2024-12-20 00:13:29 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-12-20 02:32:42 +0000"
     },
     "done": true
   },
@@ -9430,6 +9484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-20 02:37:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-20 01:03:19 +0000"
@@ -9445,6 +9505,12 @@
   "cfm:recipes/decorations/stripped_jungle_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-20 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-20 02:31:17 +0000"
     },
     "done": true
   },
@@ -9505,6 +9571,12 @@
   "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-20 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-20 02:36:22 +0000"
     },
     "done": true
   },
@@ -9592,6 +9664,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-20 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-20 02:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-12-20 01:17:16 +0000"
@@ -9613,6 +9697,12 @@
   "cfm:recipes/decorations/jungle_desk": {
     "criteria": {
       "has_log": "2024-12-20 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-20 02:36:22 +0000"
     },
     "done": true
   },

@@ -8515,6 +8515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-20 02:31:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-19 23:43:31 +0000"
@@ -8587,6 +8593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-20 02:31:51 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/arcane_crystal_dust": {
     "criteria": {
       "has_arcane_crystal_dust_speck": "2024-12-20 02:15:30 +0000"
@@ -8614,6 +8626,12 @@
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-20 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-20 02:31:51 +0000"
     },
     "done": true
   },
@@ -8742,6 +8760,12 @@
       "featherlight": "2024-12-19 22:41:38 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-20 02:31:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {

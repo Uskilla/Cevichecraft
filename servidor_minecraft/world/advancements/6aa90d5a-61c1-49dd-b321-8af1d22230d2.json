@@ -2746,6 +2746,7 @@
       "minecraft:skeleton": "2024-12-18 04:56:39 +0000",
       "minecraft:spider": "2024-12-18 04:21:04 +0000",
       "minecraft:creeper": "2024-12-18 04:19:05 +0000",
+      "minecraft:slime": "2024-12-20 02:28:36 +0000",
       "minecraft:phantom": "2024-12-20 00:40:09 +0000",
       "minecraft:witch": "2024-12-18 06:23:59 +0000",
       "minecraft:cave_spider": "2024-12-20 01:37:23 +0000",
@@ -8293,6 +8294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-20 02:30:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2024-12-19 23:34:42 +0000"
@@ -8380,6 +8387,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-19 23:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-20 02:30:10 +0000"
     },
     "done": true
   },
@@ -8587,9 +8600,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-20 02:30:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-20 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/clibano_core": {
+    "criteria": {
+      "has_darkstone": "2024-12-20 02:30:37 +0000"
     },
     "done": true
   },
@@ -8740,6 +8765,12 @@
   "forbidden_arcanus:recipes/misc/edelwood_bucket": {
     "criteria": {
       "has_planks": "2024-12-20 00:14:30 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/tiled_polished_darkstone_bricks_from_darkstone_stonecutting": {
+    "criteria": {
+      "has_darkstone": "2024-12-20 02:30:37 +0000"
     },
     "done": true
   },
@@ -9175,6 +9206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-20 02:30:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_mud_bricks": "2024-12-19 23:41:55 +0000"
@@ -9430,6 +9467,12 @@
   "undead_revamp2:mygothgf": {
     "criteria": {
       "mygothgf_0": "2024-12-20 00:16:56 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/arcane_chiseled_darkstone": {
+    "criteria": {
+      "has_darkstone": "2024-12-20 02:30:37 +0000"
     },
     "done": true
   },
