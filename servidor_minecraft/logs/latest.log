@@ -178,3 +178,24 @@
 [20Dec2024 01:44:40.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Sea? Not a Problem]
 [20Dec2024 01:45:25.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was slain by Caniac
 [20Dec2024 01:46:01.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was squashed by a falling anvil
+[20Dec2024 01:47:59.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[20Dec2024 01:48:20.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5819ms or 116 ticks behind
+[20Dec2024 01:48:41.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Poseidon, God of the Seas]
+[20Dec2024 01:50:23.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug was struck with lightning by a dragon
+[20Dec2024 01:51:13.546] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Dec2024 01:51:13.547] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Dec2024 01:51:50.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Dragonslayer]
+[20Dec2024 01:53:55.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[20Dec2024 01:54:12.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[20Dec2024 01:55:32.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was turned into KFC by a dragon
+[20Dec2024 01:56:13.081] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Dec2024 01:56:13.082] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Dec2024 01:56:13.987] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Dec2024 01:56:15.311] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=22, y=0, z=-1103}
+[20Dec2024 01:56:26.789] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-20, y=0, z=-1082}
+[20Dec2024 01:56:39.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko burned to death
+[20Dec2024 01:56:39.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was slain by Fire Dragon
+[20Dec2024 01:57:43.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Surfer Rosa]
+[20Dec2024 02:04:01.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla was slain by Nightmare Stalker
+[20Dec2024 02:04:07.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Life turned out to be a comedy]
+[20Dec2024 02:05:21.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Tis the Season]

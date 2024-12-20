@@ -8581,6 +8581,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-20 01:49:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-20 00:32:28 +0000"
@@ -9091,6 +9097,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-20 02:04:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-19 23:34:42 +0000"
@@ -9172,6 +9184,12 @@
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2024-12-20 00:04:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2024-12-20 02:05:21 +0000"
     },
     "done": true
   },
