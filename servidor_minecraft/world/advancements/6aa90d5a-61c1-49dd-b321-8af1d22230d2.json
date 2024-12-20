@@ -7993,6 +7993,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_slab": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-20 00:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-12-19 23:31:12 +0000"
@@ -8125,6 +8131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 00:15:55 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/edelwood_planks": {
     "criteria": {
       "has_log": "2024-12-20 00:07:06 +0000"
@@ -8158,6 +8170,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_door": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-20 00:14:30 +0000"
     },
     "done": true
   },
@@ -8455,6 +8473,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/edelwood_bucket": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:14:30 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2024-12-19 23:08:07 +0000"
@@ -8482,6 +8506,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-19 23:08:07 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_fence_gate": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-20 00:14:30 +0000"
     },
     "done": true
   },
@@ -8575,9 +8605,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 00:15:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_trapdoor": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-20 00:14:30 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_stairs": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-20 00:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-19 23:47:13 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/transportation/edelwood_boat": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-20 00:14:30 +0000"
     },
     "done": true
   },
@@ -8608,6 +8662,18 @@
   "soulsweapons:recipes/combat/dragon_staff": {
     "criteria": {
       "has_item": "2024-12-19 23:44:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-20 00:15:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/arcane_edelwood_planks": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-20 00:14:30 +0000"
     },
     "done": true
   },
@@ -8656,6 +8722,12 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2024-12-19 23:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 00:15:55 +0000"
     },
     "done": true
   },
@@ -8731,9 +8803,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_fence": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-20 00:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-12-19 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 00:15:55 +0000"
     },
     "done": true
   },
@@ -8833,9 +8917,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/redstone/edelwood_pressure_plate": {
+    "criteria": {
+      "has_edelwood_planks": "2024-12-20 00:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-19 23:49:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/redstone/edelwood_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:14:30 +0000"
     },
     "done": true
   },
@@ -8854,6 +8950,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-19 23:44:01 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2024-12-20 00:16:56 +0000"
     },
     "done": true
   },

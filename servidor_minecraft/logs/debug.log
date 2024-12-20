@@ -12068,3 +12068,15 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [20Dec2024 00:13:11.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 00:13:11.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Dec2024 00:13:52.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20Dec2024 00:14:33.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20Dec2024 00:14:52.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3807ms or 76 ticks behind
+[20Dec2024 00:16:56.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has completed the challenge [My Bald Satanic Goth Girl Friend]
+[20Dec2024 00:18:18.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 00:18:18.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 00:18:56.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jose_cl13 lost connection: Disconnected
+[20Dec2024 00:18:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 left the game
+[20Dec2024 00:22:55.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has reached the goal [Big Boy]
+[20Dec2024 00:23:18.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 00:23:18.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 00:24:24.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20Dec2024 00:24:44.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
