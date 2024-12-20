@@ -595,3 +595,15 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [20Dec2024 23:37:11.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug joined the game
 [20Dec2024 23:37:29.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14303ms or 286 ticks behind
 [20Dec2024 23:41:10.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5828ms or 116 ticks behind
+[20Dec2024 23:44:50.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Choosing Wisely]
+[20Dec2024 23:49:29.122] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Joaquinxloko is 6aa90d5a-61c1-49dd-b321-8af1d22230d2
+[20Dec2024 23:49:39.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joaquinxloko[/172.26.159.190:54076] logged in with entity id 4128 at (-1521.6150979204392, 69.0, -556.849357997798)
+[20Dec2024 23:49:39.826] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joaquinxloko
+[20Dec2024 23:49:39.833] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joaquinxloko
+[20Dec2024 23:49:39.834] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joaquinxloko
+[20Dec2024 23:49:39.836] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joaquinxloko
+[20Dec2024 23:49:39.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joaquinxloko
+[20Dec2024 23:49:39.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joaquinxloko
+[20Dec2024 23:49:39.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joaquinxloko
+[20Dec2024 23:49:39.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko joined the game
+[20Dec2024 23:49:41.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind

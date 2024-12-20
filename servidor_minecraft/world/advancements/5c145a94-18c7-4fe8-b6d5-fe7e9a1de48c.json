@@ -3129,6 +3129,7 @@
       "minecraft:skeleton": "2024-12-18 04:17:05 +0000",
       "minecraft:spider": "2024-12-18 04:36:03 +0000",
       "minecraft:creeper": "2024-12-18 05:17:10 +0000",
+      "minecraft:phantom": "2024-12-20 23:45:17 +0000",
       "minecraft:cave_spider": "2024-12-18 04:39:40 +0000",
       "minecraft:stray": "2024-12-19 05:47:14 +0000",
       "minecraft:silverfish": "2024-12-20 01:05:33 +0000",
@@ -10822,11 +10823,29 @@
     },
     "done": true
   },
+  "the_bumblezone:crystalline_flower/grow_crystalline_flower": {
+    "criteria": {
+      "grow_crystalline_flower": "2024-12-20 23:42:51 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_glistering_honey_crystal_block": {
+    "criteria": {
+      "obtain_glistering_honey_crystal_block": "2024-12-20 23:42:28 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:decor/obtain_all_string_curtains": {
     "criteria": {
       "purple_string_curtain": "2024-12-20 23:39:12 +0000"
     },
     "done": false
+  },
+  "the_bumblezone:crystalline_flower/enchant_crystalline_flower": {
+    "criteria": {
+      "enchant_crystalline_flower": "2024-12-20 23:44:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
