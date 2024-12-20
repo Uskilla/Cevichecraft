@@ -9140,6 +9140,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2024-12-20 05:04:05 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
       "in_purple_soda": "2024-12-20 03:12:38 +0000"
@@ -9299,6 +9305,12 @@
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2024-12-20 05:03:55 +0000"
     },
     "done": true
   },
