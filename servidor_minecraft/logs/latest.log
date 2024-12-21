@@ -39,3 +39,29 @@
 [21Dec2024 01:45:41.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Bypassing the Expiration Date]
 [21Dec2024 01:52:06.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has reached the goal [Horror Under the Mantle]
 [21Dec2024 01:57:44.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21Dec2024 01:58:08.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8894ms or 177 ticks behind
+[21Dec2024 01:58:25.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[21Dec2024 01:58:46.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [A Terrible Fortress]
+[21Dec2024 01:58:56.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko moved wrongly!
+[21Dec2024 02:09:55.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[21Dec2024 02:10:13.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[21Dec2024 02:10:32.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4001ms or 80 ticks behind
+[21Dec2024 02:10:56.877] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Uskilla is eaedaf0c-582b-4612-ace3-7005b8b564d1
+[21Dec2024 02:10:59.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12435ms or 248 ticks behind
+[21Dec2024 02:11:04.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uskilla[/172.26.75.225:59676] logged in with entity id 61815 at (679.1398274836847, 66.0, -426.7117055694302)
+[21Dec2024 02:11:04.727] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Uskilla
+[21Dec2024 02:11:04.733] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Uskilla
+[21Dec2024 02:11:04.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Uskilla
+[21Dec2024 02:11:04.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Uskilla
+[21Dec2024 02:11:04.739] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Uskilla
+[21Dec2024 02:11:04.748] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Uskilla
+[21Dec2024 02:11:04.749] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Uskilla
+[21Dec2024 02:11:04.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla joined the game
+[21Dec2024 02:13:24.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[21Dec2024 02:13:41.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[21Dec2024 02:15:52.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[21Dec2024 02:16:07.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko moved wrongly!
+[21Dec2024 02:16:15.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[21Dec2024 02:16:52.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko lost connection: Disconnected
+[21Dec2024 02:16:52.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko left the game
+[21Dec2024 02:17:12.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [The Desert Swimmers]

@@ -2745,12 +2745,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-19 22:45:31 +0000",
+      "minecraft:blaze": "2024-12-21 02:00:55 +0000",
       "minecraft:skeleton": "2024-12-18 04:56:39 +0000",
       "minecraft:spider": "2024-12-18 04:21:04 +0000",
       "minecraft:creeper": "2024-12-18 04:19:05 +0000",
       "minecraft:slime": "2024-12-20 02:28:36 +0000",
       "minecraft:phantom": "2024-12-20 00:40:09 +0000",
+      "minecraft:zombified_piglin": "2024-12-21 02:01:21 +0000",
       "minecraft:witch": "2024-12-18 06:23:59 +0000",
+      "minecraft:wither_skeleton": "2024-12-21 01:59:42 +0000",
       "minecraft:cave_spider": "2024-12-20 01:37:23 +0000",
       "minecraft:enderman": "2024-12-18 05:06:31 +0000",
       "minecraft:zombie": "2024-12-18 03:52:40 +0000",
@@ -8122,7 +8125,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-19 22:52:20 +0000",
       "minecraft:nether_wastes": "2024-12-21 01:35:51 +0000",
-      "minecraft:soul_sand_valley": "2024-12-21 01:35:54 +0000"
+      "minecraft:soul_sand_valley": "2024-12-21 01:35:54 +0000",
+      "minecraft:warped_forest": "2024-12-21 01:58:19 +0000"
     },
     "done": false
   },
@@ -10568,9 +10572,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2024-12-21 02:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-21 01:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 02:00:07 +0000"
     },
     "done": true
   },
@@ -10580,15 +10596,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 02:00:07 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/arcane_crystal_from_arcane_crystal_block": {
     "criteria": {
       "has_item": "2024-12-21 01:32:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 02:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 02:00:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-21 01:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 02:00:07 +0000"
     },
     "done": true
   },
@@ -10610,9 +10650,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 02:00:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-12-21 01:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 02:00:07 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
     "criteria": {
       "has_clay_ball": "2024-12-21 01:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-21 01:58:46 +0000"
     },
     "done": true
   },
@@ -10625,6 +10689,30 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-21 01:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 02:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 02:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-21 02:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-21 02:03:50 +0000"
     },
     "done": true
   },

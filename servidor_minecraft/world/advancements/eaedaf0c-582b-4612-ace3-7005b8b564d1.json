@@ -8879,11 +8879,59 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-20 04:14:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-20 04:14:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-20 04:14:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-20 04:23:29 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_2": "2024-12-20 04:34:17 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 04:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 04:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 04:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 04:45:53 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
@@ -8897,39 +8945,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_granite": {
-    "criteria": {
-      "has_quartz": "2024-12-20 05:43:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2024-12-20 05:43:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2024-12-20 05:57:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-20 04:45:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-20 04:45:53 +0000"
     },
     "done": true
   },
@@ -8945,45 +8963,9 @@
     },
     "done": true
   },
-  "undead_revamp2:nicehousebro": {
-    "criteria": {
-      "nicehousebro_0": "2024-12-20 05:43:48 +0000"
-    },
-    "done": true
-  },
-  "sereneseasons:recipes/tools/calendar": {
-    "criteria": {
-      "has_clock": "2024-12-20 05:57:13 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_observer": {
-    "criteria": {
-      "has_quartz": "2024-12-20 05:43:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-12-20 04:45:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2024-12-20 05:43:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-20 04:14:22 +0000"
     },
     "done": true
   },
@@ -9017,39 +8999,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2024-12-20 05:43:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2024-12-20 05:43:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-20 04:14:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2024-12-20 05:43:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-20 05:34:43 +0000"
     },
     "done": true
   },
@@ -9071,18 +9023,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-20 05:34:43 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-20 04:14:22 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
@@ -9095,15 +9035,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
-      "has_quartz": "2024-12-20 05:43:55 +0000"
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
-      "has_slime_ball": "2024-12-20 04:45:53 +0000"
+      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-20 05:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-20 05:34:43 +0000"
     },
     "done": true
   },
@@ -9113,21 +9065,69 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+  "undead_revamp2:nicehousebro": {
     "criteria": {
-      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+      "nicehousebro_0": "2024-12-20 05:43:48 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_shovel_repairing": {
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
-      "has_diamond_shovel": "2024-12-20 04:23:29 +0000"
+      "has_quartz": "2024-12-20 05:43:55 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_stone_types_dripstone": "2024-12-20 04:57:02 +0000"
+      "has_quartz": "2024-12-20 05:43:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-20 05:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-20 05:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-20 05:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-20 05:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-20 05:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-20 05:43:55 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2024-12-20 05:57:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-12-20 05:57:23 +0000"
     },
     "done": true
   },
