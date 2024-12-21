@@ -34,3 +34,5 @@
 [21Dec2024 01:14:36.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37396, l='ServerLevel[world]', x=3579.67, y=72.00, z=669.66] died, message: 'Villager hit the ground too hard whilst trying to escape The Rod'
 [21Dec2024 01:15:25.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [21Dec2024 01:15:25.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[21Dec2024 01:34:32.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CueBallEntity['Possessed Engineer'/47476, l='ServerLevel[world]', x=226.62, y=99.00, z=-66.22] died: Possessed Engineer was killed
+[21Dec2024 01:37:00.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
