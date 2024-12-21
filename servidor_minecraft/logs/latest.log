@@ -1,1 +1,5 @@
 [21Dec2024 00:03:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was slain by Lifestealer
+[21Dec2024 00:09:26.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko lost connection: Disconnected
+[21Dec2024 00:09:26.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko left the game
+[21Dec2024 00:09:26.778] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 00:14:55.438] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Joaquinxloko is 6aa90d5a-61c1-49dd-b321-8af1d22230d2
