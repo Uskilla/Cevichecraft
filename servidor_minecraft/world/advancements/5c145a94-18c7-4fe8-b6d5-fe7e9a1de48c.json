@@ -3136,6 +3136,7 @@
       "minecraft:phantom": "2024-12-20 23:45:17 +0000",
       "minecraft:zombified_piglin": "2024-12-21 02:48:26 +0000",
       "minecraft:cave_spider": "2024-12-18 04:39:40 +0000",
+      "minecraft:piglin": "2024-12-21 05:09:31 +0000",
       "minecraft:stray": "2024-12-19 05:47:14 +0000",
       "minecraft:silverfish": "2024-12-20 01:05:33 +0000",
       "minecraft:endermite": "2024-12-20 23:38:58 +0000",
@@ -4352,6 +4353,7 @@
       "rotten_flesh": "2024-12-18 05:18:06 +0000",
       "glow_berries": "2024-12-18 05:16:55 +0000",
       "melon_slice": "2024-12-20 01:32:43 +0000",
+      "golden_carrot": "2024-12-21 05:12:34 +0000",
       "cooked_chicken": "2024-12-20 05:14:08 +0000",
       "enchanted_golden_apple": "2024-12-18 05:20:58 +0000",
       "rabbit_stew": "2024-12-18 04:09:41 +0000",
@@ -11108,6 +11110,12 @@
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2024-12-21 01:52:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2024-12-21 05:15:16 +0000"
     },
     "done": true
   },

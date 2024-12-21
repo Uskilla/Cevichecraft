@@ -10743,6 +10743,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:05 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2024-12-21 03:36:19 +0000"
@@ -10752,6 +10758,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2024-12-21 05:08:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:05 +0000"
     },
     "done": true
   },
@@ -10785,6 +10797,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2024-12-21 03:10:16 +0000"
@@ -10806,6 +10824,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2024-12-21 05:08:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2024-12-21 05:15:05 +0000"
     },
     "done": true
   },
@@ -10896,6 +10920,12 @@
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2024-12-21 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-21 05:15:05 +0000"
     },
     "done": true
   },
