@@ -135,3 +135,32 @@
 [21Dec2024 03:58:59.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
 [21Dec2024 03:59:18.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4069ms or 81 ticks behind
 [21Dec2024 03:59:35.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[21Dec2024 04:01:39.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko tried to swim in lava
+[21Dec2024 04:01:58.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GhostPlayerEntity['Joaquinxloko'/118557, l='ServerLevel[world]', x=855.28, y=63.27, z=-555.66] died: Joaquinxloko tried to swim in lava
+[21Dec2024 04:02:48.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Dec2024 04:03:07.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3984ms or 79 ticks behind
+[21Dec2024 04:03:29.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7120ms or 142 ticks behind
+[21Dec2024 04:03:30.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Dec2024 04:03:52.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7391ms or 147 ticks behind
+[21Dec2024 04:04:13.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6187ms or 123 ticks behind
+[21Dec2024 04:04:37.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8659ms or 173 ticks behind
+[21Dec2024 04:04:59.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7604ms or 152 ticks behind
+[21Dec2024 04:05:08.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Dec2024 04:05:18.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3866ms or 77 ticks behind
+[21Dec2024 04:05:37.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
+[21Dec2024 04:05:56.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4346ms or 86 ticks behind
+[21Dec2024 04:06:18.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6405ms or 128 ticks behind
+[21Dec2024 04:06:40.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7323ms or 146 ticks behind
+[21Dec2024 04:07:02.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7080ms or 141 ticks behind
+[21Dec2024 04:07:19.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[21Dec2024 04:08:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Cursed Pyramid]
+[21Dec2024 04:08:02.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[21Dec2024 04:08:05.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko moved wrongly!
+[21Dec2024 04:08:25.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8001ms or 160 ticks behind
+[21Dec2024 04:08:46.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6315ms or 126 ticks behind
+[21Dec2024 04:09:06.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
+[21Dec2024 04:09:29.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8454ms or 169 ticks behind
+[21Dec2024 04:09:49.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4825ms or 96 ticks behind
+[21Dec2024 04:10:12.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8296ms or 165 ticks behind
+[21Dec2024 04:10:35.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8147ms or 162 ticks behind
+[21Dec2024 04:10:53.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
