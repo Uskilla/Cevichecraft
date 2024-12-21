@@ -92,3 +92,6 @@
 [21Dec2024 02:35:15.816] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jose_cl13
 [21Dec2024 02:35:15.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 joined the game
 [21Dec2024 02:36:06.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [A... Fake?]
+[21Dec2024 02:50:27.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Dec2024 02:51:23.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Demon Slayer]
+[21Dec2024 02:57:12.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
