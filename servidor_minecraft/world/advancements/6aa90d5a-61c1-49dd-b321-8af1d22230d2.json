@@ -10746,5 +10746,17 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-21 03:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 03:47:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

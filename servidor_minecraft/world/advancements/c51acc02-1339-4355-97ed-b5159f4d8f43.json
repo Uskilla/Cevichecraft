@@ -3303,6 +3303,7 @@
       "minecraft:zombified_piglin": "2024-12-20 05:50:04 +0000",
       "minecraft:piglin": "2024-12-19 22:56:22 +0000",
       "minecraft:enderman": "2024-12-20 05:48:23 +0000",
+      "minecraft:silverfish": "2024-12-21 03:45:28 +0000",
       "minecraft:zombie": "2024-12-18 04:11:24 +0000",
       "minecraft:drowned": "2024-12-19 04:28:31 +0000",
       "minecraft:zombie_villager": "2024-12-18 06:58:03 +0000"
@@ -9515,6 +9516,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-21 03:45:33 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2024-12-21 02:35:06 +0000"
@@ -9532,6 +9539,12 @@
       "bluemoon_short": "2024-12-21 02:36:06 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-21 03:45:33 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
