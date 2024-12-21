@@ -3,3 +3,15 @@
 [21Dec2024 00:09:26.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko left the game
 [21Dec2024 00:09:26.778] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [21Dec2024 00:14:55.438] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Joaquinxloko is 6aa90d5a-61c1-49dd-b321-8af1d22230d2
+[21Dec2024 00:15:06.324] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c728d0[id=6aa90d5a-61c1-49dd-b321-8af1d22230d2,name=Joaquinxloko,properties={textures=[com.mojang.authlib.properties.Property@4485c800]},legacy=false] (/172.26.159.190:59984) lost connection: Disconnected
+[21Dec2024 00:17:37.560] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Joaquinxloko is 6aa90d5a-61c1-49dd-b321-8af1d22230d2
+[21Dec2024 00:17:48.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joaquinxloko[/172.26.159.190:60501] logged in with entity id 11834 at (-1423.516381035105, 49.0, -642.241228177744)
+[21Dec2024 00:17:48.414] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joaquinxloko
+[21Dec2024 00:17:48.414] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joaquinxloko
+[21Dec2024 00:17:48.415] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joaquinxloko
+[21Dec2024 00:17:48.423] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joaquinxloko
+[21Dec2024 00:17:48.425] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joaquinxloko
+[21Dec2024 00:17:48.427] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joaquinxloko
+[21Dec2024 00:17:48.428] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joaquinxloko
+[21Dec2024 00:17:48.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko joined the game
+[21Dec2024 00:17:49.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! -2.304131168787194,7.429862406456479,-6.431931852144544
