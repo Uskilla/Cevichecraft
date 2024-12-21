@@ -671,3 +671,88 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [21Dec2024 06:40:34.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was struck with lightning by a dragon
 [21Dec2024 06:40:35.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
 [21Dec2024 06:41:11.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[21Dec2024 06:41:29.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[21Dec2024 06:41:46.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
+[21Dec2024 06:41:50.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! -4.8476714991005565,8.224189779792042,-4.83344115611817
+[21Dec2024 06:42:41.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21Dec2024 06:43:24.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Best Friends Forever]
+[21Dec2024 06:43:58.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 16.319714706926447,1.6377866546833246,7.070007657692486
+[21Dec2024 06:43:58.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 17.465659770315938,1.9828010149140596,7.517628376303492
+[21Dec2024 06:43:58.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 18.622510368598682,2.322334032450044,7.964647787750437
+[21Dec2024 06:44:09.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 9.881458657277449,14.14327243979308,6.524562164216832
+[21Dec2024 06:44:09.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 10.748656891493283,15.451185131355004,7.085870381508812
+[21Dec2024 06:44:09.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 11.642771476728626,16.70102350425742,7.66346465805168
+[21Dec2024 06:44:09.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 12.560897448942796,17.89508730043373,8.255571266570769
+[21Dec2024 06:44:09.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 13.500436776681795,19.035585192079736,8.860619973119356
+[21Dec2024 06:44:09.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 14.459072535428163,20.12463838801358,9.477210443023068
+[21Dec2024 06:44:09.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 15.434790157361363,21.16428409722387,10.104012791059859
+[21Dec2024 06:45:03.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [An Ear-Shattering Roar]
+[21Dec2024 06:46:06.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Dragon Commander]
+[21Dec2024 06:47:26.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was energized by a dragon
+[21Dec2024 06:47:49.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
+[21Dec2024 06:47:49.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
+[21Dec2024 06:47:49.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
+[21Dec2024 06:47:49.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
+[21Dec2024 06:47:49.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
+[21Dec2024 06:47:49.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
+[21Dec2024 06:47:55.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Dec2024 06:48:06.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lait_Estrok moved too quickly! 3.156871275619551,-0.25086736114158725,9.68916028560676
+[21Dec2024 06:48:13.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! -0.12989253425635638,-11.213403912871321,-0.6180373615955546
+[21Dec2024 06:48:19.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! -5.859261232542252,8.119168973177963,3.0120564507489007
+[21Dec2024 06:48:24.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lait_Estrok moved too quickly! -9.203009055081111,1.7461092740512356,3.7470091041396927
+[21Dec2024 06:48:58.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lait_Estrok moved too quickly! 3.5638519787994483,0.7461092740512356,-9.640410483971493
+[21Dec2024 06:49:02.865] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[21Dec2024 06:49:02.866] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[21Dec2024 06:49:03.490] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 61bb549f-5857-450a-a87d-dda88f89d352
+[21Dec2024 06:49:03.545] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 18644bd4-ce42-45ef-862e-14d44cffcecb
+[21Dec2024 06:49:03.546] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Cevichecraft/servidor_minecraft/./crash-reports/crash-2024-12-21_06.49.03-server.txt
+[21Dec2024 06:49:04.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko moved too quickly! 7.473569805107331,2.249187078744683,6.538386925159784
+[21Dec2024 06:49:04.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! -3.118457853683992,8.851674601738054,3.7542671374727945
+[21Dec2024 06:49:04.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Dec2024 06:49:04.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Dec2024 06:49:05.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko lost connection: Server closed
+[21Dec2024 06:49:05.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko left the game
+[21Dec2024 06:49:05.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uskilla lost connection: Server closed
+[21Dec2024 06:49:05.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla left the game
+[21Dec2024 06:49:05.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Dec2024 06:49:05.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Dec2024 06:49:06.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[21Dec2024 06:49:06.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[21Dec2024 06:49:06.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Dec2024 06:49:06.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[21Dec2024 06:49:06.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[21Dec2024 06:49:06.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[21Dec2024 06:49:06.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[21Dec2024 06:49:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[21Dec2024 06:49:06.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[21Dec2024 06:49:06.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[21Dec2024 06:49:06.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[21Dec2024 06:49:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[21Dec2024 06:49:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[21Dec2024 06:49:06.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Dec2024 06:49:06.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/doom:doom_hell
+[21Dec2024 06:49:06.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[21Dec2024 06:49:06.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[21Dec2024 06:49:06.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[21Dec2024 06:49:06.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[21Dec2024 06:49:06.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (doom_hell): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[21Dec2024 06:49:06.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
