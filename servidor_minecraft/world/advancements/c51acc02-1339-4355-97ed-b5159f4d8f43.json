@@ -8963,21 +8963,21 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_upgraded_fence": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
+      "has_diamond_backpack": "2024-12-20 03:09:08 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+  "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
-      "has_upgrade_base": "2024-12-20 03:32:32 +0000"
+      "has_diamond_gloves": "2024-12-20 03:11:03 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_cabinet": {
+  "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
+      "in_purple_soda": "2024-12-20 03:12:38 +0000"
     },
     "done": true
   },
@@ -8987,9 +8987,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_table": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
+      "has_carrot": "2024-12-20 03:22:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-20 03:32:32 +0000"
     },
     "done": true
   },
@@ -9005,39 +9011,9 @@
     },
     "done": true
   },
-  "undead_revamp2:nightnight": {
-    "criteria": {
-      "nightnight_0": "2024-12-20 03:55:27 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/verglas_block": {
-    "criteria": {
-      "has_item": "2024-12-20 03:52:31 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_crate": {
-    "criteria": {
-      "has_planks": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:verglas": {
-    "criteria": {
-      "item": "2024-12-20 03:52:31 +0000"
     },
     "done": true
   },
@@ -9047,45 +9023,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/sting": {
-    "criteria": {
-      "has_item": "2024-12-20 03:52:31 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_coffee_table": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:nicehousebro": {
-    "criteria": {
-      "nicehousebro_0": "2024-12-20 04:26:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-20 03:45:02 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/rune_block_from_rune": {
-    "criteria": {
-      "has_rune": "2024-12-20 04:05:56 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:oneskelly": {
-    "criteria": {
-      "oneskelly_0": "2024-12-20 04:27:07 +0000"
     },
     "done": true
   },
@@ -9119,87 +9059,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-20 04:27:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2024-12-20 04:27:07 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
-    "criteria": {
-      "has_item": "2024-12-20 04:32:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-20 03:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-20 03:45:02 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_desk_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_coffee_table": {
-    "criteria": {
-      "has_planks": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_chair": {
-    "criteria": {
-      "has_planks": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-12-20 03:36:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-12-20 03:36:28 +0000"
     },
     "done": true
   },
@@ -9209,57 +9071,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-20 04:27:07 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:a_shower_experience": {
-    "criteria": {
-      "builtin": "2024-12-20 05:04:05 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_purple_soda": {
-    "criteria": {
-      "in_purple_soda": "2024-12-20 03:12:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-20 03:45:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2024-12-20 03:09:08 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-20 03:34:18 +0000"
     },
     "done": true
   },
@@ -9293,12 +9113,6 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/skofnung_stone": {
-    "criteria": {
-      "has_item": "2024-12-20 03:52:31 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
@@ -9311,27 +9125,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_crate": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2024-12-20 03:42:11 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-20 05:56:25 +0000"
     },
     "done": true
   },
@@ -9341,45 +9137,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_upgraded_gate": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-20 03:34:18 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_desk": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/test_tube": {
-    "criteria": {
-      "has_item": "2024-12-20 04:05:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-20 03:45:02 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/verglas": {
-    "criteria": {
-      "has_item": "2024-12-20 03:52:31 +0000"
     },
     "done": true
   },
@@ -9389,81 +9149,9 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/dark_rune": {
-    "criteria": {
-      "has_rune": "2024-12-20 04:05:56 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_park_bench": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_desk": {
-    "criteria": {
-      "has_planks": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-20 04:27:07 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_gloves_repairing": {
-    "criteria": {
-      "has_diamond_gloves": "2024-12-20 03:11:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_table": {
-    "criteria": {
-      "has_planks": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-20 03:32:32 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_chair": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_blinds": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:spirit_taking": {
-    "criteria": {
-      "builtin": "2024-12-20 05:03:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2024-12-20 04:27:07 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-12-20 03:22:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-20 05:56:25 +0000"
     },
     "done": true
   },
@@ -9479,15 +9167,333 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_kitchen_counter": {
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-20 03:32:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-20 03:32:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-20 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-20 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-20 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-12-20 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-12-20 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-20 03:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-20 03:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-20 03:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-20 03:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-20 03:45:02 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2024-12-20 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-12-20 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2024-12-20 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-12-20 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2024-12-20 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2024-12-20 03:55:27 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/rune_block_from_rune": {
+    "criteria": {
+      "has_rune": "2024-12-20 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/test_tube": {
+    "criteria": {
+      "has_item": "2024-12-20 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/dark_rune": {
+    "criteria": {
+      "has_rune": "2024-12-20 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nicehousebro": {
+    "criteria": {
+      "nicehousebro_0": "2024-12-20 04:26:15 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2024-12-20 04:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 04:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-20 04:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 04:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 04:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-20 04:27:07 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2024-12-20 04:32:05 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2024-12-20 05:03:55 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2024-12-20 05:04:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-20 05:56:25 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+  "cfm:recipes/decorations/crimson_cabinet": {
     "criteria": {
-      "has_upgrade_base": "2024-12-20 03:32:32 +0000"
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_chair": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_blinds": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:25 +0000"
     },
     "done": true
   },
@@ -9497,11 +9503,35 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+  "soulsweapons:bluemoon_tools": {
     "criteria": {
-      "has_upgrade_base": "2024-12-20 03:32:32 +0000"
+      "soulsweapons:bluemoon_shortsword": "2024-12-21 02:36:06 +0000"
     },
     "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-21 02:36:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-21 02:35:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-21 02:35:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "bluemoon_short": "2024-12-21 02:36:06 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

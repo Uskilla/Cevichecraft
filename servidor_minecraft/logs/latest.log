@@ -65,3 +65,30 @@
 [21Dec2024 02:16:52.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko lost connection: Disconnected
 [21Dec2024 02:16:52.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko left the game
 [21Dec2024 02:17:12.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [The Desert Swimmers]
+[21Dec2024 02:18:47.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Splintering II]
+[21Dec2024 02:18:54.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [A Flaming Sword]
+[21Dec2024 02:27:20.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
+[21Dec2024 02:29:21.418] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lait_Estrok is c51acc02-1339-4355-97ed-b5159f4d8f43
+[21Dec2024 02:29:29.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lait_Estrok[/172.26.175.5:54538] logged in with entity id 74760 at (806.5930203959086, 64.0, -563.3083672295097)
+[21Dec2024 02:29:29.709] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lait_Estrok
+[21Dec2024 02:29:29.709] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lait_Estrok
+[21Dec2024 02:29:29.709] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lait_Estrok
+[21Dec2024 02:29:29.710] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lait_Estrok
+[21Dec2024 02:29:29.711] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lait_Estrok
+[21Dec2024 02:29:29.714] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lait_Estrok
+[21Dec2024 02:29:29.714] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lait_Estrok
+[21Dec2024 02:29:29.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok joined the game
+[21Dec2024 02:32:02.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 02:32:02.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[21Dec2024 02:34:05.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [Regal Friends Till The Very End!]
+[21Dec2024 02:35:07.487] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jose_cl13 is bce4947b-f7ee-43e9-ad77-b8aac5d638fa
+[21Dec2024 02:35:15.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jose_cl13[/172.26.3.206:50305] logged in with entity id 76715 at (800.3510080868731, 64.5625, -560.8356920256081)
+[21Dec2024 02:35:15.812] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jose_cl13
+[21Dec2024 02:35:15.812] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jose_cl13
+[21Dec2024 02:35:15.812] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jose_cl13
+[21Dec2024 02:35:15.813] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jose_cl13
+[21Dec2024 02:35:15.814] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jose_cl13
+[21Dec2024 02:35:15.816] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jose_cl13
+[21Dec2024 02:35:15.816] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jose_cl13
+[21Dec2024 02:35:15.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jose_cl13 joined the game
+[21Dec2024 02:36:06.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [A... Fake?]
