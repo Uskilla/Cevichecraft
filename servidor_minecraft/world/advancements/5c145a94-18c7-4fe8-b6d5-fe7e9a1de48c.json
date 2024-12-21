@@ -10836,6 +10836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-21 02:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2024-12-20 23:38:47 +0000"
@@ -10971,6 +10977,12 @@
   "the_bumblezone:crystalline_flower/enchant_crystalline_flower": {
     "criteria": {
       "enchant_crystalline_flower": "2024-12-20 23:44:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-21 02:39:08 +0000"
     },
     "done": true
   },
