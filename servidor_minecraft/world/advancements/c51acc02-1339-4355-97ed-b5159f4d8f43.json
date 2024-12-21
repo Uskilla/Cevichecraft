@@ -3299,6 +3299,7 @@
       "minecraft:blaze": "2024-12-21 04:27:28 +0000",
       "minecraft:skeleton": "2024-12-18 04:14:28 +0000",
       "minecraft:ghast": "2024-12-21 04:14:35 +0000",
+      "minecraft:magma_cube": "2024-12-21 04:36:23 +0000",
       "minecraft:spider": "2024-12-19 04:29:37 +0000",
       "minecraft:piglin_brute": "2024-12-19 22:59:18 +0000",
       "minecraft:creeper": "2024-12-18 04:24:31 +0000",
@@ -9545,6 +9546,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-21 04:29:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_chestplate": {
     "criteria": {
       "has_item": "2024-12-21 03:55:07 +0000"
@@ -9605,6 +9612,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-21 04:32:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2024-12-21 02:36:23 +0000"
@@ -9617,9 +9630,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-21 04:33:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-21 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-21 04:33:49 +0000"
     },
     "done": true
   },
@@ -9662,6 +9687,12 @@
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-12-21 03:55:07 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2024-12-21 04:33:55 +0000"
     },
     "done": true
   },
@@ -9728,6 +9759,12 @@
   "iceandfire:recipes/combat/armor_electric_helmet": {
     "criteria": {
       "has_item": "2024-12-21 03:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-21 04:28:23 +0000"
     },
     "done": true
   },

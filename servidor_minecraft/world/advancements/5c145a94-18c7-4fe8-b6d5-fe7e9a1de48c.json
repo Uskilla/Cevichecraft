@@ -10822,6 +10822,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2024-12-21 04:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_sandstone_slab": "2024-12-21 02:11:26 +0000"
@@ -10873,6 +10879,12 @@
   "iceandfire:recipes/combat/deathworm_white_leggings": {
     "criteria": {
       "has_item": "2024-12-21 02:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-21 04:35:11 +0000"
     },
     "done": true
   },
@@ -11035,6 +11047,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-21 01:28:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2024-12-21 04:35:11 +0000"
     },
     "done": true
   },

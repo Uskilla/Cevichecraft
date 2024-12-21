@@ -2747,6 +2747,7 @@
       "minecraft:pillager": "2024-12-19 22:45:31 +0000",
       "minecraft:blaze": "2024-12-21 02:00:55 +0000",
       "minecraft:skeleton": "2024-12-18 04:56:39 +0000",
+      "minecraft:magma_cube": "2024-12-21 04:33:26 +0000",
       "minecraft:spider": "2024-12-18 04:21:04 +0000",
       "minecraft:piglin_brute": "2024-12-21 04:21:22 +0000",
       "minecraft:creeper": "2024-12-18 04:19:05 +0000",
@@ -10757,6 +10758,12 @@
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2024-12-21 03:10:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-21 04:30:14 +0000"
     },
     "done": true
   },
