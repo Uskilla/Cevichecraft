@@ -3297,6 +3297,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-18 06:34:31 +0000",
       "minecraft:skeleton": "2024-12-18 04:14:28 +0000",
+      "minecraft:ghast": "2024-12-21 04:14:35 +0000",
       "minecraft:spider": "2024-12-19 04:29:37 +0000",
       "minecraft:piglin_brute": "2024-12-19 22:59:18 +0000",
       "minecraft:creeper": "2024-12-18 04:24:31 +0000",
@@ -6386,7 +6387,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-19 04:37:32 +0000",
       "minecraft:soul_sand_valley": "2024-12-19 04:41:06 +0000",
-      "minecraft:nether_wastes": "2024-12-20 05:47:31 +0000"
+      "minecraft:nether_wastes": "2024-12-20 05:47:31 +0000",
+      "minecraft:basalt_deltas": "2024-12-21 04:09:07 +0000"
     },
     "done": false
   },
@@ -9540,6 +9542,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2024-12-21 04:16:30 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:bluemoon_tools": {
     "criteria": {
       "soulsweapons:bluemoon_shortsword": "2024-12-21 02:36:06 +0000"
@@ -9561,6 +9569,12 @@
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2024-12-21 02:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-21 04:16:30 +0000"
     },
     "done": true
   },
