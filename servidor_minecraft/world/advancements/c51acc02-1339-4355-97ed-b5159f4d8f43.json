@@ -3296,12 +3296,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-18 06:34:31 +0000",
+      "minecraft:blaze": "2024-12-21 04:27:28 +0000",
       "minecraft:skeleton": "2024-12-18 04:14:28 +0000",
       "minecraft:ghast": "2024-12-21 04:14:35 +0000",
       "minecraft:spider": "2024-12-19 04:29:37 +0000",
       "minecraft:piglin_brute": "2024-12-19 22:59:18 +0000",
       "minecraft:creeper": "2024-12-18 04:24:31 +0000",
       "minecraft:zombified_piglin": "2024-12-20 05:50:04 +0000",
+      "minecraft:wither_skeleton": "2024-12-21 04:27:19 +0000",
       "minecraft:piglin": "2024-12-19 22:56:22 +0000",
       "minecraft:enderman": "2024-12-20 05:48:23 +0000",
       "minecraft:silverfish": "2024-12-21 03:45:28 +0000",
@@ -6388,9 +6390,10 @@
       "minecraft:crimson_forest": "2024-12-19 04:37:32 +0000",
       "minecraft:soul_sand_valley": "2024-12-19 04:41:06 +0000",
       "minecraft:nether_wastes": "2024-12-20 05:47:31 +0000",
-      "minecraft:basalt_deltas": "2024-12-21 04:09:07 +0000"
+      "minecraft:basalt_deltas": "2024-12-21 04:09:07 +0000",
+      "minecraft:warped_forest": "2024-12-21 04:26:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "doom:argent": {
     "criteria": {
@@ -9524,15 +9527,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 04:19:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2024-12-21 03:55:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 04:21:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_chestplate": {
     "criteria": {
       "has_item": "2024-12-21 03:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 04:19:24 +0000"
     },
     "done": true
   },
@@ -9548,6 +9569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 04:21:25 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:bluemoon_tools": {
     "criteria": {
       "soulsweapons:bluemoon_shortsword": "2024-12-21 02:36:06 +0000"
@@ -9560,9 +9587,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 04:21:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2024-12-21 03:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 04:21:25 +0000"
     },
     "done": true
   },
@@ -9575,6 +9614,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-12-21 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 04:21:25 +0000"
     },
     "done": true
   },
@@ -9593,6 +9638,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-12-21 03:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 04:19:24 +0000"
     },
     "done": true
   },
@@ -9656,9 +9707,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 04:21:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2024-12-21 03:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 04:21:25 +0000"
     },
     "done": true
   },
@@ -9698,6 +9761,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 04:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-21 04:21:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2024-12-21 03:55:07 +0000"
@@ -9716,9 +9797,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 04:19:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2024-12-21 03:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 04:19:24 +0000"
     },
     "done": true
   },
@@ -9731,6 +9824,12 @@
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-12-21 03:55:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-21 04:23:49 +0000"
     },
     "done": true
   },

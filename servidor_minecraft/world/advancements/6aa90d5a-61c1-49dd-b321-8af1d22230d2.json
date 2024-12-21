@@ -2748,6 +2748,7 @@
       "minecraft:blaze": "2024-12-21 02:00:55 +0000",
       "minecraft:skeleton": "2024-12-18 04:56:39 +0000",
       "minecraft:spider": "2024-12-18 04:21:04 +0000",
+      "minecraft:piglin_brute": "2024-12-21 04:21:22 +0000",
       "minecraft:creeper": "2024-12-18 04:19:05 +0000",
       "minecraft:slime": "2024-12-20 02:28:36 +0000",
       "minecraft:phantom": "2024-12-20 00:40:09 +0000",
@@ -2755,6 +2756,7 @@
       "minecraft:witch": "2024-12-18 06:23:59 +0000",
       "minecraft:wither_skeleton": "2024-12-21 01:59:42 +0000",
       "minecraft:cave_spider": "2024-12-20 01:37:23 +0000",
+      "minecraft:piglin": "2024-12-21 04:20:51 +0000",
       "minecraft:enderman": "2024-12-18 05:06:31 +0000",
       "minecraft:zombie": "2024-12-18 03:52:40 +0000",
       "minecraft:drowned": "2024-12-18 05:17:46 +0000",
@@ -10737,6 +10739,12 @@
   "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2024-12-21 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-21 04:22:19 +0000"
     },
     "done": true
   },

@@ -9138,6 +9138,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 04:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 04:23:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-21 04:03:06 +0000"
@@ -9147,6 +9159,18 @@
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2024-12-21 03:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 04:23:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-21 04:23:52 +0000"
     },
     "done": true
   },
@@ -9183,6 +9207,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-21 03:53:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2024-12-21 04:23:52 +0000"
     },
     "done": true
   },
