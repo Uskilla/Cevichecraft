@@ -11038,6 +11038,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-21 04:49:41 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:decor/obtain_all_string_curtains": {
     "criteria": {
       "purple_string_curtain": "2024-12-20 23:39:12 +0000"
