@@ -9871,6 +9871,18 @@
     },
     "done": true
   },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2024-12-21 05:43:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-21 06:02:41 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2024-12-21 06:21:51 +0000"
@@ -9886,18 +9898,6 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-21 06:21:51 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_leggings_repairing": {
-    "criteria": {
-      "has_leather_leggings": "2024-12-21 06:02:41 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:mygothgf": {
-    "criteria": {
-      "mygothgf_0": "2024-12-21 05:43:01 +0000"
     },
     "done": true
   },

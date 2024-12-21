@@ -9324,6 +9324,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2024-12-21 05:31:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
     "criteria": {
       "has_dragonscales_bronze": "2024-12-21 05:32:29 +0000"
@@ -9342,21 +9348,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2024-12-21 05:56:16 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2024-12-21 05:32:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
-      "has_redstone_torch": "2024-12-21 05:47:30 +0000"
+      "has_item": "2024-12-21 05:32:29 +0000"
     },
     "done": true
   },
@@ -9366,15 +9366,15 @@
     },
     "done": true
   },
-  "create_enchantment_industry:spirit_taking": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "builtin": "2024-12-21 05:31:00 +0000"
+      "has_redstone_torch": "2024-12-21 05:47:30 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+  "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
-      "has_item": "2024-12-21 05:32:29 +0000"
+      "has_stone_button": "2024-12-21 05:56:16 +0000"
     },
     "done": true
   },

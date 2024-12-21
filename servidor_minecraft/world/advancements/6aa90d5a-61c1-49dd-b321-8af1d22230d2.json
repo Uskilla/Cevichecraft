@@ -10942,30 +10942,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-12-21 05:36:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2024-12-21 06:23:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_boots": {
-    "criteria": {
-      "has_item": "2024-12-21 06:17:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2024-12-21 06:23:13 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
     "criteria": {
       "has_dragonscales_bronze": "2024-12-21 05:29:50 +0000"
@@ -10984,15 +10960,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/gingerbread_crumbs": {
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
-      "crumbs": "2024-12-21 05:44:27 +0000"
+      "has_item": "2024-12-21 05:29:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
-      "has_rail": "2024-12-21 06:23:13 +0000"
+      "has_item": "2024-12-21 05:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-21 05:36:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2024-12-21 05:40:03 +0000"
     },
     "done": true
   },
@@ -11002,21 +10990,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_helmet": {
+  "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
-      "has_item": "2024-12-21 05:29:50 +0000"
+      "crumbs": "2024-12-21 05:44:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
+  "alexscaves:alexscaves/shot_gum": {
     "criteria": {
-      "has_rail": "2024-12-21 06:23:13 +0000"
+      "shot_gum": "2024-12-21 05:50:51 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/chain_sticky": {
+  "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
-      "has_item": "2024-12-21 06:20:05 +0000"
+      "has_item": "2024-12-21 06:17:17 +0000"
     },
     "done": true
   },
@@ -11032,21 +11020,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/caramel": {
-    "criteria": {
-      "mussel": "2024-12-21 05:40:03 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2024-12-21 06:17:17 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/shot_gum": {
-    "criteria": {
-      "shot_gum": "2024-12-21 05:50:51 +0000"
     },
     "done": true
   },
@@ -11056,9 +11032,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+  "iceandfire:recipes/misc/chain_sticky": {
     "criteria": {
-      "has_item": "2024-12-21 05:29:50 +0000"
+      "has_item": "2024-12-21 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-21 06:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-21 06:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-21 06:23:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-21 06:23:33 +0000"
     },
     "done": true
   },
