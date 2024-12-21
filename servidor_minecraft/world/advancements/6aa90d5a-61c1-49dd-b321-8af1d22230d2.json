@@ -11062,15 +11062,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "tamed_animal": "2024-12-21 06:43:24 +0000"
+      "wheat": "2024-12-21 06:38:17 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "bestiary": "2024-12-21 06:46:06 +0000"
+      "tamed_animal": "2024-12-21 06:43:24 +0000"
     },
     "done": true
   },
@@ -11080,9 +11080,51 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
-      "wheat": "2024-12-21 06:38:17 +0000"
+      "bestiary": "2024-12-21 06:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-21 07:36:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-21 06:55:33 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:spirit_cooker": {
+    "criteria": {
+      "criteria_0": "2024-12-21 07:18:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2024-12-21 07:36:37 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:closure": {
+    "criteria": {
+      "criteria_0": "2024-12-21 07:00:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-12-21 07:31:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2024-12-21 07:15:40 +0000"
     },
     "done": true
   },

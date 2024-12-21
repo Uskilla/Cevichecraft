@@ -8311,9 +8311,10 @@
       "minecraft:crimson_forest": "2024-12-19 06:02:50 +0000",
       "minecraft:nether_wastes": "2024-12-19 06:04:12 +0000",
       "minecraft:soul_sand_valley": "2024-12-20 02:45:15 +0000",
-      "minecraft:warped_forest": "2024-12-21 03:00:17 +0000"
+      "minecraft:warped_forest": "2024-12-21 03:00:17 +0000",
+      "minecraft:basalt_deltas": "2024-12-21 06:56:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "doom:argent": {
     "criteria": {
@@ -11732,6 +11733,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-21 06:40:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2024-12-21 06:40:58 +0000"
@@ -11756,21 +11763,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-21 06:40:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/fishing_rod_repairing": {
     "criteria": {
       "has_fishing_rod": "2024-12-21 06:45:54 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_cyclops": {
+  "cataclysm:find_burning_arena": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-21 06:40:29 +0000"
+      "arena": "2024-12-21 07:15:03 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_boots": {
+  "minecraft:nether/ride_strider": {
     "criteria": {
-      "has_item": "2024-12-21 06:40:58 +0000"
+      "used_warped_fungus_on_a_stick": "2024-12-21 06:55:56 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2024-12-21 07:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-21 06:54:37 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2024-12-21 07:16:05 +0000"
     },
     "done": true
   },

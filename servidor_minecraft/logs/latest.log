@@ -1,95 +1,95 @@
-[21Dec2024 06:31:21.047] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[21Dec2024 06:31:21.051] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[21Dec2024 06:31:21.885] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[21Dec2024 06:31:21.926] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Cevichecraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[21Dec2024 06:31:22.283] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[21Dec2024 06:31:22.284] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Dec2024 06:31:22.285] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Dec2024 06:31:22.286] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Dec2024 06:31:22.642] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[21Dec2024 06:31:22.643] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/Cevichecraft/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.9.jar
-[21Dec2024 06:31:22.644] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/Cevichecraft/servidor_minecraft/mods/curios-forge-5.11.0+1.20.1.jar
-[21Dec2024 06:31:22.644] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
-[21Dec2024 06:31:25.289] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[21Dec2024 06:31:25.308] [main/ERROR] [mixin/]: Mixin config doom.mixins.json does not specify "minVersion" property
-[21Dec2024 06:31:25.311] [main/ERROR] [mixin/]: Mixin config doom.forge.mixins.json does not specify "minVersion" property
-[21Dec2024 06:31:25.374] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
-[21Dec2024 06:31:25.376] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
-[21Dec2024 06:31:25.474] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[21Dec2024 06:31:25.540] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[21Dec2024 06:31:25.680] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
-[21Dec2024 06:31:25.686] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[21Dec2024 06:31:25.688] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[21Dec2024 06:31:27.579] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21Dec2024 06:31:30.927] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
-[21Dec2024 06:31:34.977] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[21Dec2024 06:50:48.001] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[21Dec2024 06:50:48.005] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[21Dec2024 06:50:49.546] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Dec2024 06:50:49.602] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Cevichecraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Dec2024 06:50:49.993] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 06:50:49.994] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 06:50:49.995] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 06:50:49.996] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 06:50:50.333] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[21Dec2024 06:50:50.335] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/Cevichecraft/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.9.jar
+[21Dec2024 06:50:50.335] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/Cevichecraft/servidor_minecraft/mods/curios-forge-5.11.0+1.20.1.jar
+[21Dec2024 06:50:50.336] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[21Dec2024 06:50:52.662] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Dec2024 06:50:52.683] [main/ERROR] [mixin/]: Mixin config doom.mixins.json does not specify "minVersion" property
+[21Dec2024 06:50:52.685] [main/ERROR] [mixin/]: Mixin config doom.forge.mixins.json does not specify "minVersion" property
+[21Dec2024 06:50:52.749] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[21Dec2024 06:50:52.751] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[21Dec2024 06:50:52.835] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[21Dec2024 06:50:52.897] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 06:50:53.055] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 06:50:53.063] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 06:50:53.065] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 06:50:55.114] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21Dec2024 06:50:58.410] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[21Dec2024 06:51:02.598] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[21Dec2024 06:31:35.505] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[21Dec2024 06:31:35.705] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered doom config for auto-sync function
-[21Dec2024 06:31:36.214] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
-[21Dec2024 06:31:36.227] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
-[21Dec2024 06:31:36.228] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
-[21Dec2024 06:31:36.229] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
-[21Dec2024 06:31:36.328] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[21Dec2024 06:31:36.500] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[21Dec2024 06:31:36.502] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[21Dec2024 06:31:36.507] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[21Dec2024 06:31:36.513] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[21Dec2024 06:31:36.514] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[21Dec2024 06:31:36.516] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[21Dec2024 06:31:36.517] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[21Dec2024 06:31:36.518] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[21Dec2024 06:31:36.708] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[21Dec2024 06:31:36.806] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
-[21Dec2024 06:31:36.920] [modloading-worker-0/WARN] [mixin/]: @Final field f_31201_:Lorg/slf4j/Logger; in progressivebosses.mixins.json:DragonChargePlayerPhaseMixin should be final
-[21Dec2024 06:31:37.074] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
-[21Dec2024 06:31:37.114] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[21Dec2024 06:31:37.116] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[21Dec2024 06:31:39.261] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[21Dec2024 06:31:39.763] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[21Dec2024 06:31:48.758] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[21Dec2024 06:31:49.214] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[21Dec2024 06:31:49.224] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[21Dec2024 06:31:49.227] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[21Dec2024 06:31:49.228] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[21Dec2024 06:31:49.433] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[21Dec2024 06:31:49.443] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[21Dec2024 06:31:49.714] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[21Dec2024 06:31:49.732] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[21Dec2024 06:31:49.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.19.5 Target: null
-[21Dec2024 06:31:49.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
-[21Dec2024 06:31:50.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
-[21Dec2024 06:31:50.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[21Dec2024 06:31:50.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.1-neoforge Target: null
-[21Dec2024 06:31:50.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
-[21Dec2024 06:31:50.177] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 28 compatible attributes.
-[21Dec2024 06:31:50.181] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 28 values from config.
-[21Dec2024 06:31:50.194] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 28 entries.
-[21Dec2024 06:31:50.196] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 28 attributes.
-[21Dec2024 06:31:50.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
-[21Dec2024 06:31:50.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[21Dec2024 06:31:50.485] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.49 Target: null
-[21Dec2024 06:31:50.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[21Dec2024 06:31:50.627] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[21Dec2024 06:31:50.627] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[21Dec2024 06:31:50.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[21Dec2024 06:31:50.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[21Dec2024 06:31:50.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[21Dec2024 06:31:50.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[21Dec2024 06:31:51.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[21Dec2024 06:31:51.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[21Dec2024 06:31:51.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[21Dec2024 06:31:51.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[21Dec2024 06:31:51.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
-[21Dec2024 06:31:51.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[21Dec2024 06:31:51.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre36 Target: 7.0.0-pre36
-[21Dec2024 06:31:51.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
-[21Dec2024 06:31:51.986] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: UP_TO_DATE Current: 1.15.19 Target: null
-[21Dec2024 06:31:55.945] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21Dec2024 06:32:00.824] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/assets/.mcassetsroot' uses unexpected schema
-[21Dec2024 06:32:00.824] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/data/.mcassetsroot' uses unexpected schema
-[21Dec2024 06:32:03.199] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[21Dec2024 06:32:04.868] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+[21Dec2024 06:51:03.211] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[21Dec2024 06:51:03.371] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered doom config for auto-sync function
+[21Dec2024 06:51:03.875] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[21Dec2024 06:51:03.898] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
+[21Dec2024 06:51:03.909] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
+[21Dec2024 06:51:03.917] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
+[21Dec2024 06:51:03.930] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
+[21Dec2024 06:51:04.157] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[21Dec2024 06:51:04.213] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[21Dec2024 06:51:04.221] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[21Dec2024 06:51:04.222] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[21Dec2024 06:51:04.223] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[21Dec2024 06:51:04.228] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[21Dec2024 06:51:04.231] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[21Dec2024 06:51:04.233] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[21Dec2024 06:51:04.345] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[21Dec2024 06:51:04.491] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
+[21Dec2024 06:51:04.600] [modloading-worker-0/WARN] [mixin/]: @Final field f_31201_:Lorg/slf4j/Logger; in progressivebosses.mixins.json:DragonChargePlayerPhaseMixin should be final
+[21Dec2024 06:51:04.764] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[21Dec2024 06:51:04.829] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Dec2024 06:51:04.830] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Dec2024 06:51:06.852] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[21Dec2024 06:51:07.478] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[21Dec2024 06:51:16.054] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[21Dec2024 06:51:16.543] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[21Dec2024 06:51:16.552] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[21Dec2024 06:51:16.555] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[21Dec2024 06:51:16.556] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[21Dec2024 06:51:16.706] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[21Dec2024 06:51:16.718] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[21Dec2024 06:51:17.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[21Dec2024 06:51:17.201] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[21Dec2024 06:51:17.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.19.5 Target: null
+[21Dec2024 06:51:17.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[21Dec2024 06:51:17.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[21Dec2024 06:51:17.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[21Dec2024 06:51:17.531] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.1-neoforge Target: null
+[21Dec2024 06:51:17.531] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[21Dec2024 06:51:17.581] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 28 compatible attributes.
+[21Dec2024 06:51:17.588] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 28 values from config.
+[21Dec2024 06:51:17.601] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 28 entries.
+[21Dec2024 06:51:17.602] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 28 attributes.
+[21Dec2024 06:51:17.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[21Dec2024 06:51:17.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[21Dec2024 06:51:17.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.49 Target: null
+[21Dec2024 06:51:17.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Dec2024 06:51:17.981] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[21Dec2024 06:51:17.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[21Dec2024 06:51:18.071] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[21Dec2024 06:51:18.071] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[21Dec2024 06:51:18.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[21Dec2024 06:51:18.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[21Dec2024 06:51:18.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[21Dec2024 06:51:18.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[21Dec2024 06:51:18.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[21Dec2024 06:51:18.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[21Dec2024 06:51:18.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[21Dec2024 06:51:18.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[21Dec2024 06:51:19.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre36 Target: 7.0.0-pre36
+[21Dec2024 06:51:19.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
+[21Dec2024 06:51:19.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: UP_TO_DATE Current: 1.15.19 Target: null
+[21Dec2024 06:51:23.170] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Dec2024 06:51:28.067] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/assets/.mcassetsroot' uses unexpected schema
+[21Dec2024 06:51:28.068] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Cevichecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/data/.mcassetsroot' uses unexpected schema
+[21Dec2024 06:51:30.223] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[21Dec2024 06:51:32.069] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -141,8 +141,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[21Dec2024 06:32:07.982] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/hellfire_burn as it's serializer returned null
-[21Dec2024 06:32:08.033] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_fence
+[21Dec2024 06:51:34.862] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/hellfire_burn as it's serializer returned null
+[21Dec2024 06:51:34.905] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_fence
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
@@ -175,7 +175,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Dec2024 06:32:08.045] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_chest_boat
+[21Dec2024 06:51:34.915] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_chest_boat
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
@@ -208,7 +208,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Dec2024 06:32:08.049] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe doom:argent_plate
+[21Dec2024 06:51:34.919] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe doom:argent_plate
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:164) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
@@ -239,7 +239,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Dec2024 06:32:08.052] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iceandfire:dragonbone_bow
+[21Dec2024 06:51:34.921] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iceandfire:dragonbone_bow
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:164) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
@@ -270,7 +270,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Dec2024 06:32:08.077] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_fence_gate
+[21Dec2024 06:51:34.944] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_fence_gate
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
@@ -303,10 +303,10 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Dec2024 06:32:08.082] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botany_pots:ars_elemental/flashing_archwood as it's serializer returned null
-[21Dec2024 06:32:08.098] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/life_link as it's serializer returned null
-[21Dec2024 06:32:08.114] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/entrhalled as it's serializer returned null
-[21Dec2024 06:32:08.149] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:fungyss_fence_gate
+[21Dec2024 06:51:34.949] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botany_pots:ars_elemental/flashing_archwood as it's serializer returned null
+[21Dec2024 06:51:34.962] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/life_link as it's serializer returned null
+[21Dec2024 06:51:34.973] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/entrhalled as it's serializer returned null
+[21Dec2024 06:51:35.004] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:fungyss_fence_gate
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
@@ -339,7 +339,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Dec2024 06:32:08.168] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:fungyss_fence
+[21Dec2024 06:51:35.029] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:fungyss_fence
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
@@ -372,7 +372,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Dec2024 06:32:08.193] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_fence
+[21Dec2024 06:51:35.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_fence
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
@@ -405,7 +405,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Dec2024 06:32:08.198] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:corrupted_pixie
+[21Dec2024 06:51:35.075] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:corrupted_pixie
 com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:dark_soul'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -441,8 +441,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:dark_soul'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Dec2024 06:32:08.202] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/watery_grave as it's serializer returned null
-[21Dec2024 06:32:08.206] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_chest_boat
+[21Dec2024 06:51:35.082] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/watery_grave as it's serializer returned null
+[21Dec2024 06:51:35.088] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_chest_boat
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
@@ -475,7 +475,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Dec2024 06:32:08.225] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_fence_gate
+[21Dec2024 06:51:35.109] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_fence_gate
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
@@ -508,251 +508,241 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[21Dec2024 06:32:08.230] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/mana_shield as it's serializer returned null
-[21Dec2024 06:32:08.260] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 68 recipes
-[21Dec2024 06:32:08.553] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6837 advancements
-[21Dec2024 06:32:08.562] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
-[21Dec2024 06:32:08.563] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
-[21Dec2024 06:32:08.563] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
-[21Dec2024 06:32:08.564] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
-[21Dec2024 06:32:08.580] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
-[21Dec2024 06:32:08.582] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
-[21Dec2024 06:32:08.583] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
-[21Dec2024 06:32:08.583] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
-[21Dec2024 06:32:08.605] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
-[21Dec2024 06:32:08.612] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
-[21Dec2024 06:32:08.678] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
-[21Dec2024 06:32:08.687] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[21Dec2024 06:32:12.949] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[21Dec2024 06:32:13.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[21Dec2024 06:32:13.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[21Dec2024 06:32:13.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[21Dec2024 06:32:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[21Dec2024 06:32:13.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[21Dec2024 06:32:13.690] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[21Dec2024 06:32:14.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[21Dec2024 06:32:15.764] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Dec2024 06:32:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[21Dec2024 06:32:26.528] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.655] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.692] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.708] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.724] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.747] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.756] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.772] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.792] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.808] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.846] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.851] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.852] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:26.853] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Dec2024 06:32:27.290] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[21Dec2024 06:32:27.791] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
-[21Dec2024 06:32:27.876] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7587 ms
-[21Dec2024 06:32:27.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.115s)! For help, type "help"
-[21Dec2024 06:32:27.907] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Dec2024 06:32:28.006] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[21Dec2024 06:32:28.019] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[21Dec2024 06:32:28.033] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[21Dec2024 06:32:28.034] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[21Dec2024 06:32:28.034] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[21Dec2024 06:32:28.077] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[21Dec2024 06:32:28.078] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[21Dec2024 06:32:28.078] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[21Dec2024 06:32:28.078] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[21Dec2024 06:32:28.122] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.jei due to unsatisfied mod condition.
-[21Dec2024 06:32:28.260] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 249547 bytes (in 25 string chunks with the size of 10000)
-[21Dec2024 06:33:08.469] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Joaquinxloko is 6aa90d5a-61c1-49dd-b321-8af1d22230d2
-[21Dec2024 06:33:10.927] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lait_Estrok is c51acc02-1339-4355-97ed-b5159f4d8f43
-[21Dec2024 06:33:18.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joaquinxloko[/172.26.159.190:57914] logged in with entity id 71 at (808.9389073369576, 64.0, -533.6786712462751)
-[21Dec2024 06:33:18.873] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joaquinxloko
-[21Dec2024 06:33:18.874] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joaquinxloko
-[21Dec2024 06:33:18.877] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joaquinxloko
-[21Dec2024 06:33:18.877] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joaquinxloko
-[21Dec2024 06:33:18.884] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joaquinxloko
-[21Dec2024 06:33:18.942] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joaquinxloko
-[21Dec2024 06:33:18.943] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joaquinxloko
-[21Dec2024 06:33:19.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko joined the game
-[21Dec2024 06:33:20.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lait_Estrok[/172.26.175.5:58738] logged in with entity id 72 at (1390.7312817437187, 65.25220334025373, -468.13060673893676)
-[21Dec2024 06:33:20.772] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lait_Estrok
-[21Dec2024 06:33:20.772] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lait_Estrok
-[21Dec2024 06:33:20.773] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lait_Estrok
-[21Dec2024 06:33:20.773] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lait_Estrok
-[21Dec2024 06:33:20.776] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lait_Estrok
-[21Dec2024 06:33:20.778] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lait_Estrok
-[21Dec2024 06:33:20.779] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lait_Estrok
-[21Dec2024 06:33:20.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok joined the game
-[21Dec2024 06:33:42.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lait_Estrok lost connection: Disconnected
-[21Dec2024 06:33:42.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok left the game
-[21Dec2024 06:33:42.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was energized by a dragon
-[21Dec2024 06:33:42.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[21Dec2024 06:33:56.633] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lait_Estrok is c51acc02-1339-4355-97ed-b5159f4d8f43
-[21Dec2024 06:34:06.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lait_Estrok[/172.26.175.5:58758] logged in with entity id 1038 at (1390.7312817437187, 63.0, -468.13060673893676)
-[21Dec2024 06:34:06.262] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lait_Estrok
-[21Dec2024 06:34:06.263] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lait_Estrok
-[21Dec2024 06:34:06.263] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lait_Estrok
-[21Dec2024 06:34:06.264] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lait_Estrok
-[21Dec2024 06:34:06.266] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lait_Estrok
-[21Dec2024 06:34:06.268] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lait_Estrok
-[21Dec2024 06:34:06.269] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lait_Estrok
-[21Dec2024 06:34:06.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok joined the game
-[21Dec2024 06:34:24.662] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Aleslug is 5c145a94-18c7-4fe8-b6d5-fe7e9a1de48c
-[21Dec2024 06:34:32.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleslug[/172.26.47.31:63453] logged in with entity id 1642 at (966.5538315930299, 64.0, -493.55083925887845)
-[21Dec2024 06:34:32.882] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Aleslug
-[21Dec2024 06:34:32.883] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Aleslug
-[21Dec2024 06:34:32.883] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Aleslug
-[21Dec2024 06:34:32.884] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Aleslug
-[21Dec2024 06:34:32.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Aleslug
-[21Dec2024 06:34:32.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Aleslug
-[21Dec2024 06:34:32.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Aleslug
-[21Dec2024 06:34:32.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug joined the game
-[21Dec2024 06:34:40.798] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@475551f3[id=<null>,name=Uskilla,properties={},legacy=false] (/172.26.75.225:52991) lost connection: Disconnected
-[21Dec2024 06:35:02.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -17.519500092700127,-1.1294465450660738,-5.100738723355903
-[21Dec2024 06:35:02.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -18.671745137879498,-0.9793621222027014,-5.440633940449402
-[21Dec2024 06:35:02.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -19.795471096164988,-0.732828888506873,-5.772447936486287
-[21Dec2024 06:35:02.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -20.893763732025604,-0.3936662150847354,-6.097055099377144
-[21Dec2024 06:35:02.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -21.96938043280204,0.03445777398198402,-6.415216771890755
-[21Dec2024 06:35:02.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -23.024780230614624,0.5480202122566169,-6.727611916537626
-[21Dec2024 06:35:02.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -24.062167059501462,1.1436377387475574,-7.034809147355304
-[21Dec2024 06:35:02.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -25.083503624678542,1.8180609734952071,-7.33732476806756
-[21Dec2024 06:35:02.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -26.130822970603504,2.4488656244593727,-7.647571058683184
-[21Dec2024 06:35:02.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -27.201338347633964,3.0378247506852603,-7.964647665680673
-[21Dec2024 06:35:02.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -28.292555423902172,3.58659543417032,-8.287763195851426
-[21Dec2024 06:35:02.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -29.402249745698555,4.09676913649588,-8.616211871983182
-[21Dec2024 06:35:02.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -30.528433658650783,4.569874297394406,-8.949377375531299
-[21Dec2024 06:35:02.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -31.66933456405252,5.007378830413529,-9.28671006511604
-[21Dec2024 06:35:02.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -32.82336778880676,5.410692519751819,-9.627732864132327
-[21Dec2024 06:35:02.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -33.98912012140465,5.781169322179949,-9.972020315651548
-[21Dec2024 06:35:02.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -35.16532739874674,6.1201095778057635,-10.319206086522286
-[21Dec2024 06:35:02.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -36.35086224863426,6.428762133293162,-10.668963485073732
-[21Dec2024 06:35:02.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -37.54471927202553,6.708326381001484,-11.021001163422511
-[21Dec2024 06:35:02.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -38.74600186251507,6.959954217375056,-11.375059301761667
-[21Dec2024 06:35:02.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -39.95391041800178,7.184751923780553,-11.730906188537801
-[21Dec2024 06:35:02.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -41.16772800924332,7.383781972863204,-12.088348281215985
-[21Dec2024 06:35:02.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -42.386819122790826,7.558064763371334,-12.447199880724156
-[21Dec2024 06:35:02.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -43.61061316366636,7.708580286281929,-12.807308478459618
-[21Dec2024 06:35:02.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -44.83860127525395,7.836269724947584,-13.168538067246459
-[21Dec2024 06:35:02.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -46.0703296592103,7.9420369918777425,-13.530767355881721
-[21Dec2024 06:35:02.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -47.30539746222928,8.026750204663344,-13.893875079033023
-[21Dec2024 06:35:02.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -48.54344335925407,8.091243103454985,-14.257766190108327
-[21Dec2024 06:35:02.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -49.78414512058987,8.136316412308858,-14.622355926554519
-[21Dec2024 06:35:02.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -51.02721538178639,8.162739146623522,-14.987568697124289
-[21Dec2024 06:35:02.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -52.27239787121971,8.171249868802107,-15.35333708954147
-[21Dec2024 06:35:02.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -53.51946404584885,8.162557894190385,-15.719600985536545
-[21Dec2024 06:35:02.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -54.768210090983985,8.1373444492597,-16.086306771635122
-[21Dec2024 06:35:02.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -56.01845424467956,8.096263783925863,-16.45340663533932
-[21Dec2024 06:35:02.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -57.270034411627876,8.039944239820244,-16.82085793746228
-[21Dec2024 06:35:02.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -58.52280603522922,7.968989276257375,-17.18862265237624
-[21Dec2024 06:35:02.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
-[21Dec2024 06:35:02.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -43.441361307147076,9.06308375820241,-12.804895397228506
-[21Dec2024 06:35:02.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -44.696143045979284,8.964573692078133,-13.17318887315355
-[21Dec2024 06:35:02.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -45.95176983146905,8.853098950379916,-13.541704638685815
-[21Dec2024 06:35:02.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! -47.208150229589705,8.729172934018138,-13.910418642095465
-[21Dec2024 06:35:21.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3704ms or 74 ticks behind
-[21Dec2024 06:35:23.432] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Uskilla is eaedaf0c-582b-4612-ace3-7005b8b564d1
-[21Dec2024 06:35:31.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uskilla[/172.26.75.225:53092] logged in with entity id 2929 at (767.5, 63.0, -458.5)
-[21Dec2024 06:35:31.694] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Uskilla
-[21Dec2024 06:35:31.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Uskilla
-[21Dec2024 06:35:31.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Uskilla
-[21Dec2024 06:35:31.696] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Uskilla
-[21Dec2024 06:35:31.698] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Uskilla
-[21Dec2024 06:35:31.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Uskilla
-[21Dec2024 06:35:31.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Uskilla
-[21Dec2024 06:35:31.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla joined the game
-[21Dec2024 06:36:04.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was slain by Lightning Dragon
-[21Dec2024 06:37:05.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[21Dec2024 06:37:44.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[21Dec2024 06:38:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was energized by a dragon
-[21Dec2024 06:38:17.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [A Seedy Place]
-[21Dec2024 06:39:07.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[21Dec2024 06:40:01.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[21Dec2024 06:40:29.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [My Name is Nobody]
-[21Dec2024 06:40:34.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was struck with lightning by a dragon
-[21Dec2024 06:40:35.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[21Dec2024 06:41:11.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[21Dec2024 06:41:29.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[21Dec2024 06:41:46.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
-[21Dec2024 06:41:50.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! -4.8476714991005565,8.224189779792042,-4.83344115611817
-[21Dec2024 06:42:41.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[21Dec2024 06:43:24.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Best Friends Forever]
-[21Dec2024 06:43:58.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 16.319714706926447,1.6377866546833246,7.070007657692486
-[21Dec2024 06:43:58.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 17.465659770315938,1.9828010149140596,7.517628376303492
-[21Dec2024 06:43:58.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 18.622510368598682,2.322334032450044,7.964647787750437
-[21Dec2024 06:44:09.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 9.881458657277449,14.14327243979308,6.524562164216832
-[21Dec2024 06:44:09.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 10.748656891493283,15.451185131355004,7.085870381508812
-[21Dec2024 06:44:09.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 11.642771476728626,16.70102350425742,7.66346465805168
-[21Dec2024 06:44:09.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 12.560897448942796,17.89508730043373,8.255571266570769
-[21Dec2024 06:44:09.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 13.500436776681795,19.035585192079736,8.860619973119356
-[21Dec2024 06:44:09.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 14.459072535428163,20.12463838801358,9.477210443023068
-[21Dec2024 06:44:09.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bumblebee (vehicle of Aleslug) moved too quickly! 15.434790157361363,21.16428409722387,10.104012791059859
-[21Dec2024 06:45:03.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [An Ear-Shattering Roar]
-[21Dec2024 06:46:06.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Dragon Commander]
-[21Dec2024 06:47:26.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was energized by a dragon
-[21Dec2024 06:47:49.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
-[21Dec2024 06:47:49.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
-[21Dec2024 06:47:49.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
-[21Dec2024 06:47:49.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
-[21Dec2024 06:47:49.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
-[21Dec2024 06:47:49.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=40, z=-79} BlockPos{x=130, y=38, z=-79}
-[21Dec2024 06:47:55.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[21Dec2024 06:48:06.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lait_Estrok moved too quickly! 3.156871275619551,-0.25086736114158725,9.68916028560676
-[21Dec2024 06:48:13.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! -0.12989253425635638,-11.213403912871321,-0.6180373615955546
-[21Dec2024 06:48:19.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! -5.859261232542252,8.119168973177963,3.0120564507489007
-[21Dec2024 06:48:24.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lait_Estrok moved too quickly! -9.203009055081111,1.7461092740512356,3.7470091041396927
-[21Dec2024 06:48:58.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lait_Estrok moved too quickly! 3.5638519787994483,0.7461092740512356,-9.640410483971493
-[21Dec2024 06:49:02.865] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[21Dec2024 06:49:02.866] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[21Dec2024 06:49:03.490] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 61bb549f-5857-450a-a87d-dda88f89d352
-[21Dec2024 06:49:03.545] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 18644bd4-ce42-45ef-862e-14d44cffcecb
-[21Dec2024 06:49:03.546] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Cevichecraft/servidor_minecraft/./crash-reports/crash-2024-12-21_06.49.03-server.txt
-[21Dec2024 06:49:04.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko moved too quickly! 7.473569805107331,2.249187078744683,6.538386925159784
-[21Dec2024 06:49:04.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! -3.118457853683992,8.851674601738054,3.7542671374727945
-[21Dec2024 06:49:04.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[21Dec2024 06:49:04.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[21Dec2024 06:49:05.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko lost connection: Server closed
-[21Dec2024 06:49:05.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko left the game
-[21Dec2024 06:49:05.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uskilla lost connection: Server closed
-[21Dec2024 06:49:05.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla left the game
-[21Dec2024 06:49:05.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[21Dec2024 06:49:05.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21Dec2024 06:49:06.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
-[21Dec2024 06:49:06.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
-[21Dec2024 06:49:06.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21Dec2024 06:49:06.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
-[21Dec2024 06:49:06.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
-[21Dec2024 06:49:06.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[21Dec2024 06:49:06.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[21Dec2024 06:49:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
-[21Dec2024 06:49:06.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
-[21Dec2024 06:49:06.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
-[21Dec2024 06:49:06.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
-[21Dec2024 06:49:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
-[21Dec2024 06:49:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[21Dec2024 06:49:06.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21Dec2024 06:49:06.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/doom:doom_hell
-[21Dec2024 06:49:06.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
-[21Dec2024 06:49:06.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
-[21Dec2024 06:49:06.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
-[21Dec2024 06:49:06.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
-[21Dec2024 06:49:06.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
-[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
-[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[21Dec2024 06:49:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (doom_hell): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
-[21Dec2024 06:49:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
-[21Dec2024 06:49:06.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Dec2024 06:51:35.116] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_elemental:jeed/mana_shield as it's serializer returned null
+[21Dec2024 06:51:35.146] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 68 recipes
+[21Dec2024 06:51:35.428] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6837 advancements
+[21Dec2024 06:51:35.433] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[21Dec2024 06:51:35.434] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[21Dec2024 06:51:35.435] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[21Dec2024 06:51:35.436] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[21Dec2024 06:51:35.447] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[21Dec2024 06:51:35.449] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[21Dec2024 06:51:35.449] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[21Dec2024 06:51:35.450] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[21Dec2024 06:51:35.472] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
+[21Dec2024 06:51:35.480] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[21Dec2024 06:51:35.528] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
+[21Dec2024 06:51:35.573] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[21Dec2024 06:51:39.821] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[21Dec2024 06:51:40.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Dec2024 06:51:40.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Dec2024 06:51:40.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Dec2024 06:51:40.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Dec2024 06:51:40.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Dec2024 06:51:40.501] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Dec2024 06:51:41.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Dec2024 06:51:41.307] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Dec2024 06:51:46.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Dec2024 06:51:50.990] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Dec2024 06:51:52.733] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:52.761] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:52.782] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:52.804] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:52.816] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:52.862] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:52.876] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:52.897] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:52.913] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:52.945] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:52.993] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:53.011] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:53.021] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 06:51:53.509] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[21Dec2024 06:51:53.961] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[21Dec2024 06:51:54.106] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7146 ms
+[21Dec2024 06:51:54.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.507s)! For help, type "help"
+[21Dec2024 06:51:54.168] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Dec2024 06:51:54.181] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[21Dec2024 06:51:54.192] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[21Dec2024 06:51:54.192] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[21Dec2024 06:51:54.194] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[21Dec2024 06:51:54.247] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[21Dec2024 06:51:54.247] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[21Dec2024 06:51:54.248] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[21Dec2024 06:51:54.248] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[21Dec2024 06:51:54.283] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.jei due to unsatisfied mod condition.
+[21Dec2024 06:51:54.472] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 249547 bytes (in 25 string chunks with the size of 10000)
+[21Dec2024 06:52:17.726] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Uskilla is eaedaf0c-582b-4612-ace3-7005b8b564d1
+[21Dec2024 06:52:26.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uskilla[/172.26.75.225:53608] logged in with entity id 71 at (681.2742634718803, 70.23152379758702, -432.6131237757334)
+[21Dec2024 06:52:26.105] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Uskilla
+[21Dec2024 06:52:26.106] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Uskilla
+[21Dec2024 06:52:26.107] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Uskilla
+[21Dec2024 06:52:26.107] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Uskilla
+[21Dec2024 06:52:26.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Uskilla
+[21Dec2024 06:52:26.116] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Uskilla
+[21Dec2024 06:52:26.117] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Uskilla
+[21Dec2024 06:52:26.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla joined the game
+[21Dec2024 06:52:46.422] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Aleslug is 5c145a94-18c7-4fe8-b6d5-fe7e9a1de48c
+[21Dec2024 06:52:54.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleslug[/172.26.47.31:63614] logged in with entity id 420 at (129.63842880766396, 67.79203969666051, -75.08636497282285)
+[21Dec2024 06:52:54.733] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Aleslug
+[21Dec2024 06:52:54.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Aleslug
+[21Dec2024 06:52:54.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Aleslug
+[21Dec2024 06:52:54.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Aleslug
+[21Dec2024 06:52:54.738] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Aleslug
+[21Dec2024 06:52:54.741] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Aleslug
+[21Dec2024 06:52:54.742] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Aleslug
+[21Dec2024 06:52:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug joined the game
+[21Dec2024 06:53:00.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2403ms or 48 ticks behind
+[21Dec2024 06:53:00.490] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lait_Estrok is c51acc02-1339-4355-97ed-b5159f4d8f43
+[21Dec2024 06:53:09.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lait_Estrok[/172.26.175.5:58970] logged in with entity id 685 at (1317.1066546306574, 64.41999998688698, -389.0257552170394)
+[21Dec2024 06:53:09.603] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lait_Estrok
+[21Dec2024 06:53:09.604] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lait_Estrok
+[21Dec2024 06:53:09.605] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lait_Estrok
+[21Dec2024 06:53:09.605] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lait_Estrok
+[21Dec2024 06:53:09.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lait_Estrok
+[21Dec2024 06:53:09.611] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lait_Estrok
+[21Dec2024 06:53:09.612] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lait_Estrok
+[21Dec2024 06:53:09.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok joined the game
+[21Dec2024 06:53:23.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[21Dec2024 06:53:41.927] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Joaquinxloko is 6aa90d5a-61c1-49dd-b321-8af1d22230d2
+[21Dec2024 06:53:49.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was struck with lightning by a dragon
+[21Dec2024 06:53:51.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joaquinxloko[/172.26.159.190:58374] logged in with entity id 1433 at (824.838607719524, 65.16610926093821, -579.9357440803656)
+[21Dec2024 06:53:51.607] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joaquinxloko
+[21Dec2024 06:53:51.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joaquinxloko
+[21Dec2024 06:53:51.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joaquinxloko
+[21Dec2024 06:53:51.609] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joaquinxloko
+[21Dec2024 06:53:51.611] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joaquinxloko
+[21Dec2024 06:53:51.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joaquinxloko
+[21Dec2024 06:53:51.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joaquinxloko
+[21Dec2024 06:53:51.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko joined the game
+[21Dec2024 06:53:53.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[21Dec2024 06:54:13.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5278ms or 105 ticks behind
+[21Dec2024 06:54:31.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2799ms or 55 ticks behind
+[21Dec2024 06:54:49.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3235ms or 64 ticks behind
+[21Dec2024 06:55:08.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21Dec2024 06:55:25.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok was energized by a dragon
+[21Dec2024 06:55:26.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2848ms or 56 ticks behind
+[21Dec2024 06:55:33.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Dragon Growth Hormone]
+[21Dec2024 06:55:56.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [This Boat Has Legs]
+[21Dec2024 06:56:03.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[21Dec2024 06:56:15.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [Hot Tourist Destinations]
+[21Dec2024 06:56:21.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2939ms or 58 ticks behind
+[21Dec2024 06:56:31.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [We do a little trolling...]
+[21Dec2024 06:56:45.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9722ms or 194 ticks behind
+[21Dec2024 06:57:06.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6003ms or 120 ticks behind
+[21Dec2024 06:57:24.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
+[21Dec2024 06:57:49.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! -2.1806976515347287,-10.29638411569745,1.025009333330713
+[21Dec2024 06:57:50.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11640ms or 232 ticks behind
+[21Dec2024 06:58:17.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12007ms or 240 ticks behind
+[21Dec2024 06:58:43.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10672ms or 213 ticks behind
+[21Dec2024 06:59:04.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6295ms or 125 ticks behind
+[21Dec2024 06:59:26.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7065ms or 141 ticks behind
+[21Dec2024 06:59:47.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5929ms or 118 ticks behind
+[21Dec2024 07:00:09.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6726ms or 134 ticks behind
+[21Dec2024 07:00:21.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Eternal Closure]
+[21Dec2024 07:00:27.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3429ms or 68 ticks behind
+[21Dec2024 07:00:52.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9680ms or 193 ticks behind
+[21Dec2024 07:01:12.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4627ms or 92 ticks behind
+[21Dec2024 07:01:30.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3529ms or 70 ticks behind
+[21Dec2024 07:01:48.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21Dec2024 07:02:06.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3846ms or 76 ticks behind
+[21Dec2024 07:02:24.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Strider (vehicle of Aleslug) moved wrongly! 0.5387847493172586
+[21Dec2024 07:02:24.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Strider (vehicle of Aleslug) moved wrongly! 0.7238687130662811
+[21Dec2024 07:02:24.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Strider (vehicle of Aleslug) moved wrongly! 1.0
+[21Dec2024 07:02:27.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5395ms or 107 ticks behind
+[21Dec2024 07:02:45.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3404ms or 68 ticks behind
+[21Dec2024 07:03:04.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3653ms or 73 ticks behind
+[21Dec2024 07:03:25.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6595ms or 131 ticks behind
+[21Dec2024 07:03:44.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3741ms or 74 ticks behind
+[21Dec2024 07:04:02.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[21Dec2024 07:04:16.230] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 7 in "main" inventory handler
+[21Dec2024 07:04:20.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[21Dec2024 07:04:37.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[21Dec2024 07:06:33.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21Dec2024 07:06:47.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Tunnel Treasures]
+[21Dec2024 07:07:13.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[21Dec2024 07:07:30.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
+[21Dec2024 07:07:50.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5049ms or 100 ticks behind
+[21Dec2024 07:08:08.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
+[21Dec2024 07:08:26.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[21Dec2024 07:08:46.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4625ms or 92 ticks behind
+[21Dec2024 07:09:04.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3798ms or 75 ticks behind
+[21Dec2024 07:09:22.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[21Dec2024 07:09:25.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has completed the challenge [Yo mama so fat, she digests her fetuses]
+[21Dec2024 07:09:41.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
+[21Dec2024 07:10:10.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21Dec2024 07:10:22.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2017, y=42, z=171} BlockPos{x=-2017, y=43, z=171}
+[21Dec2024 07:10:29.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3730ms or 74 ticks behind
+[21Dec2024 07:11:00.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21Dec2024 07:11:19.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3647ms or 72 ticks behind
+[21Dec2024 07:11:39.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5157ms or 103 ticks behind
+[21Dec2024 07:11:57.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[21Dec2024 07:12:15.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
+[21Dec2024 07:12:35.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[21Dec2024 07:12:55.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2235, y=56, z=307} BlockPos{x=-2235, y=56, z=306}
+[21Dec2024 07:13:18.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[21Dec2024 07:14:23.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[21Dec2024 07:14:26.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Deceived Hopes]
+[21Dec2024 07:14:43.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21Dec2024 07:15:03.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [A Burning Arena]
+[21Dec2024 07:15:09.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11191ms or 223 ticks behind
+[21Dec2024 07:15:29.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4920ms or 98 ticks behind
+[21Dec2024 07:15:50.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[21Dec2024 07:16:05.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [The Imperfect thing]
+[21Dec2024 07:16:08.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3410ms or 68 ticks behind
+[21Dec2024 07:18:14.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Mob Chef]
+[21Dec2024 07:19:59.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug was slain by Ignis
+[21Dec2024 07:23:31.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [The Parrots and the Bats]
+[21Dec2024 07:24:37.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug was slain by Ghost
+[21Dec2024 07:24:47.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/362, l='ServerLevel[world]', x=869.69, y=64.00, z=-625.31] died, message: 'Librarian was slain by Ghost'
+[21Dec2024 07:25:14.841] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/361, l='ServerLevel[world]', x=867.69, y=64.00, z=-625.31] died, message: 'Librarian was slain by Ghost'
+[21Dec2024 07:26:26.521] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GhostPlayerEntity['Aleslug'/31115, l='ServerLevel[world]', x=-2373.21, y=67.20, z=473.34] died: Aleslug was slain by Ignis
+[21Dec2024 07:27:13.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[21Dec2024 07:31:04.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has reached the goal [Horror Under the Mantle]
+[21Dec2024 07:36:08.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [The Extinguished Fire]
+[21Dec2024 07:36:37.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uskilla lost connection: Disconnected
+[21Dec2024 07:36:37.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla left the game
+[21Dec2024 07:37:23.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Unbreaking X]
+[21Dec2024 07:37:28.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 07:37:28.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[21Dec2024 07:37:41.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko lost connection: Disconnected
+[21Dec2024 07:37:41.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko left the game
+[21Dec2024 07:38:09.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lait_Estrok lost connection: Disconnected
+[21Dec2024 07:38:09.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok left the game
+[21Dec2024 07:38:19.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug lost connection: Disconnected
+[21Dec2024 07:38:19.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug left the game
+[21Dec2024 07:38:41.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Dec2024 07:38:41.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Dec2024 07:38:41.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Dec2024 07:38:41.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Dec2024 07:38:41.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Dec2024 07:38:41.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[21Dec2024 07:38:41.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[21Dec2024 07:38:41.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[21Dec2024 07:38:41.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Dec2024 07:38:41.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Dec2024 07:38:41.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[21Dec2024 07:38:41.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[21Dec2024 07:38:41.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[21Dec2024 07:38:41.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[21Dec2024 07:38:41.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[21Dec2024 07:38:41.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[21Dec2024 07:38:41.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[21Dec2024 07:38:41.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[21Dec2024 07:38:41.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/doom:doom_hell
+[21Dec2024 07:38:41.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[21Dec2024 07:38:41.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[21Dec2024 07:38:41.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[21Dec2024 07:38:41.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[21Dec2024 07:38:41.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[21Dec2024 07:38:41.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Dec2024 07:38:41.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[21Dec2024 07:38:41.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[21Dec2024 07:38:41.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[21Dec2024 07:38:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Dec2024 07:38:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Dec2024 07:38:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[21Dec2024 07:38:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[21Dec2024 07:38:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[21Dec2024 07:38:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[21Dec2024 07:38:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[21Dec2024 07:38:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[21Dec2024 07:38:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[21Dec2024 07:38:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[21Dec2024 07:38:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (doom_hell): All chunks are saved
+[21Dec2024 07:38:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[21Dec2024 07:38:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[21Dec2024 07:38:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[21Dec2024 07:38:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[21Dec2024 07:38:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[21Dec2024 07:38:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
