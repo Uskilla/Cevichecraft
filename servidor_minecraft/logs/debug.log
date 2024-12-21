@@ -10848,3 +10848,26 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [21Dec2024 00:52:22.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 00:52:22.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Dec2024 00:54:50.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko fell from a high place
+[21Dec2024 00:57:22.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 00:57:22.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 00:59:38.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joaquinxloko moved wrongly!
+[21Dec2024 01:00:42.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joaquinxloko> a
+[21Dec2024 01:02:22.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 01:02:22.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 01:03:12.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has completed the challenge [+PARRY]
+[21Dec2024 01:03:36.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was squashed by a falling anvil
+[21Dec2024 01:07:22.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 01:07:22.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 01:08:02.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was squashed by a falling anvil
+[21Dec2024 01:10:37.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was squashed by a falling anvil
+[21Dec2024 01:11:12.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko was shot by Skeleton
+[21Dec2024 01:12:22.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 01:12:22.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 01:14:23.630] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/37399, l='ServerLevel[world]', x=3588.43, y=73.00, z=632.70] died, message: 'Armorer was slain by The Somnolence'
+[21Dec2024 01:14:36.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37396, l='ServerLevel[world]', x=3579.67, y=72.00, z=669.66] died, message: 'Villager hit the ground too hard whilst trying to escape The Rod'
+[21Dec2024 01:15:25.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 01:15:25.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[21Dec2024 01:17:22.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 01:17:22.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 01:22:22.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 01:22:22.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
