@@ -10841,3 +10841,10 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [21Dec2024 00:42:22.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 00:42:22.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Dec2024 00:43:28.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has completed the challenge [Centennial]
+[21Dec2024 00:47:22.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 00:47:22.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 00:49:46.853] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[21Dec2024 00:51:08.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko fell from a high place
+[21Dec2024 00:52:22.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 00:52:22.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 00:54:50.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko fell from a high place

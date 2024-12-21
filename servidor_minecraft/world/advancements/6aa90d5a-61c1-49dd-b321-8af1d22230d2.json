@@ -1791,6 +1791,7 @@
       "minecraft:sunflower_plains": "2024-12-18 06:19:47 +0000",
       "minecraft:birch_forest": "2024-12-18 04:38:37 +0000",
       "minecraft:badlands": "2024-12-19 23:21:30 +0000",
+      "minecraft:savanna_plateau": "2024-12-21 00:49:34 +0000",
       "minecraft:beach": "2024-12-18 03:56:31 +0000",
       "minecraft:dark_forest": "2024-12-18 03:46:52 +0000",
       "minecraft:sparse_jungle": "2024-12-18 04:44:17 +0000",
@@ -10561,6 +10562,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-20 23:53:37 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-21 00:43:28 +0000"
     },
     "done": true
   },
