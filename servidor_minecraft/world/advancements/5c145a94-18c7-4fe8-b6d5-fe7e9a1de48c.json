@@ -3143,6 +3143,7 @@
       "minecraft:endermite": "2024-12-20 23:38:58 +0000",
       "minecraft:vex": "2024-12-19 05:49:05 +0000",
       "minecraft:zombie": "2024-12-18 02:49:53 +0000",
+      "minecraft:drowned": "2024-12-22 01:22:27 +0000",
       "minecraft:zombie_villager": "2024-12-19 07:45:56 +0000"
     },
     "done": false
@@ -11817,18 +11818,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2024-12-22 00:51:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2024-12-22 01:00:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
@@ -11865,12 +11854,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_boots_repairing": {
-    "criteria": {
-      "has_netherite_boots": "2024-12-22 00:43:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
@@ -11889,15 +11872,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-22 00:43:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2024-12-22 00:43:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+  "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+      "has_item": "2024-12-22 00:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-22 01:00:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-22 01:15:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-22 01:15:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-22 01:15:21 +0000"
     },
     "done": true
   },
