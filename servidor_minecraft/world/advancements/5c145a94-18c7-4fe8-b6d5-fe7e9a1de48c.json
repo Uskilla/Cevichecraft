@@ -3134,6 +3134,8 @@
       "minecraft:spider": "2024-12-18 04:36:03 +0000",
       "minecraft:piglin_brute": "2024-12-22 03:48:31 +0000",
       "minecraft:creeper": "2024-12-18 05:17:10 +0000",
+      "minecraft:wither": "2024-12-22 05:31:21 +0000",
+      "minecraft:slime": "2024-12-22 05:25:40 +0000",
       "minecraft:phantom": "2024-12-20 23:45:17 +0000",
       "minecraft:zombified_piglin": "2024-12-21 02:48:26 +0000",
       "minecraft:cave_spider": "2024-12-18 04:39:40 +0000",
@@ -11947,6 +11949,12 @@
     },
     "done": true
   },
+  "progressivebosses:recipes/misc/nether_star": {
+    "criteria": {
+      "has_shard": "2024-12-22 05:31:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2024-12-22 04:05:21 +0000"
@@ -11992,6 +12000,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2024-12-22 04:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-12-22 05:28:02 +0000"
     },
     "done": true
   },
@@ -12043,6 +12057,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2024-12-22 05:31:27 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/whirligig_sawblade": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
@@ -12052,6 +12072,12 @@
   "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-22 05:30:43 +0000"
     },
     "done": true
   },
@@ -12139,6 +12165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-22 05:31:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-22 05:22:42 +0000"
@@ -12220,6 +12252,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-22 01:38:10 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:uncertainty": {
+    "criteria": {
+      "items": "2024-12-22 05:31:22 +0000"
     },
     "done": true
   },

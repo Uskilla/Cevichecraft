@@ -11135,6 +11135,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2024-12-22 05:36:54 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_horde": {
     "criteria": {
       "kill_horde": "2024-12-22 05:22:11 +0000"
@@ -11174,6 +11180,12 @@
   "alexscaves:alexscaves/polymer_plate": {
     "criteria": {
       "cooked_dinosaur_chop": "2024-12-22 03:31:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "scarlet": "2024-12-22 05:36:00 +0000"
     },
     "done": true
   },
@@ -11340,6 +11352,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-12-22 04:20:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2024-12-22 05:26:19 +0000"
     },
     "done": true
   },
