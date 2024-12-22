@@ -11934,6 +11934,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-22 04:45:33 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
@@ -11973,6 +11979,12 @@
   "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2024-12-22 04:45:33 +0000"
     },
     "done": true
   },
@@ -12078,6 +12090,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-22 04:45:33 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_blade": {
     "criteria": {
       "has_lord_soul": "2024-12-22 03:35:39 +0000"
@@ -12093,6 +12111,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-22 04:45:08 +0000"
     },
     "done": true
   },
@@ -12252,6 +12276,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-22 04:45:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
@@ -12336,6 +12366,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2024-12-22 04:49:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
@@ -12369,6 +12405,12 @@
   "soulsweapons:recipes/combat/rageblade": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2024-12-22 04:45:33 +0000"
     },
     "done": true
   },
