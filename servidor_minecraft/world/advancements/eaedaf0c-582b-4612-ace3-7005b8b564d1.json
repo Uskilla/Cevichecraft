@@ -9650,6 +9650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-22 03:53:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-22 01:24:21 +0000"
@@ -9677,6 +9683,12 @@
   "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-22 02:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-22 04:00:45 +0000"
     },
     "done": true
   },
@@ -9776,6 +9788,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2024-12-22 04:01:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_blinds": {
     "criteria": {
       "has_log": "2024-12-22 01:24:21 +0000"
@@ -9803,6 +9821,12 @@
   "cfm:recipes/decorations/stripped_crimson_park_bench": {
     "criteria": {
       "has_log": "2024-12-22 01:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-22 04:00:45 +0000"
     },
     "done": true
   },

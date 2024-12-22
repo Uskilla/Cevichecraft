@@ -11173,6 +11173,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2024-12-22 03:57:35 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:thineded": {
     "criteria": {
       "thineded_0": "2024-12-22 03:41:48 +0000"
