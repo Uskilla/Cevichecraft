@@ -11539,6 +11539,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2024-12-22 22:20:05 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
       "licowitch_tower": "2024-12-22 22:08:03 +0000"
@@ -11560,6 +11566,12 @@
   "alexscaves:alexscaves/defeat_gum_worm": {
     "criteria": {
       "killed": "2024-12-22 22:07:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_candicorn": {
+    "criteria": {
+      "killed": "2024-12-22 22:24:03 +0000"
     },
     "done": true
   },
