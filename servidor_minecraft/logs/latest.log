@@ -678,3 +678,5 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [22Dec2024 20:46:01.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [22Dec2024 20:47:15.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [22Dec2024 20:53:16.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Chest Slayer]
+[22Dec2024 21:07:35.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Dec2024 21:07:35.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
