@@ -9662,6 +9662,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_shovel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-22 04:05:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_chair": {
     "criteria": {
       "has_planks": "2024-12-22 01:24:21 +0000"
@@ -9743,6 +9749,12 @@
   "cfm:recipes/decorations/crimson_desk": {
     "criteria": {
       "has_log": "2024-12-22 01:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:12:38 +0000"
     },
     "done": true
   },

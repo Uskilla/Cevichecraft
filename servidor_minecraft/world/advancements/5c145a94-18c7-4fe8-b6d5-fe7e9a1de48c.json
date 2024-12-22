@@ -11922,9 +11922,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-22 04:05:21 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-22 04:05:21 +0000"
     },
     "done": true
   },
@@ -11937,6 +11949,12 @@
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-22 04:11:23 +0000"
     },
     "done": true
   },
@@ -11955,6 +11973,12 @@
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2024-12-22 01:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 04:05:21 +0000"
     },
     "done": true
   },
@@ -11982,6 +12006,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2024-12-22 04:11:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
@@ -12003,6 +12033,12 @@
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-22 04:05:21 +0000"
     },
     "done": true
   },
@@ -12042,6 +12078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 04:05:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
@@ -12078,6 +12120,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2024-12-22 04:11:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-22 01:38:10 +0000"
@@ -12105,6 +12153,12 @@
   "soulsweapons:recipes/combat/soul_reaper": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2024-12-22 04:11:23 +0000"
     },
     "done": true
   },
@@ -12210,6 +12264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 04:05:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_leggings_repairing": {
     "criteria": {
       "has_netherite_leggings": "2024-12-22 01:15:21 +0000"
@@ -12222,9 +12282,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 04:05:21 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/draupnir_spear": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2024-12-22 04:11:23 +0000"
     },
     "done": true
   },
@@ -12249,6 +12327,12 @@
   "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 04:05:21 +0000"
     },
     "done": true
   },

@@ -11215,6 +11215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-22 04:08:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
       "has_sea_serpent_scales_blue": "2024-12-22 01:54:19 +0000"
@@ -11263,6 +11269,12 @@
       "pants": "2024-12-22 03:31:38 +0000",
       "helmet": "2024-12-22 03:31:35 +0000",
       "boots": "2024-12-22 03:31:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2024-12-22 04:09:13 +0000"
     },
     "done": true
   },
