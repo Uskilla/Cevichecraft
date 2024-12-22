@@ -9902,27 +9902,15 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_barrel": {
+  "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
-      "has_slabs": "2024-12-21 07:35:09 +0000"
+      "killed_by": "2024-12-21 06:56:31 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/armor_black_leggings": {
     "criteria": {
       "has_item": "2024-12-21 07:00:31 +0000"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2024-12-21 07:06:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2024-12-21 07:23:31 +0000"
     },
     "done": true
   },
@@ -9938,31 +9926,19 @@
     },
     "done": true
   },
-  "aether:recipes/combat/leather_helmet_repairing": {
-    "criteria": {
-      "has_leather_helmet": "2024-12-21 07:26:58 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:novice_spell_book": {
-    "criteria": {
-      "has_novice_spell_book": "2024-12-21 07:37:23 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "killed_by": "2024-12-21 06:56:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-12-21 07:35:09 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2024-12-21 07:00:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-21 07:00:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
     "criteria": {
       "has_item": "2024-12-21 07:00:31 +0000"
     },
@@ -9974,9 +9950,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_chestplate": {
+  "lootr:1cart": {
     "criteria": {
-      "has_item": "2024-12-21 07:00:31 +0000"
+      "opened_cart": "2024-12-21 07:06:47 +0000"
     },
     "done": true
   },
@@ -9986,15 +9962,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-21 07:23:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2024-12-21 07:26:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2024-12-21 07:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-21 07:35:09 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/trough": {
     "criteria": {
       "has_item": "2024-12-21 07:35:09 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_helmet": {
+  "ars_nouveau:novice_spell_book": {
     "criteria": {
-      "has_item": "2024-12-21 07:00:31 +0000"
+      "has_novice_spell_book": "2024-12-21 07:37:23 +0000"
     },
     "done": true
   },
