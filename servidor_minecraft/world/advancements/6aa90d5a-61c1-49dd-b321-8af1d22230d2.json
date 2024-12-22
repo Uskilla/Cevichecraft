@@ -11155,6 +11155,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/polymer_plate": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-22 03:31:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2024-12-22 01:54:25 +0000"
@@ -11230,6 +11236,15 @@
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2024-12-22 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2024-12-22 03:31:46 +0000",
+      "pants": "2024-12-22 03:31:38 +0000",
+      "helmet": "2024-12-22 03:31:35 +0000",
+      "boots": "2024-12-22 03:31:41 +0000"
     },
     "done": true
   },

@@ -1789,9 +1789,12 @@
       "minecraft:dark_forest": "2024-12-18 03:08:03 +0000",
       "minecraft:sparse_jungle": "2024-12-21 06:25:28 +0000",
       "minecraft:river": "2024-12-18 03:24:16 +0000",
+      "minecraft:stony_shore": "2024-12-22 03:33:21 +0000",
       "minecraft:dripstone_caves": "2024-12-19 23:38:48 +0000",
+      "minecraft:grove": "2024-12-22 03:33:03 +0000",
       "minecraft:forest": "2024-12-18 03:25:42 +0000",
       "minecraft:lush_caves": "2024-12-18 04:19:23 +0000",
+      "minecraft:ocean": "2024-12-22 03:27:55 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 03:25:13 +0000",
       "minecraft:meadow": "2024-12-18 06:20:33 +0000",
       "minecraft:savanna": "2024-12-20 04:27:56 +0000",
@@ -9998,6 +10001,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-22 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-22 03:31:32 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:apprentice_spell_book": {
     "criteria": {
       "has_apprentice_spell_book": "2024-12-22 01:18:07 +0000"
@@ -10010,6 +10025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 03:31:32 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2024-12-22 01:21:52 +0000"
@@ -10019,6 +10040,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-22 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-22 03:31:32 +0000"
     },
     "done": true
   },
@@ -10058,6 +10085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 03:31:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2024-12-22 01:16:06 +0000"
@@ -10070,15 +10103,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 03:31:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-22 01:16:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-22 03:31:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-22 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 03:31:32 +0000"
     },
     "done": true
   },
