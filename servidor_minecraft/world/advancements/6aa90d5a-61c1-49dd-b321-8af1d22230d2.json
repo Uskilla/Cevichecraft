@@ -11155,6 +11155,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2024-12-22 02:45:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2024-12-22 02:52:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2024-12-22 01:54:25 +0000"
@@ -11164,6 +11176,12 @@
   "the_bumblezone:combs_and_wax/comb_cutter_tool": {
     "criteria": {
       "comb_cutter_tool": "2024-12-22 02:37:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2024-12-22 02:53:24 +0000"
     },
     "done": true
   },
