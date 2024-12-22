@@ -11545,6 +11545,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2024-12-22 22:44:02 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
       "licowitch_tower": "2024-12-22 22:08:03 +0000"
