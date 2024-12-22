@@ -1786,6 +1786,7 @@
       "minecraft:snowy_slopes": "2024-12-20 00:31:46 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-20 00:07:43 +0000",
       "minecraft:taiga": "2024-12-20 00:24:40 +0000",
+      "minecraft:deep_ocean": "2024-12-22 02:16:37 +0000",
       "minecraft:frozen_river": "2024-12-20 00:31:56 +0000",
       "minecraft:cherry_grove": "2024-12-18 05:34:14 +0000",
       "minecraft:sunflower_plains": "2024-12-18 06:19:47 +0000",
@@ -1811,6 +1812,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-20 00:24:06 +0000",
       "minecraft:windswept_savanna": "2024-12-18 04:44:15 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-18 05:16:02 +0000",
+      "minecraft:flower_forest": "2024-12-22 02:15:07 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 03:54:46 +0000",
       "minecraft:meadow": "2024-12-21 00:42:04 +0000",
       "minecraft:savanna": "2024-12-18 04:58:51 +0000",
@@ -11140,6 +11142,12 @@
     },
     "done": true
   },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2024-12-22 02:10:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2024-12-22 01:54:25 +0000"
@@ -11170,9 +11178,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-22 02:07:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2024-12-22 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2024-12-22 02:07:15 +0000"
     },
     "done": true
   },

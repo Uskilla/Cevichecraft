@@ -11323,3 +11323,68 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [22Dec2024 01:56:14.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [22Dec2024 01:56:33.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [22Dec2024 01:56:51.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[22Dec2024 02:00:48.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 02:00:48.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 02:01:22.957] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -6042 -56 -3977 in 3s
+[22Dec2024 02:04:06.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25879, l='ServerLevel[world]', x=-1437.49, y=66.00, z=665.02] died, message: 'Villager was slain by The Moonflower'
+[22Dec2024 02:05:51.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 02:05:51.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 02:05:51.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -7.859991541075317,-0.12441146942231285,-7.172758746381305
+[22Dec2024 02:05:51.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -8.35634480944168,-0.11183635274721837,-7.686947933781084
+[22Dec2024 02:05:51.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -8.85007212681586,-0.09799949126431784,-8.20438660684681
+[22Dec2024 02:05:51.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -9.341295850072072,-0.08140116803268427,-8.724911245391695
+[22Dec2024 02:05:51.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -9.830133804121601,-0.06677208379389299,-9.248367522905028
+[22Dec2024 02:05:51.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -10.316699251059447,-0.05204531720022487,-9.774609815939357
+[22Dec2024 02:05:51.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -10.801101132211897,-0.040403214663683684,-10.303500511764014
+[22Dec2024 02:05:51.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -11.283443865994741,-0.03113131679738501,-10.834909529734887
+[22Dec2024 02:05:51.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -11.763446768118456,-0.023502797829465294,-11.369049310349283
+[22Dec2024 02:05:51.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -12.239837949701439,-0.015623273557750395,-11.906979910242399
+[22Dec2024 02:05:51.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -12.711787396134525,-0.005701732504206802,-12.449315634513368
+[22Dec2024 02:05:51.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -13.17924064567137,0.002253089968675681,-12.99598118046083
+[22Dec2024 02:05:51.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
+[22Dec2024 02:05:51.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:05:51.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:05:51.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:05:51.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:05:51.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:05:51.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:05:51.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:05:51.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:05:51.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:05:51.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:05:51.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:05:51.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! 7.287115632149209,-0.16283840657443704,7.881788762548467
+[22Dec2024 02:06:12.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[22Dec2024 02:06:36.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Dec2024 02:06:55.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4309ms or 86 ticks behind
+[22Dec2024 02:06:59.824] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[22Dec2024 02:07:14.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3486ms or 69 ticks behind
+[22Dec2024 02:07:15.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has reached the goal [Horror of the Depths]
+[22Dec2024 02:07:35.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5719ms or 114 ticks behind
+[22Dec2024 02:07:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [My Name is Nobody]
+[22Dec2024 02:07:54.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4265ms or 85 ticks behind
+[22Dec2024 02:08:12.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3459ms or 69 ticks behind
+[22Dec2024 02:10:35.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has completed the challenge [One eyed big skelly]
+[22Dec2024 02:11:16.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 02:11:16.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 02:14:58.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22Dec2024 02:15:15.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22Dec2024 02:15:34.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3346ms or 66 ticks behind
+[22Dec2024 02:16:00.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22Dec2024 02:16:26.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10622ms or 212 ticks behind
+[22Dec2024 02:16:40.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 02:16:40.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 02:16:40.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -8.354727111839793,0.2735319614680236,-6.184281925930463
+[22Dec2024 02:16:40.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -8.917171791411647,0.2896784532221801,-6.600446737973016
+[22Dec2024 02:16:40.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -9.479916909401481,0.3055089098584318,-7.017595346077542
+[22Dec2024 02:16:40.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -10.042946355003323,0.31928944351719224,-7.435679820078349
+[22Dec2024 02:16:40.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Joaquinxloko) moved too quickly! -10.606246482672532,0.3292815993656433,-7.854655350180565
+[22Dec2024 02:16:46.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4712ms or 94 ticks behind
+[22Dec2024 02:17:04.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3250ms or 65 ticks behind
+[22Dec2024 02:17:33.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13503ms or 270 ticks behind
+[22Dec2024 02:17:44.563] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 02:18:00.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12753ms or 255 ticks behind
+[22Dec2024 02:18:01.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 02:18:28.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12903ms or 258 ticks behind
+[22Dec2024 02:18:55.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12132ms or 242 ticks behind
+[22Dec2024 02:18:55.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
