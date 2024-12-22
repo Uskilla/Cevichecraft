@@ -11167,6 +11167,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2024-12-22 02:42:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
       "has_sea_serpent_scales_blue": "2024-12-22 01:54:19 +0000"
@@ -11206,6 +11212,12 @@
   "born_in_chaos_v1:horrorofthe_depths": {
     "criteria": {
       "horrorofthe_depths_0": "2024-12-22 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2024-12-22 02:45:28 +0000"
     },
     "done": true
   },
