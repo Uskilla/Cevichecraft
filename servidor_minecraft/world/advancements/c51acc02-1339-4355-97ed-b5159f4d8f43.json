@@ -10659,6 +10659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-22 23:38:37 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/light_blue_industrial_lamp": {
     "criteria": {
       "has_light_blue_industrial_lamp": "2024-12-22 22:08:12 +0000"
