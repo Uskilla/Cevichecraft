@@ -11135,6 +11135,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2024-12-22 05:22:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_chestplate": {
     "criteria": {
       "has_item": "2024-12-22 01:54:19 +0000"
@@ -11153,6 +11159,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2024-12-22 05:19:40 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:oneskelly": {
     "criteria": {
       "oneskelly_0": "2024-12-22 02:10:35 +0000"
@@ -11168,6 +11180,12 @@
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2024-12-22 01:54:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_boundroid": {
+    "criteria": {
+      "killed": "2024-12-22 05:24:39 +0000"
     },
     "done": true
   },
@@ -11207,6 +11225,13 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2024-12-22 05:16:45 +0000",
+      "azure": "2024-12-22 05:18:25 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/raygun": {
     "criteria": {
       "raygun": "2024-12-22 04:13:50 +0000"
@@ -11216,6 +11241,12 @@
   "the_bumblezone:combs_and_wax/comb_cutter_tool": {
     "criteria": {
       "comb_cutter_tool": "2024-12-22 02:37:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2024-12-22 05:17:04 +0000"
     },
     "done": true
   },
@@ -11297,6 +11328,12 @@
       "pants": "2024-12-22 03:31:38 +0000",
       "helmet": "2024-12-22 03:31:35 +0000",
       "boots": "2024-12-22 03:31:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2024-12-22 05:16:32 +0000"
     },
     "done": true
   },

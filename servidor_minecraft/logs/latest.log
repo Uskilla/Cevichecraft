@@ -2782,3 +2782,21 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [22Dec2024 05:15:56.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! 1.679334626422019,5.820304455110261,-8.170226939085865
 [22Dec2024 05:16:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has reached the goal [Opposites Attract]
 [22Dec2024 05:16:46.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Not a Fluid!]
+[22Dec2024 05:16:57.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [A Seedy Place]
+[22Dec2024 05:17:04.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Publicity Stunt]
+[22Dec2024 05:18:25.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Push and Pull]
+[22Dec2024 05:19:40.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has reached the goal [Magnetron No More]
+[22Dec2024 05:20:29.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has completed the challenge [Unity with Darkness]
+[22Dec2024 05:22:11.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Walking Dead]
+[22Dec2024 05:22:59.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Magic Mod Mechanic]
+[22Dec2024 05:24:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Worthless]
+[22Dec2024 05:24:45.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! 6.413759433634368,4.042050151924798,-7.358182209712254
+[22Dec2024 05:25:06.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[22Dec2024 05:25:24.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[22Dec2024 05:25:44.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4490ms or 89 ticks behind
+[22Dec2024 05:26:04.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5536ms or 110 ticks behind
+[22Dec2024 05:26:19.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Teletor's Telecore]
+[22Dec2024 05:26:23.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3958ms or 79 ticks behind
+[22Dec2024 05:26:40.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[22Dec2024 05:26:58.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3315ms or 66 ticks behind
+[22Dec2024 05:27:17.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3652ms or 73 ticks behind

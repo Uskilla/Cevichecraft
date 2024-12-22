@@ -11971,6 +11971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
@@ -11986,6 +11992,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2024-12-22 04:45:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-22 05:23:16 +0000"
     },
     "done": true
   },
@@ -12010,6 +12022,12 @@
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2024-12-22 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
     },
     "done": true
   },
@@ -12097,9 +12115,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-22 05:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_chestplate": {
     "criteria": {
       "has_item": "2024-12-22 04:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
     },
     "done": true
   },
@@ -12145,6 +12187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
@@ -12187,6 +12235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
@@ -12217,6 +12271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/leviathan_axe_left": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
@@ -12244,6 +12304,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2024-12-22 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
     },
     "done": true
   },
@@ -12403,6 +12469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/earthdive_spear": {
     "criteria": {
       "has_void_thorn": "2024-12-22 01:48:52 +0000"
@@ -12415,6 +12487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2024-12-22 04:45:33 +0000"
@@ -12424,6 +12502,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-22 01:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 05:22:42 +0000"
     },
     "done": true
   },
