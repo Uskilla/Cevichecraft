@@ -10352,15 +10352,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/deorum_nugget_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-22 20:39:46 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2024-12-22 20:53:16 +0000"
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/deorum_nugget_from_clibano_combusting": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_item": "2024-12-22 20:39:46 +0000"
+      "has_diamond_block": "2024-12-22 23:05:16 +0000"
     },
     "done": true
   },
