@@ -8251,7 +8251,8 @@
   "soulsweapons:all_weapons": {
     "criteria": {
       "featherlight": "2024-12-19 05:25:43 +0000",
-      "darkin_blade": "2024-12-22 03:35:42 +0000"
+      "darkin_blade": "2024-12-22 03:35:42 +0000",
+      "mjolnir": "2024-12-22 05:09:31 +0000"
     },
     "done": false
   },
