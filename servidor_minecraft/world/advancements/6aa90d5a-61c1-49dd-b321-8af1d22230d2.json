@@ -1788,11 +1788,13 @@
       "minecraft:mushroom_fields": "2024-12-22 02:18:32 +0000",
       "minecraft:taiga": "2024-12-20 00:24:40 +0000",
       "minecraft:deep_ocean": "2024-12-22 02:16:37 +0000",
+      "minecraft:eroded_badlands": "2024-12-22 21:24:29 +0000",
       "minecraft:frozen_river": "2024-12-20 00:31:56 +0000",
       "minecraft:cherry_grove": "2024-12-18 05:34:14 +0000",
       "minecraft:sunflower_plains": "2024-12-18 06:19:47 +0000",
       "minecraft:birch_forest": "2024-12-18 04:38:37 +0000",
       "minecraft:windswept_hills": "2024-12-22 04:30:14 +0000",
+      "minecraft:wooded_badlands": "2024-12-22 21:22:32 +0000",
       "minecraft:badlands": "2024-12-19 23:21:30 +0000",
       "minecraft:savanna_plateau": "2024-12-21 00:49:34 +0000",
       "minecraft:beach": "2024-12-18 03:56:31 +0000",
@@ -1809,6 +1811,7 @@
       "minecraft:forest": "2024-12-18 03:56:56 +0000",
       "minecraft:deep_cold_ocean": "2024-12-20 00:27:08 +0000",
       "minecraft:frozen_ocean": "2024-12-20 00:30:06 +0000",
+      "minecraft:desert": "2024-12-22 21:17:44 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-20 00:27:12 +0000",
       "minecraft:jungle": "2024-12-18 04:43:29 +0000",
       "minecraft:ocean": "2024-12-18 03:55:36 +0000",
@@ -11135,15 +11138,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/resistor_shield": {
+  "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
-      "resistor_shield": "2024-12-22 05:36:54 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_horde": {
-    "criteria": {
-      "kill_horde": "2024-12-22 05:22:11 +0000"
+      "killed_fire_dragon": "2024-12-22 01:54:16 +0000"
     },
     "done": true
   },
@@ -11153,160 +11150,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/radon_bottle": {
-    "criteria": {
-      "radon_bottle": "2024-12-22 03:01:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-22 01:54:16 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_magnetron": {
-    "criteria": {
-      "killed": "2024-12-22 05:19:40 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:oneskelly": {
-    "criteria": {
-      "oneskelly_0": "2024-12-22 02:10:35 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/polymer_plate": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2024-12-22 03:31:27 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/neodymium_ingot": {
-    "criteria": {
-      "scarlet": "2024-12-22 05:36:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_trident": {
-    "criteria": {
-      "has_item": "2024-12-22 01:54:25 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_boundroid": {
-    "criteria": {
-      "killed": "2024-12-22 05:24:39 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sulfur_dust": {
-    "criteria": {
-      "sulfur_dust": "2024-12-22 02:45:51 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_nucleeper": {
-    "criteria": {
-      "killed": "2024-12-22 03:57:35 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:thineded": {
-    "criteria": {
-      "thineded_0": "2024-12-22 03:41:48 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/arcane_crystal_dust": {
-    "criteria": {
-      "has_arcane_crystal_dust_speck": "2024-12-22 04:16:25 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_brainiac": {
-    "criteria": {
-      "killed": "2024-12-22 02:52:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
-    "criteria": {
-      "has_item": "2024-12-22 01:54:25 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/neodymium": {
-    "criteria": {
-      "scarlet": "2024-12-22 05:16:45 +0000",
-      "azure": "2024-12-22 05:18:25 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/raygun": {
-    "criteria": {
-      "raygun": "2024-12-22 04:13:50 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
-    "criteria": {
-      "comb_cutter_tool": "2024-12-22 02:37:39 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_notor": {
-    "criteria": {
-      "killed": "2024-12-22 05:17:04 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2024-12-22 04:54:35 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/uranium": {
-    "criteria": {
-      "uranium": "2024-12-22 02:53:24 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_toxic_caves": {
-    "criteria": {
-      "discover": "2024-12-22 02:42:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2024-12-22 04:08:52 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
       "has_sea_serpent_scales_blue": "2024-12-22 01:54:19 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/lich_prison": {
-    "criteria": {
-      "lich_prison": "2024-12-22 02:23:14 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_sword_repairing": {
-    "criteria": {
-      "has_diamond_sword": "2024-12-22 04:52:58 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2024-12-22 03:38:00 +0000"
     },
     "done": true
   },
@@ -11322,15 +11168,93 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-22 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-22 01:54:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-22 01:54:25 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2024-12-22 02:07:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-12-22 02:07:44 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_blue_helmet": {
+  "undead_revamp2:oneskelly": {
     "criteria": {
-      "has_item": "2024-12-22 01:54:19 +0000"
+      "oneskelly_0": "2024-12-22 02:10:35 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2024-12-22 02:23:14 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2024-12-22 02:37:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2024-12-22 02:42:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2024-12-22 02:45:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2024-12-22 02:45:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2024-12-22 02:52:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2024-12-22 02:53:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2024-12-22 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/polymer_plate": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-22 03:31:27 +0000"
     },
     "done": true
   },
@@ -11343,21 +11267,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
+  "graveyard:graveyard/corruption": {
     "criteria": {
-      "discover": "2024-12-22 05:16:32 +0000"
+      "corruption": "2024-12-22 03:38:00 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_book": {
+  "undead_revamp2:thineded": {
     "criteria": {
-      "cave_book": "2024-12-22 04:20:14 +0000"
+      "thineded_0": "2024-12-22 03:41:48 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/telecore": {
+  "alexscaves:alexscaves/defeat_nucleeper": {
     "criteria": {
-      "limestone": "2024-12-22 05:26:19 +0000"
+      "killed": "2024-12-22 03:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-22 04:08:52 +0000"
     },
     "done": true
   },
@@ -11367,15 +11297,190 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:horrorofthe_depths": {
+  "alexscaves:alexscaves/raygun": {
     "criteria": {
-      "horrorofthe_depths_0": "2024-12-22 02:07:15 +0000"
+      "raygun": "2024-12-22 04:13:50 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/toxic_paste": {
+  "forbidden_arcanus:recipes/misc/arcane_crystal_dust": {
     "criteria": {
-      "toxic_paste": "2024-12-22 02:45:28 +0000"
+      "has_arcane_crystal_dust_speck": "2024-12-22 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-22 04:20:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-22 04:52:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-22 04:54:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2024-12-22 05:16:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2024-12-22 05:16:45 +0000",
+      "azure": "2024-12-22 05:18:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2024-12-22 05:17:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2024-12-22 05:19:40 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2024-12-22 05:22:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_boundroid": {
+    "criteria": {
+      "killed": "2024-12-22 05:24:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2024-12-22 05:26:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "scarlet": "2024-12-22 05:36:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2024-12-22 05:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2024-12-22 21:26:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2024-12-22 21:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2024-12-22 21:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-12-22 21:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-22 21:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2024-12-22 21:20:37 +0000"
     },
     "done": true
   },

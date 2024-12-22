@@ -680,3 +680,26 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [22Dec2024 20:53:16.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Chest Slayer]
 [22Dec2024 21:07:35.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [22Dec2024 21:07:35.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[22Dec2024 21:10:04.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uskilla lost connection: Disconnected
+[22Dec2024 21:10:04.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla left the game
+[22Dec2024 21:12:11.263] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jose_cl13 is bce4947b-f7ee-43e9-ad77-b8aac5d638fa
+[22Dec2024 21:12:11.495] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cosmeticarmorreworked:main] rejected their client side version number
+[22Dec2024 21:12:11.496] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[22Dec2024 21:12:11.531] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f344b73[id=bce4947b-f7ee-43e9-ad77-b8aac5d638fa,name=jose_cl13,properties={textures=[com.mojang.authlib.properties.Property@58d45668]},legacy=false] (/172.26.3.206:54250) lost connection: Connection closed - mismatched mod channel list
+[22Dec2024 21:13:40.570] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Joaquinxloko is 6aa90d5a-61c1-49dd-b321-8af1d22230d2
+[22Dec2024 21:13:50.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joaquinxloko[/172.26.159.190:52253] logged in with entity id 53374 at (1634.4722579345114, 67.0, -630.3033348174794)
+[22Dec2024 21:13:50.553] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joaquinxloko
+[22Dec2024 21:13:50.553] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joaquinxloko
+[22Dec2024 21:13:50.554] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joaquinxloko
+[22Dec2024 21:13:50.554] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joaquinxloko
+[22Dec2024 21:13:50.557] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joaquinxloko
+[22Dec2024 21:13:50.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joaquinxloko
+[22Dec2024 21:13:50.564] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joaquinxloko
+[22Dec2024 21:13:50.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko joined the game
+[22Dec2024 21:15:05.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joaquinxloko> q rico quitaron esa webada
+[22Dec2024 21:18:27.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joaquinxloko> no tiene sentido q este nevando en el desierto
+[22Dec2024 21:18:37.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aleslug> XD
+[22Dec2024 21:24:11.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[22Dec2024 21:24:30.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4478ms or 89 ticks behind
+[22Dec2024 21:25:08.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[22Dec2024 21:27:03.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has reached the goal [Dark Creator]
