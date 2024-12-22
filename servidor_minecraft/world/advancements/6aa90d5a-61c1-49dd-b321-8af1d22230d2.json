@@ -11383,12 +11383,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_0": "2024-12-22 21:28:15 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-22 21:19:38 +0000"
@@ -11413,12 +11407,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed": "2024-12-22 21:40:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-22 21:19:38 +0000"
@@ -11437,15 +11425,33 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
-      "has_magnet_upgrade": "2024-12-22 21:26:00 +0000"
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-22 21:37:20 +0000"
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2024-12-22 21:20:37 +0000"
     },
     "done": true
   },
@@ -11455,17 +11461,35 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_boots": {
-    "criteria": {
-      "has_item": "2024-12-22 21:37:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_dune_armor_trim_smithing_template": "2024-12-22 21:25:19 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-22 21:25:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2024-12-22 21:26:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-12-22 21:27:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2024-12-22 21:28:15 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
@@ -11479,9 +11503,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
     "criteria": {
-      "has_sandstone": "2024-12-22 21:19:38 +0000"
+      "has_item": "2024-12-22 21:37:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-22 21:37:20 +0000"
     },
     "done": true
   },
@@ -11497,27 +11527,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+  "alexsmobs:alexsmobs/guster": {
     "criteria": {
-      "has_sandstone": "2024-12-22 21:19:38 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2024-12-22 21:27:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-22 21:25:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-22 21:19:38 +0000"
+      "killed": "2024-12-22 21:40:05 +0000"
     },
     "done": true
   },
@@ -11527,15 +11539,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
-      "has_sandstone": "2024-12-22 21:19:38 +0000"
+      "licowitch_tower": "2024-12-22 22:08:03 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/chainmail_leggings_repairing": {
+  "alexscaves:alexscaves/conversion_crucible": {
     "criteria": {
-      "has_chainmail_leggings": "2024-12-22 21:20:37 +0000"
+      "mussel": "2024-12-22 22:08:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gum_worm": {
+    "criteria": {
+      "killed": "2024-12-22 22:07:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2024-12-22 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2024-12-22 22:08:35 +0000"
     },
     "done": true
   },
