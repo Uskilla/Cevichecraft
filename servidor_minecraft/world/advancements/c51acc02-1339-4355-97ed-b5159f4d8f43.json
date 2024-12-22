@@ -10190,5 +10190,11 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_while_blinded": {
+    "criteria": {
+      "kill_while_blinded": "2024-12-22 04:55:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
