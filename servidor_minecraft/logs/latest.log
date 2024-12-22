@@ -664,3 +664,17 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [22Dec2024 19:40:48.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aleslug> Oki
 [22Dec2024 19:40:54.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aleslug> estoy lejos tmb jsjs
 [22Dec2024 19:45:57.240] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Dec2024 20:00:23.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Chompy]
+[22Dec2024 20:04:42.818] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14597, l='ServerLevel[world]', x=-3408.50, y=124.00, z=-5178.71] died, message: 'Villager was slain by Fire Dragon'
+[22Dec2024 20:05:01.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14598, l='ServerLevel[world]', x=-3359.51, y=129.00, z=-5183.79] died, message: 'Farmer was incinerated by Fire Dragon'
+[22Dec2024 20:07:28.950] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3366, y=-2, z=-5426}
+[22Dec2024 20:07:56.446] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3784, y=6, z=-5287}
+[22Dec2024 20:07:56.446] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3784, y=6, z=-5291}
+[22Dec2024 20:10:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Ancient Civilization]
+[22Dec2024 20:14:11.331] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Dec2024 20:21:36.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Sneak 100]
+[22Dec2024 20:28:26.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has completed the challenge [The Thing of Ancient Civilization]
+[22Dec2024 20:46:01.345] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Dec2024 20:46:01.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 20:47:15.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 20:53:16.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla has made the advancement [Chest Slayer]

@@ -1783,8 +1783,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-22 19:47:30 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-22 20:03:22 +0000",
+      "minecraft:taiga": "2024-12-22 20:00:45 +0000",
       "minecraft:deep_ocean": "2024-12-19 05:11:29 +0000",
       "minecraft:sunflower_plains": "2024-12-18 05:23:42 +0000",
+      "minecraft:cherry_grove": "2024-12-22 19:46:19 +0000",
       "minecraft:birch_forest": "2024-12-18 03:30:54 +0000",
       "minecraft:wooded_badlands": "2024-12-18 07:10:43 +0000",
       "minecraft:bamboo_jungle": "2024-12-19 06:42:45 +0000",
@@ -1798,16 +1802,19 @@
       "minecraft:stony_shore": "2024-12-18 07:14:54 +0000",
       "minecraft:dripstone_caves": "2024-12-19 04:53:37 +0000",
       "minecraft:grove": "2024-12-22 05:39:30 +0000",
+      "minecraft:cold_ocean": "2024-12-22 20:43:03 +0000",
       "minecraft:forest": "2024-12-18 03:13:28 +0000",
       "minecraft:lush_caves": "2024-12-18 02:48:57 +0000",
       "minecraft:desert": "2024-12-18 07:12:09 +0000",
       "minecraft:jungle": "2024-12-18 03:32:46 +0000",
       "minecraft:ocean": "2024-12-18 03:22:33 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-22 20:01:16 +0000",
       "minecraft:windswept_savanna": "2024-12-21 04:07:25 +0000",
       "minecraft:warm_ocean": "2024-12-21 02:18:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 04:03:50 +0000",
       "minecraft:flower_forest": "2024-12-19 05:15:42 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 03:09:03 +0000",
+      "minecraft:deep_dark": "2024-12-22 20:13:32 +0000",
       "minecraft:meadow": "2024-12-18 06:20:09 +0000",
       "minecraft:savanna": "2024-12-18 03:35:32 +0000",
       "minecraft:plains": "2024-12-18 03:35:17 +0000"
@@ -12645,6 +12652,120 @@
       "trickor_treat_7": "2024-12-22 05:56:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2024-12-22 20:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-12-22 20:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-22 20:21:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-22 20:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-12-22 20:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-22 20:17:34 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-22 20:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

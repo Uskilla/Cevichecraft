@@ -10346,5 +10346,17 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-22 19:43:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/deorum_nugget_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-22 20:39:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
