@@ -12028,6 +12028,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2024-12-22 05:55:50 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
@@ -12129,6 +12135,18 @@
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2024-12-22 05:55:50 +0000",
+      "trickor_treat_2": "2024-12-22 05:56:37 +0000",
+      "trickor_treat_3": "2024-12-22 05:56:37 +0000",
+      "trickor_treat_4": "2024-12-22 05:56:37 +0000",
+      "trickor_treat_5": "2024-12-22 05:56:40 +0000",
+      "trickor_treat_6": "2024-12-22 05:56:40 +0000",
+      "trickor_treat_7": "2024-12-22 05:56:41 +0000"
+    },
+    "done": false
   },
   "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
     "criteria": {
@@ -12232,6 +12250,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-22 05:45:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-22 05:45:24 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
@@ -12247,6 +12277,12 @@
   "iceandfire:recipes/combat/tide_purple_boots": {
     "criteria": {
       "has_item": "2024-12-22 04:11:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2024-12-22 05:45:24 +0000"
     },
     "done": true
   },
@@ -12334,6 +12370,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-22 05:45:24 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/mjolnir": {
     "criteria": {
       "has_item": "2024-12-22 03:35:39 +0000"
@@ -12409,6 +12451,12 @@
   "aether:recipes/combat/netherite_chestplate_repairing": {
     "criteria": {
       "has_netherite_chestplate": "2024-12-22 01:15:20 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/medium_graveyard": {
+    "criteria": {
+      "medium_graveyard": "2024-12-22 05:52:01 +0000"
     },
     "done": true
   },
@@ -12514,6 +12562,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2024-12-22 05:55:49 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/earthdive_spear": {
     "criteria": {
       "has_void_thorn": "2024-12-22 01:48:52 +0000"
@@ -12571,6 +12625,12 @@
   "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 01:55:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-22 05:45:24 +0000"
     },
     "done": true
   },
