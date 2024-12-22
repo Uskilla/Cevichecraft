@@ -1817,6 +1817,7 @@
       "minecraft:ocean": "2024-12-18 03:55:36 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 00:24:06 +0000",
       "minecraft:windswept_savanna": "2024-12-18 04:44:15 +0000",
+      "minecraft:warm_ocean": "2024-12-22 21:34:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-18 05:16:02 +0000",
       "minecraft:flower_forest": "2024-12-22 02:15:07 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 03:54:46 +0000",
@@ -11382,6 +11383,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2024-12-22 21:28:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-22 21:19:38 +0000"
@@ -11403,6 +11410,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed": "2024-12-22 21:40:05 +0000"
     },
     "done": true
   },
@@ -11430,9 +11443,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-22 21:37:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
       "has_chainmail_boots": "2024-12-22 21:20:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-22 21:37:20 +0000"
     },
     "done": true
   },
@@ -11442,9 +11467,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-22 21:28:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-22 21:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-22 21:37:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-22 21:37:20 +0000"
     },
     "done": true
   },
@@ -11469,6 +11518,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-22 21:19:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/rainbounce_boots": {
+    "criteria": {
+      "limestone": "2024-12-22 21:51:06 +0000"
     },
     "done": true
   },
