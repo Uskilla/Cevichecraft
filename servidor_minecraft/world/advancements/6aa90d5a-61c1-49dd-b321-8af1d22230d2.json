@@ -1785,6 +1785,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-20 00:31:46 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-20 00:07:43 +0000",
+      "minecraft:mushroom_fields": "2024-12-22 02:18:32 +0000",
       "minecraft:taiga": "2024-12-20 00:24:40 +0000",
       "minecraft:deep_ocean": "2024-12-22 02:16:37 +0000",
       "minecraft:frozen_river": "2024-12-20 00:31:56 +0000",
@@ -11163,6 +11164,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
       "has_sea_serpent_scales_blue": "2024-12-22 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2024-12-22 02:23:14 +0000"
     },
     "done": true
   },

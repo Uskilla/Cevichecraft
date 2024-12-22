@@ -722,3 +722,22 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [22Dec2024 02:18:28.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12903ms or 258 ticks behind
 [22Dec2024 02:18:55.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12132ms or 242 ticks behind
 [22Dec2024 02:18:55.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 02:19:11.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 02:19:29.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18999ms or 379 ticks behind
+[22Dec2024 02:19:58.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13795ms or 275 ticks behind
+[22Dec2024 02:20:25.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12363ms or 247 ticks behind
+[22Dec2024 02:20:52.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12007ms or 240 ticks behind
+[22Dec2024 02:21:08.765] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 02:21:17.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9301ms or 186 ticks behind
+[22Dec2024 02:21:35.968] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/54488, l='ServerLevel[world]', x=-3295.50, y=45.00, z=-3663.50]
+[22Dec2024 02:21:39.306] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/54544, l='ServerLevel[world]', x=-3291.50, y=40.00, z=-3663.50]
+[22Dec2024 02:21:44.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12527ms or 250 ticks behind
+[22Dec2024 02:22:24.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 02:22:30.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30675ms or 613 ticks behind
+[22Dec2024 02:22:55.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10243ms or 204 ticks behind
+[22Dec2024 02:23:14.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joaquinxloko has made the advancement [Cursed Island]
+[22Dec2024 02:24:07.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[22Dec2024 02:24:25.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3394ms or 67 ticks behind
+[22Dec2024 02:24:44.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3791ms or 75 ticks behind
+[22Dec2024 02:25:03.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
+[22Dec2024 02:25:21.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3410ms or 68 ticks behind
