@@ -10088,5 +10088,11 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-22 01:36:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
