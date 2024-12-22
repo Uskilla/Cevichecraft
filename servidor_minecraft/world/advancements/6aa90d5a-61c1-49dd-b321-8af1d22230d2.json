@@ -11185,6 +11185,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_dust": {
+    "criteria": {
+      "has_arcane_crystal_dust_speck": "2024-12-22 04:16:25 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_brainiac": {
     "criteria": {
       "killed": "2024-12-22 02:52:49 +0000"
@@ -11194,6 +11200,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2024-12-22 01:54:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2024-12-22 04:13:50 +0000"
     },
     "done": true
   },
@@ -11269,6 +11281,12 @@
       "pants": "2024-12-22 03:31:38 +0000",
       "helmet": "2024-12-22 03:31:35 +0000",
       "boots": "2024-12-22 03:31:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-22 04:20:14 +0000"
     },
     "done": true
   },
