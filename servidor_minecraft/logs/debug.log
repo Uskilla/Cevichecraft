@@ -10483,3 +10483,9 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [22Dec2024 00:38:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla joined the game
 [22Dec2024 00:38:56.789] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [22Dec2024 00:39:20.634] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[22Dec2024 00:41:31.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 00:41:31.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 00:45:44.825] [Server thread/DEBUG] [mixin/]: Mixing ActionAugmentationPolicyValidatorMixin from toomanyglyphs.mixins.json into com.hollingsworth.arsnouveau.common.spell.validation.ActionAugmentationPolicyValidator
+[22Dec2024 00:45:44.868] [Server thread/DEBUG] [mixin/]: Mixing AugmentCompatibilityValidatorMixin from toomanyglyphs.mixins.json into com.hollingsworth.arsnouveau.common.spell.validation.AugmentCompatibilityValidator
+[22Dec2024 00:46:31.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 00:46:31.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

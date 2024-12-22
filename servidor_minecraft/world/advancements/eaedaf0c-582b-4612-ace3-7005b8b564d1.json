@@ -9384,5 +9384,11 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2024-12-22 00:45:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

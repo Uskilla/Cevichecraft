@@ -11805,5 +11805,89 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-22 00:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-22 00:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-22 00:40:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
