@@ -12674,6 +12674,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2024-12-23 00:27:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
@@ -12713,6 +12719,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "doom:kill_motherdemon": {
+    "criteria": {
+      "requirement": "2024-12-23 00:34:10 +0000"
     },
     "done": true
   },
