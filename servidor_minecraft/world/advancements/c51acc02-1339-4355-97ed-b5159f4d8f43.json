@@ -10383,6 +10383,12 @@
     },
     "done": true
   },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2024-12-23 00:16:43 +0000"
+    },
+    "done": true
+  },
   "doom:argent_plate": {
     "criteria": {
       "argent_plate": "2024-12-22 22:42:33 +0000"
@@ -10404,6 +10410,12 @@
   "ad_astra:recipes/misc/white_industrial_lamp": {
     "criteria": {
       "has_white_industrial_lamp": "2024-12-22 22:08:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2024-12-22 23:48:29 +0000"
     },
     "done": true
   },

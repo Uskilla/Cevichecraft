@@ -12668,9 +12668,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
     },
     "done": true
   },
@@ -12716,9 +12728,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-22 23:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_creeper_head": "2024-12-22 20:23:12 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2024-12-23 00:03:38 +0000"
     },
     "done": true
   },
@@ -12767,6 +12797,12 @@
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2024-12-22 20:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2024-12-23 00:05:48 +0000"
     },
     "done": true
   },
@@ -12841,6 +12877,18 @@
       "has_item": "2024-12-22 23:29:09 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-22 23:51:29 +0000"
+    },
+    "done": false
   },
   "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
     "criteria": {

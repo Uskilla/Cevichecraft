@@ -11623,9 +11623,27 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/arcane_bone_meal": {
+    "criteria": {
+      "has_arcane_crystal_dust": "2024-12-22 23:51:06 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/dark_nether_star": {
     "criteria": {
       "has_obsidian_ingot": "2024-12-22 23:41:06 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/dark_rune_block_from_dark_rune": {
+    "criteria": {
+      "has_dark_rune": "2024-12-22 23:51:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/aureal_bottle": {
+    "criteria": {
+      "has_arcane_crystal_dust": "2024-12-22 23:51:06 +0000"
     },
     "done": true
   },
