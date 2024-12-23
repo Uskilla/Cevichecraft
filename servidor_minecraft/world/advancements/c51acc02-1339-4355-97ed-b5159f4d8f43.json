@@ -2591,6 +2591,7 @@
       "bread": "2024-12-18 03:49:46 +0000",
       "rotten_flesh": "2024-12-18 05:21:05 +0000",
       "salmon": "2024-12-18 05:56:57 +0000",
+      "melon_slice": "2024-12-23 01:28:50 +0000",
       "golden_carrot": "2024-12-19 23:50:35 +0000",
       "mushroom_stew": "2024-12-18 03:16:46 +0000",
       "cooked_salmon": "2024-12-18 05:52:33 +0000",
@@ -3307,18 +3308,21 @@
       "minecraft:pillager": "2024-12-18 06:34:31 +0000",
       "minecraft:blaze": "2024-12-21 04:27:28 +0000",
       "minecraft:skeleton": "2024-12-18 04:14:28 +0000",
+      "minecraft:ravager": "2024-12-23 01:24:46 +0000",
       "minecraft:ghast": "2024-12-21 04:14:35 +0000",
       "minecraft:vindicator": "2024-12-23 01:18:28 +0000",
       "minecraft:magma_cube": "2024-12-21 04:36:23 +0000",
       "minecraft:spider": "2024-12-19 04:29:37 +0000",
       "minecraft:piglin_brute": "2024-12-19 22:59:18 +0000",
       "minecraft:creeper": "2024-12-18 04:24:31 +0000",
+      "minecraft:evoker": "2024-12-23 01:23:02 +0000",
       "minecraft:zombified_piglin": "2024-12-20 05:50:04 +0000",
       "minecraft:witch": "2024-12-23 01:21:13 +0000",
       "minecraft:wither_skeleton": "2024-12-21 04:27:19 +0000",
       "minecraft:piglin": "2024-12-19 22:56:22 +0000",
       "minecraft:enderman": "2024-12-20 05:48:23 +0000",
       "minecraft:silverfish": "2024-12-21 03:45:28 +0000",
+      "minecraft:vex": "2024-12-23 01:25:14 +0000",
       "minecraft:zombie": "2024-12-18 04:11:24 +0000",
       "minecraft:drowned": "2024-12-19 04:28:31 +0000",
       "minecraft:zombie_villager": "2024-12-18 06:58:03 +0000"
@@ -10301,6 +10305,14 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2024-12-23 01:25:28 +0000",
+      "charm_collector_4": "2024-12-23 01:22:44 +0000",
+      "charm_collector_2": "2024-12-23 01:25:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-22 22:40:38 +0000"
@@ -10409,6 +10421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-23 01:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-22 22:07:38 +0000"
@@ -10478,6 +10496,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2024-12-22 22:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-23 01:28:47 +0000"
     },
     "done": true
   },
@@ -10667,6 +10691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-23 01:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-22 22:07:38 +0000"
@@ -10700,6 +10730,12 @@
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2024-12-22 22:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-23 01:27:37 +0000"
     },
     "done": true
   },
