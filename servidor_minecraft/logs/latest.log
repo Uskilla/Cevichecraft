@@ -112,3 +112,31 @@
 [23Dec2024 00:59:38.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7575ms or 151 ticks behind
 [23Dec2024 00:59:58.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
 [23Dec2024 01:01:20.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleslug has made the advancement [Argent Plate]
+[23Dec2024 01:07:31.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok burned to death
+[23Dec2024 01:08:22.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uskilla lost connection: Disconnected
+[23Dec2024 01:08:22.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla left the game
+[23Dec2024 01:09:07.484] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36858dc4[id=<null>,name=Uskilla,properties={},legacy=false] (/172.26.75.225:57722) lost connection: Disconnected
+[23Dec2024 01:09:35.946] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Uskilla is eaedaf0c-582b-4612-ace3-7005b8b564d1
+[23Dec2024 01:09:44.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uskilla[/172.26.75.225:57726] logged in with entity id 241041 at (762.5038296397846, 63.0, -457.83441699149324)
+[23Dec2024 01:09:44.231] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Uskilla
+[23Dec2024 01:09:44.231] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Uskilla
+[23Dec2024 01:09:44.231] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Uskilla
+[23Dec2024 01:09:44.232] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Uskilla
+[23Dec2024 01:09:44.235] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Uskilla
+[23Dec2024 01:09:44.237] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Uskilla
+[23Dec2024 01:09:44.238] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Uskilla
+[23Dec2024 01:09:44.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla joined the game
+[23Dec2024 01:10:21.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uskilla: Killed Uskilla]
+[23Dec2024 01:10:27.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uskilla was killed
+[23Dec2024 01:16:30.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lait_Estrok has made the advancement [Voluntary Exile]
+[23Dec2024 01:17:28.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Dec2024 01:17:29.945] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 7 in "main" inventory handler
+[23Dec2024 01:17:49.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5772ms or 115 ticks behind
+[23Dec2024 01:18:17.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[23Dec2024 01:18:42.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! 7.448977136206736,6.810484448771774,-0.8708463650020803
+[23Dec2024 01:19:38.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! 0.5209754749241711,-10.615291243291196,-1.252346271185047
+[23Dec2024 01:19:56.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uskilla moved wrongly!
+[23Dec2024 01:20:14.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[23Dec2024 01:20:37.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[23Dec2024 01:20:55.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[23Dec2024 01:21:33.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleslug moved too quickly! -1.5260732903694816,-10.911678836634294,1.562758576374904
