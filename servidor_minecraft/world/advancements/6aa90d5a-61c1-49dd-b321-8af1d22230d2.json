@@ -11639,6 +11639,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-23 01:55:06 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/dark_rune_block_from_dark_rune": {
     "criteria": {
       "has_dark_rune": "2024-12-22 23:51:55 +0000"
@@ -11648,6 +11654,12 @@
   "aether:recipes/combat/chainmail_helmet_repairing": {
     "criteria": {
       "has_chainmail_helmet": "2024-12-23 01:22:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2024-12-23 01:50:08 +0000"
     },
     "done": true
   },
