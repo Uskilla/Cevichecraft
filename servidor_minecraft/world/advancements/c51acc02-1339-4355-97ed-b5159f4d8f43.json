@@ -10319,6 +10319,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-23 01:34:36 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_gloves_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-22 22:40:38 +0000"
