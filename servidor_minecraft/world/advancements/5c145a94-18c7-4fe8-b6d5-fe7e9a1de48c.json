@@ -1787,9 +1787,11 @@
       "minecraft:old_growth_pine_taiga": "2024-12-22 20:03:22 +0000",
       "minecraft:taiga": "2024-12-22 20:00:45 +0000",
       "minecraft:deep_ocean": "2024-12-19 05:11:29 +0000",
+      "minecraft:frozen_river": "2024-12-23 03:51:44 +0000",
       "minecraft:sunflower_plains": "2024-12-18 05:23:42 +0000",
       "minecraft:cherry_grove": "2024-12-22 19:46:19 +0000",
       "minecraft:birch_forest": "2024-12-18 03:30:54 +0000",
+      "minecraft:windswept_hills": "2024-12-23 03:05:13 +0000",
       "minecraft:wooded_badlands": "2024-12-18 07:10:43 +0000",
       "minecraft:bamboo_jungle": "2024-12-19 06:42:45 +0000",
       "minecraft:badlands": "2024-12-18 07:11:56 +0000",
@@ -1800,8 +1802,10 @@
       "minecraft:river": "2024-12-18 03:19:07 +0000",
       "minecraft:lukewarm_ocean": "2024-12-18 07:14:22 +0000",
       "minecraft:stony_shore": "2024-12-18 07:14:54 +0000",
+      "minecraft:snowy_plains": "2024-12-23 03:51:33 +0000",
       "minecraft:dripstone_caves": "2024-12-19 04:53:37 +0000",
       "minecraft:grove": "2024-12-22 05:39:30 +0000",
+      "minecraft:swamp": "2024-12-23 03:00:12 +0000",
       "minecraft:cold_ocean": "2024-12-22 20:43:03 +0000",
       "minecraft:forest": "2024-12-18 03:13:28 +0000",
       "minecraft:lush_caves": "2024-12-18 02:48:57 +0000",
@@ -1816,6 +1820,7 @@
       "minecraft:old_growth_birch_forest": "2024-12-18 03:09:03 +0000",
       "minecraft:deep_dark": "2024-12-22 20:13:32 +0000",
       "minecraft:meadow": "2024-12-18 06:20:09 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-23 03:48:34 +0000",
       "minecraft:savanna": "2024-12-18 03:35:32 +0000",
       "minecraft:plains": "2024-12-18 03:35:17 +0000"
     },
@@ -3148,6 +3153,7 @@
       "minecraft:slime": "2024-12-22 05:25:40 +0000",
       "minecraft:phantom": "2024-12-20 23:45:17 +0000",
       "minecraft:zombified_piglin": "2024-12-21 02:48:26 +0000",
+      "minecraft:witch": "2024-12-23 03:11:24 +0000",
       "minecraft:wither_skeleton": "2024-12-22 22:12:07 +0000",
       "minecraft:cave_spider": "2024-12-18 04:39:40 +0000",
       "minecraft:piglin": "2024-12-21 05:09:31 +0000",
@@ -8665,6 +8671,7 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_3": "2024-12-23 04:56:38 +0000",
       "charm_collector_2": "2024-12-19 07:49:00 +0000"
     },
     "done": false
@@ -12656,117 +12663,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
-      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+      "killed_by": "2024-12-22 20:00:23 +0000"
     },
     "done": true
   },
-  "cataclysm:kill_harbinger": {
+  "cataclysm:find_ancient_factory": {
     "criteria": {
-      "theharbinger": "2024-12-22 20:28:26 +0000"
+      "factory": "2024-12-22 20:10:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+  "minecraft:recipes/misc/slime_ball": {
     "criteria": {
-      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/soul_vulture": {
-    "criteria": {
-      "killed_by": "2024-12-23 00:27:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/infused_blackstone": {
-    "criteria": {
-      "has_item": "2024-12-22 23:29:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/silver_bullet": {
-    "criteria": {
-      "has_lost_soul": "2024-12-22 23:29:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed": "2024-12-22 22:31:38 +0000"
-    },
-    "done": true
-  },
-  "doom:argent_plate": {
-    "criteria": {
-      "argent_plate": "2024-12-23 01:01:20 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:cannon": {
-    "criteria": {
-      "weapon": "2024-12-22 23:30:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
-    },
-    "done": true
-  },
-  "doom:kill_motherdemon": {
-    "criteria": {
-      "requirement": "2024-12-23 00:34:10 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/soulfire_stain": {
-    "criteria": {
-      "has_item": "2024-12-22 23:29:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/blunderbuss": {
-    "criteria": {
-      "has_lost_soul": "2024-12-22 23:29:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2024-12-22 23:51:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2024-12-22 20:23:12 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_remnant": {
-    "criteria": {
-      "ignis": "2024-12-23 00:03:38 +0000"
+      "has_slime_block": "2024-12-22 20:17:34 +0000"
     },
     "done": true
   },
@@ -12776,27 +12687,39 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/decorations/soul_lamp": {
+  "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
-      "has_item": "2024-12-22 23:29:09 +0000"
+      "has_creeper_head": "2024-12-22 20:23:12 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+  "cataclysm:kill_harbinger": {
     "criteria": {
-      "has_item": "2024-12-22 20:41:35 +0000"
+      "theharbinger": "2024-12-22 20:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/hunter_pistol": {
-    "criteria": {
-      "has_lost_soul": "2024-12-22 23:29:09 +0000"
     },
     "done": true
   },
@@ -12812,69 +12735,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2024-12-22 20:00:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_mosaic": {
-    "criteria": {
-      "has_bamboo_slab": "2024-12-23 00:05:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/stone_sword_repairing": {
-    "criteria": {
-      "has_stone_sword": "2024-12-22 22:14:19 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2024-12-23 02:15:12 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2024-12-22 22:36:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-12-22 22:12:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2024-12-22 20:17:34 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
-    "criteria": {
-      "has_item": "2024-12-22 23:29:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
-    "criteria": {
-      "has_lost_soul": "2024-12-22 23:29:09 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2024-12-22 20:10:23 +0000"
     },
     "done": true
   },
@@ -12887,42 +12750,6 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 20:28:38 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/iron_skull": {
-    "criteria": {
-      "has_item": "2024-12-22 23:29:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/soul_ingot": {
-    "criteria": {
-      "has_item": "2024-12-22 23:29:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2024-12-22 23:51:29 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
-    "criteria": {
-      "has_item": "2024-12-22 23:29:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/hunter_cannon": {
-    "criteria": {
-      "has_lost_soul": "2024-12-22 23:29:09 +0000"
     },
     "done": true
   },
@@ -12944,9 +12771,351 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-22 20:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-22 22:12:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-12-22 22:14:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2024-12-22 22:31:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-22 22:36:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/infused_blackstone": {
+    "criteria": {
+      "has_item": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/silver_bullet": {
+    "criteria": {
+      "has_lost_soul": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/soulfire_stain": {
+    "criteria": {
+      "has_item": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/blunderbuss": {
+    "criteria": {
+      "has_lost_soul": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lamp": {
+    "criteria": {
+      "has_item": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/hunter_pistol": {
+    "criteria": {
+      "has_lost_soul": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
+    "criteria": {
+      "has_lost_soul": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/iron_skull": {
+    "criteria": {
+      "has_item": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/soul_ingot": {
+    "criteria": {
+      "has_item": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
+    "criteria": {
+      "has_item": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/hunter_cannon": {
+    "criteria": {
+      "has_lost_soul": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/gatling_gun": {
     "criteria": {
       "has_lost_soul": "2024-12-22 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:cannon": {
+    "criteria": {
+      "weapon": "2024-12-22 23:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-22 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-22 23:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-22 23:51:29 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2024-12-23 00:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2024-12-23 00:05:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2024-12-23 00:27:59 +0000"
+    },
+    "done": true
+  },
+  "doom:kill_motherdemon": {
+    "criteria": {
+      "requirement": "2024-12-23 00:34:10 +0000"
+    },
+    "done": true
+  },
+  "doom:argent_plate": {
+    "criteria": {
+      "argent_plate": "2024-12-23 01:01:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-23 02:15:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 03:27:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 03:14:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 03:27:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-23 03:11:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2024-12-23 03:27:39 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2024-12-23 03:51:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-23 03:08:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2024-12-23 03:13:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-23 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 03:14:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2024-12-23 03:04:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-23 05:39:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2024-12-23 04:05:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 03:45:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 03:45:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2024-12-23 03:08:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2024-12-23 03:45:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 03:45:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-12-23 03:13:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2024-12-23 03:26:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 03:27:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-23 03:13:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 03:14:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2024-12-23 03:55:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 03:45:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-23 03:59:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 03:27:39 +0000"
     },
     "done": true
   },
